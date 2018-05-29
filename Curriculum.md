@@ -6,24 +6,26 @@ Being an avid book reader, I have found it rather difficult to find a comprehens
 
 ### Industry Standard
 
-1. **Introduction to Automata Theory, Languages, and Computation** - John E. Hopcroft and Jeffrey D. Ullman
-2. **Theory of Computer Science: Automata, Language and Computation** - Mishra & Chandrasekharan
-3. **Elements of the Theory of Computation** - Harry R. Lewis & C. H. Papadimitriou
-4. **Introduction to Formal Language and Computation** - P. Linz
+1. **Introduction to Automata Theory, Languages, and Computation** - John E. Hopcroft and Jeffrey D. Ullman (_The Cinderella Book_) [1]
+2. **Elements of the Theory of Computation** - Harry R. Lewis & C. H. Papadimitriou
+3. **Theory of Computer Science: Automata, Language and Computation** - Mishra & Chandrasekharan
 
 ### Alternative/Supplementary
 
-1. **A Text Book on Automata Theory** - Nasir & Sirmani
-2. **Introduction to Languages and The Theory of Computation** - John Martin
-3. **Computability, Complexity, and Languages: Fundamentals of Theoretical Computer Science** - Martin Davis, Ron Sigal, Elaine J. Weyuker
-4. **Introduction to the Theory of Computation** - Michael Sipser
-5. **An Introduction to the Theory of Computation** - Eitan Gurari
-6. **Theory of Computation** - James L. Hein
-7. **Models of Computation and Formal Languages** - R. Gregory Taylor
-8. **Essentials of Theoretical Computer Science** - F. D. Lewis
-9. **Automata and Computability** - Dexter C. Kozen
+1. **Introduction to Formal Language and Computation** - P. Linz
+2. **A Text Book on Automata Theory** - Nasir & Sirmani
+3. **Introduction to Languages and The Theory of Computation** - John Martin
+4. **Computability, Complexity, and Languages: Fundamentals of Theoretical Computer Science** - Martin Davis, Ron Sigal, Elaine J. Weyuker
+5. **Introduction to the Theory of Computation** - Michael Sipser
+6. **An Introduction to the Theory of Computation** - Eitan Gurari
+7. **Theory of Computation** - James L. Hein
+8. **Models of Computation and Formal Languages** - R. Gregory Taylor
+9. **Essentials of Theoretical Computer Science** - F. D. Lewis
+10. **Automata and Computability** - Dexter C. Kozen
 
+### Notes
 
+[1] - It is a reference textbook for many courses around the world. It closely matches what Jeff Ullman [teaches online at Lagunita](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about). (Duh)
 
 ### References
 
