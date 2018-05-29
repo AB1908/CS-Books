@@ -1,6 +1,6 @@
 # CS Curriculum, Textbooks and References
 
-All linked course pages often have one more more additional references should the reader wish to engage in more depth with the topic at hand. This least is by no means comprehensive, though it is an eventual target. There are also video lectures of many of courses that may or may not be linked which are better located at [GitHub link for CS video courses]().
+Being an avid book reader, I have found it rather difficult to find a comprehensive list of textbooks to use for reference and for self learning. I have, therefore, set out to create it and share it for all who wish to find the same. I have also linked courses that I could find across the web, most often the links from the first two pages of Googling, so that one may find a relevant guide to the particular course. All linked course pages often have one more more additional references should the reader wish to engage in more depth with the topic at hand. This list is by no means comprehensive, though it is an eventual target. There are also video lectures of many of courses that may or may not be linked which are better located at [GitHub link for CS video courses](). The current default branch is `dev`, which will be built upon, whereas `master` will eventually contain a complete curriculum.
 
 ## Operating Systems
 
