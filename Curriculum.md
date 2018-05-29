@@ -8,15 +8,15 @@ Being an avid book reader, I have found it rather difficult to find a comprehens
 
 1. **Introduction to Automata Theory, Languages, and Computation** - John E. Hopcroft and Jeffrey D. Ullman (_The Cinderella Book_) [1]
 2. **Elements of the Theory of Computation** - Harry R. Lewis & C. H. Papadimitriou
-3. **Theory of Computer Science: Automata, Language and Computation** - Mishra & Chandrasekharan
+3. **Introduction to the Theory of Computation** - Michael Sipser [2]
 
 ### Alternative/Supplementary
 
-1. **Introduction to Formal Language and Computation** - P. Linz
-2. **A Text Book on Automata Theory** - Nasir & Sirmani
-3. **Introduction to Languages and The Theory of Computation** - John Martin
-4. **Computability, Complexity, and Languages: Fundamentals of Theoretical Computer Science** - Martin Davis, Ron Sigal, Elaine J. Weyuker
-5. **Introduction to the Theory of Computation** - Michael Sipser
+1. **Introduction to Formal Language and Computation** - Peter Linz [4]
+2. **Theory of Computer Science: Automata, Language and Computation** - Mishra & Chandrasekharan
+3. **A Text Book on Automata Theory** - Nasir & Sirmani
+4. **Introduction to Languages and The Theory of Computation** - John Martin
+5. **Computability, Complexity, and Languages: Fundamentals of Theoretical Computer Science** - Martin Davis, Ron Sigal, Elaine J. Weyuker
 6. **An Introduction to the Theory of Computation** - Eitan Gurari
 7. **Theory of Computation** - James L. Hein
 8. **Models of Computation and Formal Languages** - R. Gregory Taylor
@@ -25,11 +25,17 @@ Being an avid book reader, I have found it rather difficult to find a comprehens
 
 ### Notes
 
-[1] - It is a reference textbook for many courses around the world. It closely matches what Jeff Ullman [teaches online at Lagunita](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about). (Duh)
+[1] - Used a reference textbook for many courses around the world. It closely matches what Jeff Ullman [teaches online at Lagunita](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about). (Duh)
+
+[2] - Used as a reference book for [UPenn's CSC 4170-50](https://www.seas.upenn.edu/~cit596/notes/dave/syllabus.html), [CS 3102 at UoV](http://www.cs.virginia.edu/~robins/cs3102/), [CS-251 at EPFL](http://theory.epfl.ch/cs251/Home.html), [CS 3800 at NU](https://course.ccs.neu.edu/cs3800f17wc/policies.html), [CS39 at Dartmouth](https://www.cs.dartmouth.edu/~ac/Teach/CS39-Spring18/)
+
+[5] - Used as a reference book for [AU's COMP 674](http://www.athabascau.ca/syllabi/comp/comp674.php), a graduate level course.
 
 ### References
 
 [Theory of Computation - Further reading](https://en.wikipedia.org/wiki/Theory_of_computation#Further_reading)
+
+[Automata Theory - Further reading](https://en.wikipedia.org/wiki/Automata_theory#Further_reading)
 
 [Scientific Computing - List of Important Publications in Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Scientific_computing)
 
@@ -111,3 +117,9 @@ NITR B.Tech Curriculum
 [CS 140 - Harvard University](http://www.eecs.harvard.edu/~cs161/)
 
 [COMS W4118 - Columbia University](http://www.cs.columbia.edu/~jae/4118/)
+
+
+
+# Miscellaneous links
+
+http://www.cs.virginia.edu/~robins/CS_readings.html
