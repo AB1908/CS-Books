@@ -4,15 +4,15 @@ This repository is to aggregate a comprehensive list of textbooks and useful ref
 
 # CS Curriculum, Textbooks and References
 
-Being an avid book reader, I have found it rather difficult to find a comprehensive list of textbooks to use for reference and for self learning. I have, therefore, set out to create it and share it for all who wish to find the same. I have also linked courses that I could find across the web, most often the links from the first two pages of Googling, so that one may find a relevant guide to the particular course. All linked course pages often have one more more additional references should the reader wish to engage in more depth with the topic at hand. This list is by no means comprehensive, though it is an eventual target. There are also video lectures of many of courses that may or may not be linked which are better located at [GitHub link for CS video courses](). The current default branch is `dev`, which will be built upon, whereas `master` will eventually contain a complete curriculum.
+Being an avid book reader, I have found it rather difficult to find a comprehensive list of textbooks to use for reference and for self learning. I have, therefore, set out to create it and share it for all who wish to find the same. I have also linked courses that I could find across the web, most often the links from the first two pages of Googling, so that one may find a relevant guide to the particular course. All linked course pages often have one more additional references should the reader wish to engage in more depth with the topic at hand. This list is by no means comprehensive, though it is an eventual target. There are also video lectures of many of courses that may or may not be linked which are better located at [GitHub link for CS video courses](). The current default branch is `dev`, which will be built upon, whereas `master` will eventually contain a complete curriculum.
 
 ## Theory of Computation
 
 ### Industry Standard
 
 1. **Introduction to Automata Theory, Languages, and Computation** - John E. Hopcroft and Jeffrey D. Ullman (_The Cinderella Book_) [1]
-2. **Elements of the Theory of Computation** - Harry R. Lewis & C. H. Papadimitriou
-3. **Introduction to the Theory of Computation** - Michael Sipser [2]
+2. **Introduction to the Theory of Computation** - Michael Sipser [2]
+3. **Elements of the Theory of Computation** - Harry R. Lewis & C. H. Papadimitriou
 
 ### Alternative/Supplementary
 
@@ -102,7 +102,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 NITR B.Tech Curriculum
 
 - Websites
-   
+
    [Operating Systems - Teach Yourself CS](https://teachyourselfcs.com/#operating-systems)  
    [Operating Systems - Best Reference Books](https://www.sanfoundry.com/best-reference-books-Operating-Systems/)  
    [Operating Systems - List of Important Publications in Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Operating_systems)  
@@ -122,7 +122,7 @@ NITR B.Tech Curriculum
     [CS3013 - Worchester Polytechnic Institute](https://web.cs.wpi.edu/~cshue/cs3013/)  
     [CS140 - Stanford University](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring18/index.php)  
     [CS422/522 - Yale University](http://flint.cs.yale.edu/cs422/)  
-    [CS 140 - Harvard University](http://www.eecs.harvard.edu/~cs161/) 
+    [CS 140 - Harvard University](http://www.eecs.harvard.edu/~cs161/)
     [COMS W4118 - Columbia University](http://www.cs.columbia.edu/~jae/4118/)  
 
 - [Xv6, a simple Unix-like teaching operating system - PDOS-MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
