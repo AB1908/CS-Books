@@ -39,7 +39,9 @@ Being an avid book reader, I have found it rather difficult to find a comprehens
 - [CS 3800 at NU](https://course.ccs.neu.edu/cs3800f17wc/policies.html)
 - [CS39 at Dartmouth](https://www.cs.dartmouth.edu/~ac/Teach/CS39-Spring18/)
 
-[5] - Used as a reference book for [AU's COMP 674](http://www.athabascau.ca/syllabi/comp/comp674.php), a graduate level course.
+[5] - Used as a reference book for
+
+- [AU's COMP 674](http://www.athabascau.ca/syllabi/comp/comp674.php), a graduate level course.
 
 ### References
 
@@ -58,6 +60,7 @@ Being an avid book reader, I have found it rather difficult to find a comprehens
    [CS-251 - École Polytechnique Fédérale de Lausanne EPFL](http://theory.epfl.ch/cs251/Home.html)  
    [CS 3800 - Northeastern University](https://course.ccs.neu.edu/cs3800f17wc/policies.html)  
    [CS39 - Dartmouth University](https://www.cs.dartmouth.edu/~ac/Teach/CS39-Spring18/)  
+   [COMP 674 - Athabasca University](http://www.athabascau.ca/syllabi/comp/comp674.php)  
 
 ## Operating Systems
 
