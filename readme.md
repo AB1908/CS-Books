@@ -50,6 +50,15 @@ Being an avid book reader, I have found it rather difficult to find a comprehens
    [Scientific Computing - List of Important Publications in Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Scientific_computing)  
    [Formal Languages and Automata Theory - Best Reference Books](https://www.sanfoundry.com/best-reference-books-formal-languages-automata-theory/)  
 
+- Courses
+
+   [Automata Theory - Stanford Lagunita](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about) (taken by **Jefferey D. Ullman** himself)  
+   [CSC 4170-50 - University of Pennsylvania](https://www.seas.upenn.edu/~cit596/notes/dave/syllabus.html)  
+   [CS 3102 - University of Virginia](http://www.cs.virginia.edu/~robins/cs3102/)  
+   [CS-251 - École Polytechnique Fédérale de Lausanne EPFL](http://theory.epfl.ch/cs251/Home.html)  
+   [CS 3800 - Northeastern University](https://course.ccs.neu.edu/cs3800f17wc/policies.html)  
+   [CS39 - Dartmouth University](https://www.cs.dartmouth.edu/~ac/Teach/CS39-Spring18/)  
+
 ## Operating Systems
 
 ### Industry Standard
