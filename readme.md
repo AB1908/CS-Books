@@ -150,6 +150,16 @@ NITR B.Tech Curriculum
 
 1. **Microcomputer Systems - The 8086/8088 Family Architecture, Programming and Design** - Liu & Gibson
 2. **Microprocessor and Interfacing** - D. V. Hall
+3. **Microprocessor Architecture, Programming, and Applications with the 8085** - R Gaonkar
+4. **Microprocessors: Principles and Applications** - A Pal
+5. **The 8051 Microcontroller and Embedded Systems : Using Assembly and C** - Muhammad Ali Mazidi
+6. **Advanced Microprocessors and Peripherals** - A K Ray and K M Bhurchandi
+7. **Fundamentals of Microprocessors And Microcontrollers** - Ram B
+
+
+### References
+
+[Microprocessors and Microcontrollers - Best Reference Books](https://www.sanfoundry.com/best-reference-books-microprocessors-microcontrollers/)
 
 
 # Miscellaneous links
