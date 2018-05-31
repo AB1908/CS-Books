@@ -1,6 +1,6 @@
 # README
 
-This repository is to aggregate a comprehensive list of textbooks and useful references for a Computer Science and Engineering Curriculum. This is an ongoing effort, and contributions are not welcome at the time. As this is in a very early stage, most of the structure and/or layout has not been decided and will be changed as seen fit. As of now, content below is also present in its separate file labeled Curriculum.
+This repository is to create a comprehensive list of textbooks and useful references for a Computer Science and Engineering Curriculum. This is an ongoing effort, and contributions are not welcome at the time. As this is in a very early stage, most of the structure and/or layout has not been decided and will be changed as seen fit. As of now, content below is also present in its separate file labeled Curriculum.
 
 # CS Curriculum, Textbooks and References
 
@@ -8,7 +8,7 @@ Being an avid book reader, I have found it rather difficult to find a comprehens
 
 ## Theory of Computation
 
-### Industry Standard
+### Standard Textbooks
 
 1. **Introduction to Automata Theory, Languages, and Computation** - John E. Hopcroft and Jeffrey D. Ullman (_The Cinderella Book_) [1]
 2. **Introduction to the Theory of Computation** - Michael Sipser [2]
@@ -64,7 +64,7 @@ Being an avid book reader, I have found it rather difficult to find a comprehens
 
 ## Operating Systems
 
-### Industry Standard
+### Standard Textbooks
 
 1. **Operating System Concepts** - J. L. Peterson & A. Silberschatz (*The Dinosaur Book*) [1]
 2. **Modern Operating Systems** - Andrew S. Tanenbum
@@ -90,7 +90,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 - [CS 385 at UIC](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 - [CM's 15-410](https://www.cs.cmu.edu/~410/)
 - [CS 347 at IITB](https://www.cse.iitb.ac.in/~mythili/teaching/cs347_autumn2016/index.html) where reading through MIT's [xv6 Operating System](https://pdos.csail.mit.edu/6.828/2012/xv6.html) is mandatory.
-- [Drexel's CS 543](https://www.cs.drexel.edu/~jjohnson/2012-13/fall/cs543/) which again recommends reading **Linux Kernel Development**.
+- [Drexel's CS 543](https://www.cs.drexel.edu/~jjohnson/2012-13/fall/cs543/) which again recommends readig **Linux Kernel Development**.
 - [CS170 at UCSB](http://www.cs.ucsb.edu/~rich/class/cs170/)
 
 [2] - Used as the reference for
@@ -139,7 +139,17 @@ NITR B.Tech Curriculum
 
 - [Xv6, a simple Unix-like teaching operating system - PDOS-MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
 
+## Microprocessors and Microcontrollers
 
+### Standard Textbooks
+
+1. **The Intel Microprocessors 8086/8088, 80186/188, 80286, 80386, 80486 and Pentium and Pentium Pro Processors, Pentium 2, Pentium 3 and Pentium 4: Architecture, Programming and Interface** - B. B. Brey
+2. **The 8051 Microcontroller and Embedded Systems** - M. A. Mazidi, J. G. Mazidi and R. D. McKinlay
+
+### Alternative/Supplementary
+
+1. **Microcomputer Systems - The 8086/8088 Family Architecture, Programming and Design** - Liu & Gibson
+2. **Microprocessor and Interfacing** - D. V. Hall
 
 
 # Miscellaneous links
