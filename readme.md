@@ -4,7 +4,7 @@ This repository is to create a comprehensive list of textbooks and useful refere
 
 # CS Curriculum, Textbooks and References
 
-Being an avid book reader, I have found it rather difficult to find a comprehensive list of textbooks to use for reference and for self learning. I have, therefore, set out to create it and share it for all who wish to find the same. I have also linked courses that I could find across the web, most often the links from the first two pages of Googling, so that one may find a relevant guide to the particular course. All linked course pages often have one more additional references should the reader wish to engage in more depth with the topic at hand. This list is by no means comprehensive, though it is an eventual target. There are also video lectures of many of courses that may or may not be linked which are better located at [GitHub link for CS video courses](). The current default branch is `dev`, which will be built upon, whereas `master` will eventually contain a complete curriculum.
+Being an avid book reader, I have found it rather difficult to find a comprehensive list of textbooks to use for reference and for self learning. I have, therefore, set out to create and share it for all who wish to find the same. I have also linked courses that I could find across the web, most often the links from the first two pages of Googling, so that one may find a relevant guide to the particular course. All linked course pages often have one more additional references should the reader wish to engage in more depth with the topic at hand. This list is by no means comprehensive, though it is an eventual target. There are also video lectures of many of courses that may or may not be linked which are better located at [GitHub link for CS video courses](). The current default branch is `dev`, which will be built upon, whereas `master` will eventually contain a complete curriculum.
 
 ## Theory of Computation
 
@@ -67,7 +67,7 @@ Being an avid book reader, I have found it rather difficult to find a comprehens
 ### Standard Textbooks
 
 1. **Operating System Concepts** - J. L. Peterson & A. Silberschatz (*The Dinosaur Book*) [1]
-2. **Modern Operating Systems** - Andrew S. Tanenbum
+2. **Modern Operating Systems** - Andrew S. Tanenbaum
 3. **Operating Systems, Internals and Design Principles** - William Stallings [2]
 
 ### Alternative/Supplementary
@@ -90,7 +90,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 - [CS 385 at UIC](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 - [CM's 15-410](https://www.cs.cmu.edu/~410/)
 - [CS 347 at IITB](https://www.cse.iitb.ac.in/~mythili/teaching/cs347_autumn2016/index.html) where reading through MIT's [xv6 Operating System](https://pdos.csail.mit.edu/6.828/2012/xv6.html) is mandatory.
-- [Drexel's CS 543](https://www.cs.drexel.edu/~jjohnson/2012-13/fall/cs543/) which again recommends readig **Linux Kernel Development**.
+- [Drexel's CS 543](https://www.cs.drexel.edu/~jjohnson/2012-13/fall/cs543/) which again recommends reading **Linux Kernel Development**.
 - [CS170 at UCSB](http://www.cs.ucsb.edu/~rich/class/cs170/)
 
 [2] - Used as the reference for
@@ -150,11 +150,11 @@ NITR B.Tech Curriculum
 
 1. **Microcomputer Systems - The 8086/8088 Family Architecture, Programming and Design** - Liu & Gibson
 2. **Microprocessor and Interfacing** - D. V. Hall
-3. **Microprocessor Architecture, Programming, and Applications with the 8085** - R Gaonkar
-4. **Microprocessors: Principles and Applications** - A Pal
+3. **Microprocessor Architecture, Programming, and Applications with the 8085** - Ramesh Gaonkar
+4. **Microprocessors: Principles and Applications** - A. Pal
 5. **The 8051 Microcontroller and Embedded Systems : Using Assembly and C** - Muhammad Ali Mazidi
-6. **Advanced Microprocessors and Peripherals** - A K Ray and K M Bhurchandi
-7. **Fundamentals of Microprocessors And Microcontrollers** - Ram B
+6. **Advanced Microprocessors and Peripherals** - A. K. Ray and K. M. Bhurchandi
+7. **Fundamentals of Microprocessors And Microcontrollers** - Ram B.
 
 
 ### References
