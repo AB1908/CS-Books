@@ -6,6 +6,20 @@ This repository is to create a comprehensive list of textbooks and useful refere
 
 Being an avid book reader, I have found it rather difficult to find a comprehensive list of textbooks to use for reference and for self learning. I have, therefore, set out to create and share it for all who wish to find the same. I have also linked courses that I could find across the web, most often the links from the first two pages of Googling, so that one may find a relevant guide to the particular course. All linked course pages often have one more additional references should the reader wish to engage in more depth with the topic at hand. This list is by no means comprehensive, though it is an eventual target. There are also video lectures of many of courses which are better located at [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses). The current default branch is `dev`, which will be built upon, whereas `master` will eventually contain a complete curriculum.
 
+## Computer Organisation and Architecture
+
+### Standard Textbooks
+
+1. **Computer Organisation** - V. C. Hamacher, Z. G. Vranesic, and Safwat G. Zaky
+2. **Computer Architecture and Organisation** - John. P. Hayes
+
+### Alternative/Supplementary
+
+1. **Computer System Architecture** - M. M. Mano
+2. **Computer Organization and Architecture – Designing for Performance** - William Stallings
+3. **Computer Organisation and Design: The Hardware/Software Interface** - David A. Pattersen and John L. Hennesy
+
+
 ## Theory of Computation
 
 ### Standard Textbooks
