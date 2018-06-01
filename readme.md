@@ -2,7 +2,7 @@
 
 This repository is to create a comprehensive list of textbooks and useful references for a Computer Science and Engineering Curriculum. This is an ongoing effort, and contributions are not welcome at the time. As this is in a very early stage, most of the structure and/or layout has not been decided and will be changed as seen fit. As of now, content below is also present in its separate file labeled Curriculum.
 
-# CS Curriculum, Textbooks and References
+# CS Curriculum Textbooks and References
 
 Being an avid book reader, I have found it rather difficult to find a comprehensive list of textbooks to use for reference and for self learning. I have, therefore, set out to create and share it for all who wish to find the same. I have also linked courses that I could find across the web, most often the links from the first two pages of Googling, so that one may find a relevant guide to the particular course. All linked course pages often have one more additional references should the reader wish to engage in more depth with the topic at hand. This list is by no means comprehensive, though it is an eventual target. There are also video lectures of many of courses which are better located at [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses). The current default branch is `dev`, which will be built upon, whereas `master` will eventually contain a complete curriculum.
 
@@ -236,15 +236,15 @@ Online courses about Microprocessors are rather difficult to come by.
 - Computer Organisation and Architecture
 
    [CS 312 - University of Missouri-St. Louis](http://www.cs.umsl.edu/~sanjiv/classes/cs312/)  
-   [CS146 - Harvard University](http://www.eecs.harvard.edu/~dbrooks/cs146-spring2004/)
-   [ECE 411 - University of Illinois](https://ece.illinois.edu/academics/courses/profile/ECE411)
-   [18-447 - Carnegie Mellon University](http://www.ece.cmu.edu/~ece447/s13/doku.php?id=schedule)
-   [CS 3410 - Cornell University](http://www.cs.cornell.edu/courses/cs3410/2016fa/)
-   [CS 61C - University of California, Berkeley](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/#Resources)
-   [CS 2505 - Virginia Tech](http://courses.cs.vt.edu/~cs2505/spring2018/)
-   [15-213/18-213 - Carnegie Mellon University](http://www.cs.cmu.edu/%7E213/)
-   [CS107 - Stanford University](http://web.stanford.edu/class/cs107/)
-   [EE382 - Stanford University](https://web.stanford.edu/class/ee382/)
+   [CS146 - Harvard University](http://www.eecs.harvard.edu/~dbrooks/cs146-spring2004/)  
+   [ECE 411 - University of Illinois](https://ece.illinois.edu/academics/courses/profile/ECE411)  
+   [18-447 - Carnegie Mellon University](http://www.ece.cmu.edu/~ece447/s13/doku.php?id=schedule)  
+   [CS 3410 - Cornell University](http://www.cs.cornell.edu/courses/cs3410/2016fa/)  
+   [CS 61C - University of California, Berkeley](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/#Resources)  
+   [CS 2505 - Virginia Tech](http://courses.cs.vt.edu/~cs2505/spring2018/)  
+   [15-213/18-213 - Carnegie Mellon University](http://www.cs.cmu.edu/%7E213/)  
+   [CS107 - Stanford University](http://web.stanford.edu/class/cs107/)  
+   [EE382 - Stanford University](https://web.stanford.edu/class/ee382/)  
 
 - Theory of Computation
 
