@@ -82,14 +82,15 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 - [TOM-2.1-CS at UT](https://wwwhome.ewi.utwente.nl/~pieter/CS-OS/)
 - [CS 372 at UT Austin](http://www.cs.utexas.edu/users/witchel/372/) although certain readings are from [1] as well.
 
-[3] - [**OSTEP**](http://pages.cs.wisc.edu/~remzi/OSTEP/) was made as a book to a course on Operating Systems, which is [freely available](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/). The professors also recommend reading classic texts such as **Linux Kernel Development** and **The C Programming Language** (K&R). It is also used as a reference for [WPI's CS 3013](https://web.cs.wpi.edu/~cshue/cs3013/). It is also my personal recommendation for an introduction to Operating Systems.
+[3] - [**OSTEP**](http://pages.cs.wisc.edu/~remzi/OSTEP/) was made as a companion for a [course on Operating Systems at UWISC](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), which is freely available. The professors also recommend reading classic texts such as **Linux Kernel Development** and **The C Programming Language** (K&R). It is also used as a reference for [WPI's CS 3013](https://web.cs.wpi.edu/~cshue/cs3013/). It is also my personal recommendation for an introduction to Operating Systems.
 
 [4] - Used as the reference for
 
 - [SU's CS140](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring18/index.php)
-- [Yale's CS422/522](http://flint.cs.yale.edu/cs422/).
+- [Yale's CS422/522](http://flint.cs.yale.edu/cs422/)
 
-[5] - Used as a mandatory reference book for [CS 161 at HU](http://www.eecs.harvard.edu/~cs161/).
+[5] - Used as the reference for
+- [CS 161 at HU](http://www.eecs.harvard.edu/~cs161/)
 
 [6] - Basically a cheaper version of [1] recommended as the reference textbook for [CU's COMS W4118](http://www.cs.columbia.edu/~jae/4118/).
 
@@ -122,7 +123,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 
 ## Courses
 
-   - Theory of Computation
+- Theory of Computation
 
    [Automata Theory - Stanford Lagunita](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about) (taken by **Jefferey D. Ullman** himself)  
    [CSC 4170-50 - University of Pennsylvania](https://www.seas.upenn.edu/~cit596/notes/dave/syllabus.html)  
@@ -132,7 +133,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
    [CS39 - Dartmouth University](https://www.cs.dartmouth.edu/~ac/Teach/CS39-Spring18/)  
    [COMP 674 - Athabasca University](http://www.athabascau.ca/syllabi/comp/comp674.php)  
 
-   - Operating Systems
+- Operating Systems
 
    [CS 6210 - Georgia Tech](https://www.omscs.gatech.edu/cs-6210-advanced-operating-systems)  
    [CS 385 - University of Illinois, Chicago](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)  
@@ -148,7 +149,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
    [CS 140 - Harvard University](http://www.eecs.harvard.edu/~cs161/)  
    [COMS W4118 - Columbia University](http://www.cs.columbia.edu/~jae/4118/)  
 
-   - Microprocessors and Microcontrollers
+- Microprocessors and Microcontrollers
 
 
 
