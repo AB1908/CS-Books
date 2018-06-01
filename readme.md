@@ -1,6 +1,6 @@
 # README
 
-This repository is to create a comprehensive list of textbooks and useful references for a Computer Science and Engineering Curriculum. This is an ongoing effort, and contributions are not welcome at the time. As this is in a very early stage, most of the structure and/or layout has not been decided and will be changed as seen fit. As of now, content below is also present in its separate file labeled Curriculum.
+This repository is intended to create and maintain a comprehensive list of textbooks and useful references for a Computer Science and Engineering Curriculum. This is an ongoing effort, and contributions, though welcome need to abide by the contributing guidelines so as to maintain order. In case you wish to contribute, please find the PR template at contributing.md .
 
 # CS Curriculum Textbooks and References
 
