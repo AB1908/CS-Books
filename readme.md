@@ -21,22 +21,44 @@ Being an avid book reader, I have found it rather difficult to find a comprehens
 3. **Computer Architecture and Organisation** - John. P. Hayes [6]
 4. **Computer Systems Design and Architecture** - Vincent P Heuring and Harry F Jordan
 5. **Fundamentals of Computer Organization and Architecture** - Mostafa Abd-El-Barr and Hesham El-Rewini
+6. **Computer Systems: a Programmer’s Perspective** - Randal E. Bryant and David R. O’Hallaron [7]
+7. **Introduction to Computing Systems: From Bits and Gates to C and Beyond** - Patt and Patel [8]
+8. **Structured Computer Organization** - Andrew S. Tanenbaum
+9. **The Principles of Computer Hardware** - A. Clements
+10. **Fundamentals of Computer Architecture** - M. Burrell
+11. **Computer Architecture: Pipelined and Parallel Processor
+Design** - Michael J. Flynn [9]
 
-<!-- ### Notes
+### Notes
 
-[TYCS](https://teachyourselfcs.com/#architecture)
+There are plenty more books than listed and more courses than I'd care to link.
 
-[1] -
+[1] - Widely regarded as an authoritative reference for Computer Organisation and Architecture. It is written by Turing Award winning Computer Scientists David Patterson and John Hennessy, but also assumes the reader is already well versed with concepts of Computer Architecture. For the beginner, [2] is widely recommended as _the_ book to start with. Used as a reference for
 
-[2] -
+- [CS146 at Harvard](http://www.eecs.harvard.edu/~dbrooks/cs146-spring2004/)
 
-[3] -
+[2] - [TYCS](https://teachyourselfcs.com/#architecture) recommends this excellent book (after going through **The Elements of Computing Systems** by Nishan and Schocken), as do I, for an introduction to the fundamental ideas of Computer Organisation and Architecture. It is extremely well written, has plenty of depth, and is built upon in [1] by the same authors. Used as a reference for
 
-[4] -
+- [CS 312 at UMSL](http://www.cs.umsl.edu/~sanjiv/classes/cs312/)
+- [ECE 411 at UI](https://ece.illinois.edu/academics/courses/profile/ECE411)
+- [B62006Y-01 at ](http://english.ucas.ac.cn/index.php/admission/undergraduate/course-syllabuses/620-school-of-computer-and-control-engineering/4471-principles-of-computer-organization) (Note: Syllabus page only)
+- [18-447 at CMU](http://www.ece.cmu.edu/~ece447/s13/doku.php?id=schedule) along with [8]
+- [CS 3410 at Cornell](http://www.cs.cornell.edu/courses/cs3410/2016fa/)
+- [CS 61C at Berkeley](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/#Resources)
 
-[5] -
+[4] - I didn't find this book stimulating at all.
 
-[6] - -->
+[6] - I found this book incredibly dull and difficult to understand. Good luck.
+
+[7] - Used as the reference for
+
+- [CS 2505 at VT](http://courses.cs.vt.edu/~cs2505/spring2018/)
+- [15-213/18-213 at CMU](http://www.cs.cmu.edu/%7E213/)
+- [CS107 at Stanford](http://web.stanford.edu/class/cs107/)
+
+[9] - Used as the reference for
+
+- [EE382 at Stanford](https://web.stanford.edu/class/ee382/)
 
 ## Theory of Computation
 
@@ -63,18 +85,18 @@ Being an avid book reader, I have found it rather difficult to find a comprehens
 
 [1] - Used a reference textbook for many courses around the world. It closely matches what Jeff Ullman [teaches online at Lagunita](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about). (Duh)
 
-[2] - Used as a reference book for
+[2] - Used as the reference for
 
 - [CS 3102 at UoV](http://www.cs.virginia.edu/~robins/cs3102/)
 - [CS-251 at EPFL](http://theory.epfl.ch/cs251/Home.html)
 - [CS 3800 at NU](https://course.ccs.neu.edu/cs3800f17wc/policies.html)
 - [CS39 at Dartmouth](https://www.cs.dartmouth.edu/~ac/Teach/CS39-Spring18/)
 
-[4] - Used as a reference book for
+[4] - Used as the reference for
 
 - [UPenn's CSC 4170-50](https://www.seas.upenn.edu/~cit596/notes/dave/syllabus.html)
 
-[5] - Used as a reference book for
+[5] - Used as the reference for
 
 - [AU's COMP 674](http://www.athabascau.ca/syllabi/comp/comp674.php), a graduate level course.
 
@@ -211,6 +233,19 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ## Courses
 
+- Computer Organisation and Architecture
+
+   [CS 312 - University of Missouri-St. Louis](http://www.cs.umsl.edu/~sanjiv/classes/cs312/)  
+   [CS146 - Harvard University](http://www.eecs.harvard.edu/~dbrooks/cs146-spring2004/)
+   [ECE 411 - University of Illinois](https://ece.illinois.edu/academics/courses/profile/ECE411)
+   [18-447 - Carnegie Mellon University](http://www.ece.cmu.edu/~ece447/s13/doku.php?id=schedule)
+   [CS 3410 - Cornell University](http://www.cs.cornell.edu/courses/cs3410/2016fa/)
+   [CS 61C - University of California, Berkeley](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/#Resources)
+   [CS 2505 - Virginia Tech](http://courses.cs.vt.edu/~cs2505/spring2018/)
+   [15-213/18-213 - Carnegie Mellon University](http://www.cs.cmu.edu/%7E213/)
+   [CS107 - Stanford University](http://web.stanford.edu/class/cs107/)
+   [EE382 - Stanford University](https://web.stanford.edu/class/ee382/)
+
 - Theory of Computation
 
    [Automata Theory - Stanford Lagunita](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about) (taken by **Jefferey D. Ullman** himself)  
@@ -264,5 +299,6 @@ Online courses about Microprocessors are rather difficult to come by.
    [Advanced Operating Systems Readings](https://www.udacity.com/wiki/ud156-readings)  
    [Microprocessors and their Architecture](https://www.byclb.com/TR/Tutorials/microprocessors/ch2_1.htm)  
    [Links to Intel  documentation](https://software.intel.com/en-us/forums/intel-isa-extensions/topic/285900)
-   [Microprocessor Design - Wikibooks](https://en.wikibooks.org/wiki/Microprocessor_Design)
+   [Microprocessor Design - Wikibooks](https://en.wikibooks.org/wiki/Microprocessor_Design)  
+
 # Miscellaneous links
