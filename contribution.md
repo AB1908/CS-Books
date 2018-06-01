@@ -54,3 +54,5 @@ Kindly follow the template below for submitting a new topic altogether. If you w
 
 ```
 Note that the `'` is a space, and the style of indentation allows for paragraphs without line breaks.
+
+**Important**: Don't forget to add the topic heading in readme.md as well as Curriculum.md!
