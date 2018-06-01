@@ -143,6 +143,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 
    [Theory of Computation - Further reading](https://en.wikipedia.org/wiki/Theory_of_computation#Further_reading)  
    [Automata Theory - Further reading](https://en.wikipedia.org/wiki/Automata_theory#Further_reading)  
+   [Operating System - Further reading](https://en.wikipedia.org/wiki/Operating_system#Futher_reading)  
    [List of Important Publications in Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)  
    [Best Reference Books - San Foundry](https://www.sanfoundry.com/best-reference-books-computer-science-engineering/)  
    [Teach Yourself CS](https://teachyourselfcs.coms)  
