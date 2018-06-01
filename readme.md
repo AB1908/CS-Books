@@ -82,7 +82,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 - [TOM-2.1-CS at UT](https://wwwhome.ewi.utwente.nl/~pieter/CS-OS/)
 - [CS 372 at UT Austin](http://www.cs.utexas.edu/users/witchel/372/) although certain readings are from [1] as well.
 
-[3] - [**OSTEP**](http://pages.cs.wisc.edu/~remzi/OSTEP/) was made as a companion for a [course on Operating Systems at UWISC](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), which is freely available. The professors also recommend reading classic texts such as **Linux Kernel Development** and **The C Programming Language** (K&R). It is also used as a reference for [WPI's CS 3013](https://web.cs.wpi.edu/~cshue/cs3013/). Apart from being my personal recommendation for an introduction to Operating Systems, it is also recommended over at [Teach Yourself Computer Science](https://teachyourselfcs.com).
+[3] - [**OSTEP**](http://pages.cs.wisc.edu/~remzi/OSTEP/) was made as a companion for a [course on Operating Systems at UWISC](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), which is freely available. The professors also recommend reading classic texts such as **Linux Kernel Development** and **The C Programming Language** (K&R). It is also used as a reference for [WPI's CS 3013](https://web.cs.wpi.edu/~cshue/cs3013/). Apart from being my personal recommendation for an introduction to Operating Systems, it is also recommended over at [Teach Yourself Computer Science](https://teachyourselfcs.com/£oeprating-systems)(_TYCS_).
 
 [4] - Used as the reference for
 
@@ -113,6 +113,8 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 
 ### Notes
 
+Online courses about Microprocessors are rather difficult to come by.
+
 [1] - Used as the reference for
 
 - [a course at UCF](http://www.cs.ucf.edu/~ahossam/teaching/microp/)
@@ -125,20 +127,43 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 
 ### Standard Textbooks
 
-1. **Computer Networks – A System Approach** - L. L. Peterson and B. S. Davie
-2. **Computer Networks** - Andrew S. Tanenbaum
+1. **Computer Networking: A Top-Down Approach** - James Kurose, Keith Ross [1]
+2. **Computer Networks – A System Approach** - Larry L. Peterson and Bruce S. Davie [2]
+3. **Computer Networks** - Andrew S. Tanenbaum [3]
 
 ### Alternative/Supplementary
 
 1. **TCP/IP protocol Suite** - Behrouz A. Forouzan
-2. **Data Communication, Computer Networks and Open Systems** - F. Halsall
-3. **Computer Networking: A Top-Down Approach** - James Kurose, Keith Ross
-4. **Data and Computer Communication** - William Stallings
+2. **Data and Computer Communication** - William Stallings [4]
+3. **Data Communication, Computer Networks and Open Systems** - F. Halsall
+4. **Data Communications and Networking** - Behrouz A. Forouzan [5]
 5. **Internetworking with TCP/IP, Volume 1** - Douglas Comer
-6. **TCP/IP Illustrated** - W. Richard Stevens
-7. **Data Communications and Networking** - Behrouz A. Forouzan
+6. **TCP/IP Illustrated, Volume 1: The Protocols** - W. Richard Stevens [6]
+7. **Unix Network Programming, Volume 1: The Sockets Networking API** - W. Richard Stevens [7]
 
 ### Notes
+
+[GATech's CS 6250](https://www.omscs.gatech.edu/cs-6250-computer-networks) has a list of useful papers [on Udacity](https://www.udacity.com/wiki/ud819/resources). There are also many more amazing resources on the web.
+
+[1] - It is recommended over at [TYCS](https://teachyourselfcs.com/#networking). Also used as the reference for
+
+- [CS60 at Dartmouth](http://www.cs.dartmouth.edu/~campbell/cs60/) where texts on Shell Scripting like **A Practical Guide to Linux Commands, Editors, and Shell Programming** by Mark G. Sobell are also recommended
+- [CS 356 at UT Austin](http://www.cs.utexas.edu/users/lam/cs356/)
+- [COS 461 at Princeton](https://www.cs.princeton.edu/courses/archive/spring17/cos461/) along with [2]
+- [CS244A at Stanford](http://web.stanford.edu/class/cs244a/)
+
+[2] - Used as the reference for
+
+- [15-441 at CMU](https://www.cs.cmu.edu/~prs/15-441-F16/)
+- [Computer Networks at OX](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/networks/) along with [3]
+- [CS 640 at UWISC](http://pages.cs.wisc.edu/~pb/cs640.html)
+
+[4] - Used as the reference for
+- [CS 408 at SU](http://people.sabanciuniv.edu/levi/cs408/)
+
+[5] - It is regarded as the standard textbook in the field [according to Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Networking).
+
+[6], [7] - Widely recommended in many courses listed above for additional reading, especially at Princeton, Stanford and UWISC.
 
 # References
 
@@ -147,6 +172,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
    [Theory of Computation - Further reading](https://en.wikipedia.org/wiki/Theory_of_computation#Further_reading)  
    [Automata Theory - Further reading](https://en.wikipedia.org/wiki/Automata_theory#Further_reading)  
    [Operating System - Further reading](https://en.wikipedia.org/wiki/Operating_system#Futher_reading)  
+   [Computer Network - Further Reading](https://en.wikipedia.org/wiki/Computer_network#Further_reading)  
    [List of Important Publications in Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)  
    [Best Reference Books - San Foundry](https://www.sanfoundry.com/best-reference-books-computer-science-engineering/)  
    [Teach Yourself CS](https://teachyourselfcs.coms)  
@@ -172,7 +198,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
    [CS170 - University of California, Santa Barbara](http://www.cs.ucsb.edu/~rich/class/cs170/)  
    [TOM-2.1-CS - University of Twente](https://wwwhome.ewi.utwente.nl/~pieter/CS-OS/)  
    [CS 372 - University of Texas, Austin](http://www.cs.utexas.edu/users/witchel/372/)  
-   [CS-537 - University of Wisconsin, Madison](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)  
+   [CS-537 - University of Wisconsin-Madison](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)  
    [CS3013 - Worchester Polytechnic Institute](https://web.cs.wpi.edu/~cshue/cs3013/)  
    [CS140 - Stanford University](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring18/index.php)  
    [CS422/522 - Yale University](http://flint.cs.yale.edu/cs422/)  
@@ -184,6 +210,19 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
    [Fundamentals of Microprocessors - University of Central Florida](http://www.cs.ucf.edu/~ahossam/teaching/microp/)  
    [CS758: Building Microprocessors - University of Wisconsin](http://pages.cs.wisc.edu/~karu/courses/cs758/fall2011/wiki/index.php)  
 
+- Computer Networks
+
+   [CS 6250 - Georgia Institute of Technology](https://www.omscs.gatech.edu/cs-6250-computer-networks)  
+   [CS60 - Dartmouth University](http://www.cs.dartmouth.edu/~campbell/cs60/)  
+   [CS 356 - University of Texas, Austin](http://www.cs.utexas.edu/users/lam/cs356/)  
+   [COS 461 - Princeton University](https://www.cs.princeton.edu/courses/archive/spring17/cos461/)  
+   [CS244A - Stanford University](http://web.stanford.edu/class/cs244a/)  
+   [15-441 - Carnegie Mellon University](https://www.cs.cmu.edu/~prs/15-441-F16/)  
+   [Computer Networks - Oxford University](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/networks/)  
+   [CS 640 - University of Wisconsin-Madison](http://pages.cs.wisc.edu/~pb/cs640.html)  
+   [CS 408 - Sabancı Üniversitesi](http://people.sabanciuniv.edu/levi/cs408/)  
+   [CS 527 - University of British Columbia](https://www.cs.ubc.ca/~bestchai/teaching/cs527_2015w1/index.html) is a PhD level course judging by appearance, so it has not been linked in the relevant section.
+
 
 ## Resources
 
@@ -194,5 +233,4 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
    [Microprocessors and their Architecture](https://www.byclb.com/TR/Tutorials/microprocessors/ch2_1.htm)  
    [Links to Intel  documentation](https://software.intel.com/en-us/forums/intel-isa-extensions/topic/285900)
    [Microprocessor Design - Wikibooks](https://en.wikibooks.org/wiki/Microprocessor_Design)
-
 # Miscellaneous links
