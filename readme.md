@@ -10,15 +10,33 @@ Being an avid book reader, I have found it rather difficult to find a comprehens
 
 ### Standard Textbooks
 
-1. **Computer Organisation** - V. C. Hamacher, Z. G. Vranesic, and Safwat G. Zaky
-2. **Computer Architecture and Organisation** - John. P. Hayes
+1. **Computer Architecture: A Quantitative Approach** - David A. Patterson and John L. Hennessy [1]
+2. **Computer Organisation and Design: The Hardware/Software Interface** - David A. Patterson and John L. Hennessy [2]
+3. **Computer Organisation** - V. C. Hamacher, Zvonko G. Vranesic and Safwat G. Zaky [3]
 
 ### Alternative/Supplementary
 
-1. **Computer System Architecture** - M. M. Mano
-2. **Computer Organization and Architecture – Designing for Performance** - William Stallings
-3. **Computer Organisation and Design: The Hardware/Software Interface** - David A. Pattersen and John L. Hennesy
+1. **Computer System Architecture** - M. Morris Mano [4]
+2. **Computer Organization and Architecture: Designing for Performance** - William Stallings [5]
+3. **Computer Architecture and Organisation** - John. P. Hayes [6]
+4. **Computer Systems Design and Architecture** - Vincent P Heuring and Harry F Jordan
+5. **Fundamentals of Computer Organization and Architecture** - Mostafa Abd-El-Barr and Hesham El-Rewini
 
+<!-- ### Notes
+
+[TYCS](https://teachyourselfcs.com/#architecture)
+
+[1] -
+
+[2] -
+
+[3] -
+
+[4] -
+
+[5] -
+
+[6] - -->
 
 ## Theory of Computation
 
@@ -64,7 +82,7 @@ Being an avid book reader, I have found it rather difficult to find a comprehens
 
 ### Standard Textbooks
 
-1. **Operating System Concepts** - J. L. Peterson & A. Silberschatz (*The Dinosaur Book*) [1]
+1. **Operating System Concepts** - J. L. Peterson and A. Silberschatz (*The Dinosaur Book*) [1]
 2. **Modern Operating Systems** - Andrew S. Tanenbaum
 3. **Operating Systems, Internals and Design Principles** - William Stallings [2]
 
@@ -118,7 +136,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 
 ### Alternative/Supplementary
 
-1. **Microcomputer Systems - The 8086/8088 Family Architecture, Programming and Design** - Liu & Gibson
+1. **Microcomputer Systems - The 8086/8088 Family Architecture, Programming and Design** - Liu and Gibson
 2. **The 8051 Microcontroller and Embedded Systems** - M. A. Mazidi, J. G. Mazidi and R. D. McKinlay
 3. **Microprocessors: Principles and Applications** - A. Pal
 4. **The 8051 Microcontroller and Embedded Systems : Using Assembly and C** - Muhammad Ali Mazidi
@@ -141,7 +159,7 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Standard Textbooks
 
-1. **Computer Networking: A Top-Down Approach** - James Kurose, Keith Ross [1]
+1. **Computer Networking: A Top-Down Approach** - James Kurose and Keith Ross [1]
 2. **Computer Networks – A System Approach** - Larry L. Peterson and Bruce S. Davie [2]
 3. **Computer Networks** - Andrew S. Tanenbaum [3]
 
