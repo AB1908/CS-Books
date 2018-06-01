@@ -126,13 +126,16 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 ### Standard Textbooks
 
 1. **Computer Networks – A System Approach** - L. L. Peterson and B. S. Davie
-2. **Computer Networks** - A. S. Tanenbaum
+2. **Computer Networks** - Andrew S. Tanenbaum
 
 ## Alternative/Supplementary
 
-1. **TCP/IP protocol Suite** - B. A. Forouzan
+1. **TCP/IP protocol Suite** - Behrouz A. Forouzan
 2. **Data Communication, Computer Networks and Open Systems** - F. Halsall
 3. **Computer Networking: A Top-Down Approach** - James Kurose, Keith Ross
+4. **Data and Computer Communication** - William Stallings
+5. **Internetworking with TCP/IP, Volume 1** - Douglas Comer
+6. **TCP/IP Illustrated** - W. Richard Stevens
 
 # References
 
