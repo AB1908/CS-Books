@@ -128,7 +128,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 1. **Computer Networks – A System Approach** - L. L. Peterson and B. S. Davie
 2. **Computer Networks** - Andrew S. Tanenbaum
 
-## Alternative/Supplementary
+### Alternative/Supplementary
 
 1. **TCP/IP protocol Suite** - Behrouz A. Forouzan
 2. **Data Communication, Computer Networks and Open Systems** - F. Halsall
@@ -136,6 +136,9 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 4. **Data and Computer Communication** - William Stallings
 5. **Internetworking with TCP/IP, Volume 1** - Douglas Comer
 6. **TCP/IP Illustrated** - W. Richard Stevens
+7. **Data Communications and Networking** - Behrouz A. Forouzan
+
+### Notes
 
 # References
 
