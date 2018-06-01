@@ -121,6 +121,18 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 
 - [IITK's CS43003](http://www.facweb.iitkgp.ernet.in/~apal/files/microprocessor_04.pdf) (Note: Syllabus page only)
 
+## Computer Networks
+
+### Standard Textbooks
+
+1. **Computer Networks – A System Approach** - L. L. Peterson and B. S. Davie
+2. **Computer Networks** - A. S. Tanenbaum
+
+## Alternative/Supplementary
+
+1. **TCP/IP protocol Suite** - B. A. Forouzan
+2. **Data Communication, Computer Networks and Open Systems** - F. Halsall
+
 # References
 
 ## Websites
