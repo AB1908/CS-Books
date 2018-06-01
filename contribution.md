@@ -1,3 +1,6 @@
+Kindly follow the template below for submitting a new topic altogether. If you wish to contribute to an already existing topic, open a relevant issue, make the necessary changes in a fork, and submit a pull request.
+
+```
 ## Topic Heading Here
 
 ### Standard Textbooks
@@ -26,21 +29,20 @@
 
 # References
 
-- NIT Rourkela Curricula (because that's what I'm basing this off of)
-- [XYZ Curricula at XYZ University](hyperlink-to-curricula-if-available)
+- [XYZ Curricula at XYZ University](hyperlink-to-curricula)
 
 ## Websites
 
-   [some-wikipedia-page](with-wikipedia-link-here)  
-   [some-other-page](with-link-here)  
+'''[some-wikipedia-page](with-wikipedia-link-here)''
+'''[some-other-page](with-link-here)''
 
 ## Courses
 
 - Topic-name
 
-  [CSXXX - Full-univ-name-here](hyperlink-to-course)  
-  [CSXXX - Full-univ-name-here](hyperlink-to-course)  
-  [CSXXX - Full-univ-name-here](hyperlink-to-course)  
+'''[CSXXX - Full-univ-name-here](hyperlink-to-course)''
+'''[CSXXX - Full-univ-name-here](hyperlink-to-course)''
+'''[CSXXX - Full-univ-name-here](hyperlink-to-course)''
 
 ## Resources
 
@@ -50,3 +52,5 @@
 
 - Uncategorized reference
 
+```
+Note that the `'` is a space, and the style of indentation allows for paragraphs without line breaks.
