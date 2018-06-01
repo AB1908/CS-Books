@@ -98,18 +98,28 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 
 ### Standard Textbooks
 
-1. **The Intel Microprocessors 8086/8088, 80186/188, 80286, 80386, 80486 and Pentium and Pentium Pro Processors, Pentium 2, Pentium 3 and Pentium 4: Architecture, Programming and Interface** - B. B. Brey
-2. **The 8051 Microcontroller and Embedded Systems** - M. A. Mazidi, J. G. Mazidi and R. D. McKinlay
+1. **The Intel Microprocessors - Architecture Programming And Interfacing** - Barry B. Brey [1]
+2. **Microprocessor and Interfacing** - D. V. Hall
+3. **Microprocessor Architecture, Programming, and Applications with the 8085** - Ramesh Gaonkar [5]
 
 ### Alternative/Supplementary
 
 1. **Microcomputer Systems - The 8086/8088 Family Architecture, Programming and Design** - Liu & Gibson
-2. **Microprocessor and Interfacing** - D. V. Hall
-3. **Microprocessor Architecture, Programming, and Applications with the 8085** - Ramesh Gaonkar
-4. **Microprocessors: Principles and Applications** - A. Pal
-5. **The 8051 Microcontroller and Embedded Systems : Using Assembly and C** - Muhammad Ali Mazidi
-6. **Advanced Microprocessors and Peripherals** - A. K. Ray and K. M. Bhurchandi
-7. **Fundamentals of Microprocessors And Microcontrollers** - Ram B.
+2. **The 8051 Microcontroller and Embedded Systems** - M. A. Mazidi, J. G. Mazidi and R. D. McKinlay
+3. **Microprocessors: Principles and Applications** - A. Pal
+4. **The 8051 Microcontroller and Embedded Systems : Using Assembly and C** - Muhammad Ali Mazidi
+5. **Advanced Microprocessors and Peripherals** - A. K. Ray and K. M. Bhurchandi
+6. **Fundamentals of Microprocessors And Microcontrollers** - Ram B.
+
+### Notes
+
+[1] - Used as the reference for
+
+- [a course at UCF](http://www.cs.ucf.edu/~ahossam/teaching/microp/)
+
+[5] - Used as the reference for
+
+- [IITK's CS43003](http://www.facweb.iitkgp.ernet.in/~apal/files/microprocessor_04.pdf)
 
 # References
 
@@ -159,5 +169,9 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
    [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
    [Advanced Operating Systems Readings](https://www.udacity.com/wiki/ud156-readings)  
    [CS Readings](http://www.cs.virginia.edu/~robins/CS_readings.html)
+   [Microprocessors and their Architecture](https://www.byclb.com/TR/Tutorials/microprocessors/ch2_1.htm)  
+   [Links to instruction documentation](https://software.intel.com/en-us/forums/intel-isa-extensions/topic/285900)
+   [Microprocessor Design - Wikibooks](https://en.wikibooks.org/wiki/Microprocessor_Design)
+   [CS758: Building Microprocessors - University of Wisconsin](http://pages.cs.wisc.edu/~karu/courses/cs758/fall2011/wiki/index.php)
 
 # Miscellaneous links
