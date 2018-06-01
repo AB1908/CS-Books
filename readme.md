@@ -119,7 +119,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 
 [5] - Used as the reference for
 
-- [IITK's CS43003](http://www.facweb.iitkgp.ernet.in/~apal/files/microprocessor_04.pdf)
+- [IITK's CS43003](http://www.facweb.iitkgp.ernet.in/~apal/files/microprocessor_04.pdf) (Note: Syllabus page only)
 
 # References
 
@@ -161,17 +161,18 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 
 - Microprocessors and Microcontrollers
 
+   [Fundamentals of Microprocessors - University of Central Florida](http://www.cs.ucf.edu/~ahossam/teaching/microp/)  
+   [CS758: Building Microprocessors - University of Wisconsin](http://pages.cs.wisc.edu/~karu/courses/cs758/fall2011/wiki/index.php)  
 
 
 ## Resources
 
+   [CS Readings](http://www.cs.virginia.edu/~robins/CS_readings.html)
    [Xv6, a simple Unix-like teaching operating system - PDOS-MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)  
    [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
    [Advanced Operating Systems Readings](https://www.udacity.com/wiki/ud156-readings)  
-   [CS Readings](http://www.cs.virginia.edu/~robins/CS_readings.html)
    [Microprocessors and their Architecture](https://www.byclb.com/TR/Tutorials/microprocessors/ch2_1.htm)  
-   [Links to instruction documentation](https://software.intel.com/en-us/forums/intel-isa-extensions/topic/285900)
+   [Links to Intel  documentation](https://software.intel.com/en-us/forums/intel-isa-extensions/topic/285900)
    [Microprocessor Design - Wikibooks](https://en.wikibooks.org/wiki/Microprocessor_Design)
-   [CS758: Building Microprocessors - University of Wisconsin](http://pages.cs.wisc.edu/~karu/courses/cs758/fall2011/wiki/index.php)
 
 # Miscellaneous links
