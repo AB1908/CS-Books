@@ -4,7 +4,7 @@ This repository is to create a comprehensive list of textbooks and useful refere
 
 # CS Curriculum, Textbooks and References
 
-Being an avid book reader, I have found it rather difficult to find a comprehensive list of textbooks to use for reference and for self learning. I have, therefore, set out to create and share it for all who wish to find the same. I have also linked courses that I could find across the web, most often the links from the first two pages of Googling, so that one may find a relevant guide to the particular course. All linked course pages often have one more additional references should the reader wish to engage in more depth with the topic at hand. This list is by no means comprehensive, though it is an eventual target. There are also video lectures of many of courses that may or may not be linked which are better located at [GitHub link for CS video courses](). The current default branch is `dev`, which will be built upon, whereas `master` will eventually contain a complete curriculum.
+Being an avid book reader, I have found it rather difficult to find a comprehensive list of textbooks to use for reference and for self learning. I have, therefore, set out to create and share it for all who wish to find the same. I have also linked courses that I could find across the web, most often the links from the first two pages of Googling, so that one may find a relevant guide to the particular course. All linked course pages often have one more additional references should the reader wish to engage in more depth with the topic at hand. This list is by no means comprehensive, though it is an eventual target. There are also video lectures of many of courses which are better located at [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses). The current default branch is `dev`, which will be built upon, whereas `master` will eventually contain a complete curriculum.
 
 ## Theory of Computation
 
@@ -163,7 +163,7 @@ Online courses about Microprocessors are rather difficult to come by.
 
 [5] - It is regarded as the standard textbook in the field [according to Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Networking).
 
-[6], [7] - Widely recommended in many courses listed above for additional reading, especially at Princeton, Stanford and UWISC.
+[6], [7] - Widely recommended in many courses listed above for additional reading, especially those at Princeton, Stanford and UWISC.
 
 # References
 
