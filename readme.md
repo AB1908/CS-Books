@@ -33,34 +33,18 @@ Being an avid book reader, I have found it rather difficult to find a comprehens
 
 [2] - Used as a reference book for
 
-- [UPenn's CSC 4170-50](https://www.seas.upenn.edu/~cit596/notes/dave/syllabus.html)
 - [CS 3102 at UoV](http://www.cs.virginia.edu/~robins/cs3102/)
 - [CS-251 at EPFL](http://theory.epfl.ch/cs251/Home.html)
 - [CS 3800 at NU](https://course.ccs.neu.edu/cs3800f17wc/policies.html)
 - [CS39 at Dartmouth](https://www.cs.dartmouth.edu/~ac/Teach/CS39-Spring18/)
 
+[4] - Used as a reference book for
+
+- [UPenn's CSC 4170-50](https://www.seas.upenn.edu/~cit596/notes/dave/syllabus.html)
+
 [5] - Used as a reference book for
 
 - [AU's COMP 674](http://www.athabascau.ca/syllabi/comp/comp674.php), a graduate level course.
-
-### References
-
-- Websites
-
-   [Theory of Computation - Further reading](https://en.wikipedia.org/wiki/Theory_of_computation#Further_reading)  
-   [Automata Theory - Further reading](https://en.wikipedia.org/wiki/Automata_theory#Further_reading)  
-   [Scientific Computing - List of Important Publications in Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Scientific_computing)  
-   [Formal Languages and Automata Theory - Best Reference Books](https://www.sanfoundry.com/best-reference-books-formal-languages-automata-theory/)  
-
-- Courses
-
-   [Automata Theory - Stanford Lagunita](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about) (taken by **Jefferey D. Ullman** himself)  
-   [CSC 4170-50 - University of Pennsylvania](https://www.seas.upenn.edu/~cit596/notes/dave/syllabus.html)  
-   [CS 3102 - University of Virginia](http://www.cs.virginia.edu/~robins/cs3102/)  
-   [CS-251 - École Polytechnique Fédérale de Lausanne EPFL](http://theory.epfl.ch/cs251/Home.html)  
-   [CS 3800 - Northeastern University](https://course.ccs.neu.edu/cs3800f17wc/policies.html)  
-   [CS39 - Dartmouth University](https://www.cs.dartmouth.edu/~ac/Teach/CS39-Spring18/)  
-   [COMP 674 - Athabasca University](http://www.athabascau.ca/syllabi/comp/comp674.php)  
 
 ## Operating Systems
 
@@ -109,36 +93,6 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 
 [6] - Basically a cheaper version of [1] recommended as the reference textbook for [CU's COMS W4118](http://www.cs.columbia.edu/~jae/4118/).
 
-### References
-
-NITR B.Tech Curriculum
-
-- Websites
-
-   [Operating Systems - Teach Yourself CS](https://teachyourselfcs.com/#operating-systems)  
-   [Operating Systems - Best Reference Books](https://www.sanfoundry.com/best-reference-books-Operating-Systems/)  
-   [Operating Systems - List of Important Publications in Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Operating_systems)  
-   [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
-   [Advanced Operating Systems Readings](https://www.udacity.com/wiki/ud156-readings)  
-
-- Courses
-
-    [CS 6210 - Georgia Tech](https://www.omscs.gatech.edu/cs-6210-advanced-operating-systems)  
-    [CS 385 - University of Illinois, Chicago](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)  
-    [CS 347 - Indian Institute of Technology, Bombay](https://www.cse.iitb.ac.in/~mythili/teaching/cs347_autumn2016/index.html)  
-    [CS 543 - Drexel University](https://www.cs.drexel.edu/~jjohnson/2012-13/fall/cs543/)  
-    [CS170 - University of California, Santa Barbara](http://www.cs.ucsb.edu/~rich/class/cs170/)  
-    [TOM-2.1-CS - University of Twente](https://wwwhome.ewi.utwente.nl/~pieter/CS-OS/)  
-    [CS 372 - University of Texas, Austin](http://www.cs.utexas.edu/users/witchel/372/)  
-    [CS-537 - University of Wisconsin, Madison](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)  
-    [CS3013 - Worchester Polytechnic Institute](https://web.cs.wpi.edu/~cshue/cs3013/)  
-    [CS140 - Stanford University](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring18/index.php)  
-    [CS422/522 - Yale University](http://flint.cs.yale.edu/cs422/)  
-    [CS 140 - Harvard University](http://www.eecs.harvard.edu/~cs161/)
-    [COMS W4118 - Columbia University](http://www.cs.columbia.edu/~jae/4118/)  
-
-- [Xv6, a simple Unix-like teaching operating system - PDOS-MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
-
 ## Microprocessors and Microcontrollers
 
 ### Standard Textbooks
@@ -156,12 +110,53 @@ NITR B.Tech Curriculum
 6. **Advanced Microprocessors and Peripherals** - A. K. Ray and K. M. Bhurchandi
 7. **Fundamentals of Microprocessors And Microcontrollers** - Ram B.
 
+# References
 
-### References
+## Websites
 
-[Microprocessors and Microcontrollers - Best Reference Books](https://www.sanfoundry.com/best-reference-books-microprocessors-microcontrollers/)
+   [Theory of Computation - Further reading](https://en.wikipedia.org/wiki/Theory_of_computation#Further_reading)  
+   [Automata Theory - Further reading](https://en.wikipedia.org/wiki/Automata_theory#Further_reading)  
+   [List of Important Publications in Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)  
+   [Best Reference Books - San Foundry](https://www.sanfoundry.com/best-reference-books-computer-science-engineering/)  
+   [Operating Systems - Teach Yourself CS](https://teachyourselfcs.com/#operating-systems)  
 
+## Courses
+
+   - Theory of Computation
+
+   [Automata Theory - Stanford Lagunita](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about) (taken by **Jefferey D. Ullman** himself)  
+   [CSC 4170-50 - University of Pennsylvania](https://www.seas.upenn.edu/~cit596/notes/dave/syllabus.html)  
+   [CS3102 - University of Virginia](http://www.cs.virginia.edu/~robins/cs3102/)  
+   [CS-251 - École Polytechnique Fédérale de Lausanne EPFL](http://theory.epfl.ch/cs251/Home.html)  
+   [CS 3800 - Northeastern University](https://course.ccs.neu.edu/cs3800f17wc/policies.html)  
+   [CS39 - Dartmouth University](https://www.cs.dartmouth.edu/~ac/Teach/CS39-Spring18/)  
+   [COMP 674 - Athabasca University](http://www.athabascau.ca/syllabi/comp/comp674.php)  
+
+   - Operating Systems
+
+   [CS 6210 - Georgia Tech](https://www.omscs.gatech.edu/cs-6210-advanced-operating-systems)  
+   [CS 385 - University of Illinois, Chicago](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)  
+   [CS 347 - Indian Institute of Technology, Bombay](https://www.cse.iitb.ac.in/~mythili/teaching/cs347_autumn2016/index.html)  
+   [CS 543 - Drexel University](https://www.cs.drexel.edu/~jjohnson/2012-13/fall/cs543/)  
+   [CS170 - University of California, Santa Barbara](http://www.cs.ucsb.edu/~rich/class/cs170/)  
+   [TOM-2.1-CS - University of Twente](https://wwwhome.ewi.utwente.nl/~pieter/CS-OS/)  
+   [CS 372 - University of Texas, Austin](http://www.cs.utexas.edu/users/witchel/372/)  
+   [CS-537 - University of Wisconsin, Madison](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)  
+   [CS3013 - Worchester Polytechnic Institute](https://web.cs.wpi.edu/~cshue/cs3013/)  
+   [CS140 - Stanford University](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring18/index.php)  
+   [CS422/522 - Yale University](http://flint.cs.yale.edu/cs422/)  
+   [CS 140 - Harvard University](http://www.eecs.harvard.edu/~cs161/)  
+   [COMS W4118 - Columbia University](http://www.cs.columbia.edu/~jae/4118/)  
+
+   - Microprocessors and Microcontrollers
+
+
+
+## Resources
+
+   [Xv6, a simple Unix-like teaching operating system - PDOS-MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)  
+   [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
+   [Advanced Operating Systems Readings](https://www.udacity.com/wiki/ud156-readings)  
+   [CS Readings](http://www.cs.virginia.edu/~robins/CS_readings.html)
 
 # Miscellaneous links
-
-http://www.cs.virginia.edu/~robins/CS_readings.html
