@@ -82,7 +82,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 - [TOM-2.1-CS at UT](https://wwwhome.ewi.utwente.nl/~pieter/CS-OS/)
 - [CS 372 at UT Austin](http://www.cs.utexas.edu/users/witchel/372/) although certain readings are from [1] as well.
 
-[3] - [**OSTEP**](http://pages.cs.wisc.edu/~remzi/OSTEP/) was made as a companion for a [course on Operating Systems at UWISC](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), which is freely available. The professors also recommend reading classic texts such as **Linux Kernel Development** and **The C Programming Language** (K&R). It is also used as a reference for [WPI's CS 3013](https://web.cs.wpi.edu/~cshue/cs3013/). It is also my personal recommendation for an introduction to Operating Systems.
+[3] - [**OSTEP**](http://pages.cs.wisc.edu/~remzi/OSTEP/) was made as a companion for a [course on Operating Systems at UWISC](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), which is freely available. The professors also recommend reading classic texts such as **Linux Kernel Development** and **The C Programming Language** (K&R). It is also used as a reference for [WPI's CS 3013](https://web.cs.wpi.edu/~cshue/cs3013/). Apart from being my personal recommendation for an introduction to Operating Systems, it is also recommended over at [Teach Yourself Computer Science](https://teachyourselfcs.com).
 
 [4] - Used as the reference for
 
@@ -132,6 +132,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 
 1. **TCP/IP protocol Suite** - B. A. Forouzan
 2. **Data Communication, Computer Networks and Open Systems** - F. Halsall
+3. **Computer Networking: A Top-Down Approach** - James Kurose, Keith Ross
 
 # References
 
@@ -141,7 +142,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
    [Automata Theory - Further reading](https://en.wikipedia.org/wiki/Automata_theory#Further_reading)  
    [List of Important Publications in Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)  
    [Best Reference Books - San Foundry](https://www.sanfoundry.com/best-reference-books-computer-science-engineering/)  
-   [Operating Systems - Teach Yourself CS](https://teachyourselfcs.com/#operating-systems)  
+   [Teach Yourself CS](https://teachyourselfcs.coms)  
 
 ## Courses
 
