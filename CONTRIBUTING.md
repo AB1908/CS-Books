@@ -51,7 +51,7 @@ You. I love you. You can go ahead and create a Pull Request to add the whole dam
 
 #### I want to suggest better ways to organise this list!
 
-Come to papa! You might have noticed that this project doesn't have a fancy discussion channel, so come submit your ideas over at [Issue #](). Hopefully, it'll be a big help!
+Come to papa! You might have noticed that this project doesn't have a fancy discussion channel, so come submit your ideas over at Issue #18. Hopefully, it'll be a big help!
 
 #### I want to do something not listed above!
 
