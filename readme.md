@@ -1,6 +1,6 @@
 # README
 
-This repository was created to maintain a comprehensive list of textbooks and useful references for a Computer Science and Engineering Curriculum. In case you wish to contribute, please go through [CONTRIBUTING.md](CONTRIBUTING.md) for a list of guidelines. The current default branch is `dev`, which will be built upon, whereas `master` will eventually contain a complete curriculum.
+This repository was created to maintain a comprehensive list of textbooks and useful references for a Computer Science and Engineering Curriculum. In case you wish to contribute, please go through [the contributing guidelines](CONTRIBUTING.md). The current default branch is `dev`, which will be built upon, whereas `master` will eventually contain a complete curriculum.
 
 # CS Curriculum Textbooks and References
 
