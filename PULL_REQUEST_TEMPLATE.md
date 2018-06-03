@@ -1,22 +1,22 @@
-Kindly follow the template below for creating a new curriculum. Note that the three spaces before text with two spaces at the end allows for paragraphs without line breaks. Also, don't forget to add the topic heading in readme.md as well as Curriculum.md! (If this is unclear, you may want to brush up on your [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
+Note that the three spaces before text with two spaces at the end allows for paragraphs without line breaks (if this is unclear, you may want to brush up on your [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)). 
 
-In case you wish to modify this template, submit an issue first as changes (if accepted) need to be made to all parts of the curriculum.
+The "**References**" section already exists, so make sure you add it in the correct place. Also, don't forget to add the topic heading in [readme.md](readme.md) as well as [Curriculum.md](Curriculum.md)!
 
 ## Topic Heading Here
 
 ### Standard Textbooks
 
-1. **Book1** - Author1 [1]
-2. **Book2** - Author2 [2]
+1. **Book1** - Author1 and Author2 [1]
+2. **Book2** - Author3 [2]
 
 ### Alternative/Supplementary
 
-1. **Book3** - Author3
-2. **Book4** - Author4, Author 5 and Author 6 [3]
+1. **Book3** - Author4
+2. **Book4** - Author5, Author6 and Author 7 [3]
 
 ### Notes
 
-[1] - Used as the reference for
+[1] - This is a brilliant book recommended by [X website](x-website). Used as the reference for
 
 - [CSxxx at UXX](course-hyperlink)
 - [CSxxx at UXX](course-hyperlink)
@@ -52,4 +52,3 @@ In case you wish to modify this template, submit an issue first as changes (if a
 # Miscellaneous Links
 
 - [Something-awesome](awesome-link)
-
