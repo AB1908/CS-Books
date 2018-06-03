@@ -43,7 +43,7 @@ Thank God you're here! Don't hesitate at all! Although it'd be great if you've r
 
 
 - **The book you're suggesting is listed**
-  - Don't worry! I still would like to hear your experience. You can also suggest relevant resources, courses linked on the web, perhaps your personal notes you made while studying, the possibilities are endless. Personal notes have not been categorised as of now. A [relevant issue discussing the matter]() has been opened. Join the discussion if you have ideas!
+  - Don't worry! I still would like to hear your experience. You can also suggest relevant resources, courses linked on the web, perhaps your personal notes you made while studying, the possibilities are endless. Personal notes have not been categorised as of now. A [relevant issue discussing the matter](https://github.com/AB1908/CS-Books/issues/19) has been opened. Join the discussion if you have ideas!
 
 #### I want to add an entire topic!
 
