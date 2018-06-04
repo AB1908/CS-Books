@@ -3,6 +3,7 @@
 - [Computer Organisation and Architecture](#computer-organisation-and-architecture)
 - [Theory of Computation](#theory-of-computation)
 - [Operating Systems](#operating-systems)
+- [Data Communication](#data-communication)
 - [Microprocessors and Microcontrollers](#microprocessors-and-microcontrollers)
 - [Computer Networks](#computer-networks)
 
@@ -148,6 +149,20 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 - [CS 161 at HU](http://www.eecs.harvard.edu/~cs161/)
 
 [6] - Basically a cheaper version of [1] recommended as the reference textbook for [CU's COMS W4118](http://www.cs.columbia.edu/~jae/4118/).
+
+## Data Communication
+
+### Standard Textbooks
+
+1. B. A. Forouzan, **Data Communication and Networking**, Tata McGraw Hill, 4th Ed, 2007.
+2. A. S. Tanenbaum, **Computer Networks**, Prentice Hall of India, 4th Ed, 2006.
+
+### Alternative/Supplementary
+
+1. F. Halsall, **Data Communication, Computer Networks and Open Systems**, 4th Ed, AddisonWelsey, 2003.
+2. B. A. Forouzan, **TCP/IP Protocol Suit**, Tata McGraw Hill, 3rd Ed, 2006.
+3. W. Stallings, **Data and Computer Communications**, Prentice Hall of India, 8th Ed. 2007.
+4. Leon-Garcia & I Widjaja, **Communication Networks, Fundamental Concepts & Key Architecture**, Tata McGraw Hill, 2nd Ed, 2003
 
 ## Microprocessors and Microcontrollers
 
