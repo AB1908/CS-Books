@@ -4,6 +4,7 @@
 - [Theory of Computation](#theory-of-computation)
 - [Operating Systems](#operating-systems)
 - [Microprocessors and Microcontrollers](#microprocessors-and-microcontrollers)
+- [Computer Graphics](#computer-graphics)
 - [Computer Networks](#computer-networks)
 
 
@@ -177,6 +178,20 @@ Online courses about Microprocessors are rather difficult to come by.
 [5] - Used as the reference for
 
 - [IITK's CS43003](http://www.facweb.iitkgp.ernet.in/~apal/files/microprocessor_04.pdf) (Note: Syllabus page only)
+
+## Computer Graphics
+
+### Standard Textbooks
+
+1. **Computer Graphics, C Version** - D. Hearn and M. P. Baker
+2. **Fundamentals of Multimedia** - Ze-Nian Li and M. S. Drew
+
+### Alternative/Supplementary
+
+1. **Computer Graphics using Open GL** - F. S. Hill
+2. **Multimedia Systems** - R. Steinmetz and K. Nahrstedt
+3. **Computer Graphics - Principles and Practice** - J. D. Foley, A. Van Dam, S. K. Feiner and J. F. Hughes
+4. **Mathematical Elements for Computer Graphics** - D. F. Rogers and J. A. Adams
 
 ## Computer Networks
 
