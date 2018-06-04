@@ -183,15 +183,25 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Standard Textbooks
 
-1. **Computer Graphics, C Version** - D. Hearn and M. P. Baker
-2. **Fundamentals of Multimedia** - Ze-Nian Li and M. S. Drew
+1. **Computer Graphics: Principles and Practice** - John F. Hughes, Andries van Dam, Morgan McGuire, David F. Sklar, James D. Foley, Steven K. Feiner, Kurt Akeley
+2. **Computer Graphics, C Version** - Donald Hearn and M. Pauline Baker
+3. **Fundamentals of Multimedia** - Ze-Nian Li and M. S. Drew
 
 ### Alternative/Supplementary
 
-1. **Computer Graphics using Open GL** - F. S. Hill
+1. **Computer Graphics using Open GL** - Francis S. Hill
 2. **Multimedia Systems** - R. Steinmetz and K. Nahrstedt
-3. **Computer Graphics - Principles and Practice** - J. D. Foley, A. Van Dam, S. K. Feiner and J. F. Hughes
-4. **Mathematical Elements for Computer Graphics** - D. F. Rogers and J. A. Adams
+3. **Fundamentals of Computer Graphics** - Pete Shirley and Steve Marschner with Michael Ashikhmin, Michael Gleicher, Naty Hoffman, Garrett Johnson, Tamara Munzner, Erik Reinhard, Kelvin Sung, William B. Thompson, Peter Willemsen, and Bryan Wyvill
+4. **Mathematical Elements for Computer Graphics** - David F. Rogers and James Alan Adams
+5. **Physically Based Rendering: From Theory to Implementation** - Matt Pharr and Greg Humphreys
+6. **Procedural Elements for Computer Graphics** - David Rogers
+7. **Computer Graphics for Java Programmers** - L. Ammeraal and K. Zhang
+8. **Computer Graphics: A Survey of Current Techniques and Applications** - John Lewell
+9. **Computer Graphics: Theory Into Practice** - Jeffrey J. McConnell
+10. **Computer Graphics: Techniques and Applications** - R. D. Parslow, R. W. Prowse, Richard Elliot Green
+11. **Computer graphics and virtual environments: from realism to real-time** - M. Slater, A. Steed, Y. Chrysantho
+12. **Interactive environments with open-source software** - Wolfgang Höhl
+
 
 ## Computer Networks
 
