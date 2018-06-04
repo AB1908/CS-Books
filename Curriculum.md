@@ -206,7 +206,7 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Notes
 
-- The first two are no doubt standard textbooks in the field, but there is simply too vast an ocean of textbooks on graphics to categorise.
+- The first two are no doubt standard textbooks in the field, but there is simply too vast an ocean of textbooks to categorise.
 
 - There is a reference book for OpenGL programming one may find useful called the "[Red Book](http://www.opengl.org/documentation/red_book/)". Many courses have further resources like these linked on their course or info pages.
 
@@ -337,6 +337,19 @@ Online courses about Microprocessors are rather difficult to come by.
 
 - Computer Graphics
 
+   [CSCI 1230 - Brown University](https://cs.brown.edu/courses/cs123/)  
+   [CS4620/CS4621 - Cornell](http://www.cs.cornell.edu/courses/cs4620/2014fa/index.shtml)  
+   [CS 6360 - Inbdian Institute of Technology, Madras](http://www.cse.iitm.ac.in/~vplab/computer_graphics.html)  
+   [Introduction to Computer Graphics - University of Illinois, Chicago](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/index.html)  
+   [CS 488 - University of Illinois, Chicago](https://www.evl.uic.edu/aej/488/index.html)  
+   [CMU 15-462/662 - Carnegie Mellon University](http://15462.courses.cs.cmu.edu/fall2015/)  
+   [Computer Graphics - Oxford University](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/graphics/)  
+   [CS248 - Stanford University](http://graphics.stanford.edu/courses/cs248-18-spring/)  
+   [CS 175 - Harvard University](https://sites.fas.harvard.edu/~lib175/)  
+   [CS 465 - Bilkent University](http://www.cs.bilkent.edu.tr/~gudukbay/cs465/)  
+   [EDAF80 - Lund University](http://cs.lth.se/edaf80/)  
+   [CS 537 - Drexel University](https://www.cs.drexel.edu/~david/Classes/ICG/)  
+   [CS 4102 - University of St. Andrews](https://info.cs.st-andrews.ac.uk/student-handbook/modules/CS4102.html)  
    [CSCI 2240: Interactive Computer Graphics - Brown University](https://dritchie.github.io/csci2240/)  
 
 - Computer Networks
@@ -362,6 +375,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [Microprocessors and their Architecture](https://www.byclb.com/TR/Tutorials/microprocessors/ch2_1.htm)  
    [Links to Intel  documentation](https://software.intel.com/en-us/forums/intel-isa-extensions/topic/285900)
    [Microprocessor Design - Wikibooks](https://en.wikibooks.org/wiki/Microprocessor_Design)  
+   [Red Book](http://www.opengl.org/documentation/red_book/)
    [The Graphics Codex - Web Edition](http://graphicscodex.com/)  
 
 # Miscellaneous links
