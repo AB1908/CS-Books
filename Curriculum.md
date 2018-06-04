@@ -4,6 +4,7 @@
 - [Theory of Computation](#theory-of-computation)
 - [Operating Systems](#operating-systems)
 - [Microprocessors and Microcontrollers](#microprocessors-and-microcontrollers)
+- [Computer Graphics](#computer-graphics)
 - [Computer Networks](#computer-networks)
 
 
@@ -178,6 +179,62 @@ Online courses about Microprocessors are rather difficult to come by.
 
 - [IITK's CS43003](http://www.facweb.iitkgp.ernet.in/~apal/files/microprocessor_04.pdf) (Note: Syllabus page only)
 
+## Computer Graphics
+
+### Standard Textbooks
+
+1. **Computer Graphics: Principles and Practice** - John F. Hughes, Andries van Dam, Morgan McGuire, David F. Sklar, James D. Foley, Steven K. Feiner, Kurt Akeley [1]
+2. **Fundamentals of Computer Graphics** - Pete Shirley and Steve Marschner with Michael Ashikhmin, Michael Gleicher, Naty Hoffman, Garrett Johnson, Tamara Munzner, Erik Reinhard, Kelvin Sung, William B. Thompson, Peter Willemsen, and Bryan Wyvill [2]
+3. **Computer Graphics, C Version** - Donald Hearn and M. Pauline Baker [3]
+
+### Alternative/Supplementary
+
+1. **Computer Graphics using Open GL** - Francis S. Hill [4]
+2. **Multimedia Systems** - R. Steinmetz and K. Nahrstedt [5]
+3. **Fundamentals of Multimedia** - Ze-Nian Li and M. S. Drew [6]
+4. **Mathematical Elements for Computer Graphics** - David F. Rogers and James Alan Adams [7]
+5. **Physically Based Rendering: From Theory to Implementation** - Matt Pharr and Greg Humphreys [8]
+6. **Procedural Elements for Computer Graphics** - David Rogers [9]
+7. **Computer Graphics for Java Programmers** - L. Ammeraal and K. Zhang [10]
+8. **Computer Graphics: A Survey of Current Techniques and Applications** - John Lewell [11]
+9. **Computer Graphics: Theory Into Practice** - Jeffrey J. McConnell [12]
+10. **Computer Graphics: Techniques and Applications** - R. D. Parslow, R. W. Prowse, Richard Elliot Green [13]
+11. **Computer graphics and virtual environments: from realism to real-time** - M. Slater, A. Steed, Y. Chrysantho [14]
+12. **Interactive environments with open-source software** - Wolfgang Höhl [15]
+13. **Foundations of 3D Computer Graphics** - Steven J. Gortler [16]
+14. **Interactive Computer Graphics, A Top-Down Approach with WebGL** - Edward Angel and Dave Schreiner [17]
+
+### Notes
+
+- The first two are no doubt standard textbooks in the field, but there is simply too vast an ocean of textbooks to categorise.
+
+- There is a reference book for OpenGL programming one may find useful called the "[Red Book](http://www.opengl.org/documentation/red_book/)". Many courses have further resources like these linked on their course or info pages.
+
+[1] - Used as the reference for
+
+- [CSCI 1230 at Brown](https://cs.brown.edu/courses/cs123/)
+- [CS4620/CS4621 at Cornell](http://www.cs.cornell.edu/courses/cs4620/2014fa/index.shtml) along with [16]
+- [CS 6360 at IITM](http://www.cse.iitm.ac.in/~vplab/computer_graphics.html) along with [3]
+- [Introduction to Computer Graphics at UIC](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/index.html)
+- [CS 488 at UIC](https://www.evl.uic.edu/aej/488/index.html) which seems to be an earlier version of the course above
+
+[2] - Used as the reference for
+
+- [CMU 15-462/662](http://15462.courses.cs.cmu.edu/fall2015/) along with [1] and [8]
+- [Computer Graphics at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/graphics/) with [1] and others additionally recommended
+- [CS248 at Stanford](http://graphics.stanford.edu/courses/cs248-18-spring/) with [1] also recommended
+
+[16] - Used as the reference for
+
+- [CS 175 at Harvard](https://sites.fas.harvard.edu/~lib175/) taught by Steven Gortler himself
+
+[17] - Used as the reference for
+
+- [CS 465 at Bilkent](http://www.cs.bilkent.edu.tr/~gudukbay/cs465/)
+- [EDAF80 at LTH](http://cs.lth.se/edaf80/) with [The Graphics Codex](http://graphicscodex.com/) linked for additional reading
+- [CS 537 at Drexel](https://www.cs.drexel.edu/~david/Classes/ICG/)
+- [CS 4102 at St. Andrews](https://info.cs.st-andrews.ac.uk/student-handbook/modules/CS4102.html) (only a list of textbooks)
+
 ## Computer Networks
 
 ### Standard Textbooks
@@ -210,7 +267,7 @@ Online courses about Microprocessors are rather difficult to come by.
 [2] - Used as the reference for
 
 - [15-441 at CMU](https://www.cs.cmu.edu/~prs/15-441-F16/)
-- [Computer Networks at OX](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/networks/) along with [3]
+- [Computer Networks at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/networks/) along with [3]
 - [CS 640 at UWISC](http://pages.cs.wisc.edu/~pb/cs640.html)
 
 [4] - Used as the reference for
@@ -278,6 +335,23 @@ Online courses about Microprocessors are rather difficult to come by.
    [Fundamentals of Microprocessors - University of Central Florida](http://www.cs.ucf.edu/~ahossam/teaching/microp/)  
    [CS758: Building Microprocessors - University of Wisconsin](http://pages.cs.wisc.edu/~karu/courses/cs758/fall2011/wiki/index.php)  
 
+- Computer Graphics
+
+   [CSCI 1230 - Brown University](https://cs.brown.edu/courses/cs123/)  
+   [CS4620/CS4621 - Cornell](http://www.cs.cornell.edu/courses/cs4620/2014fa/index.shtml)  
+   [CS 6360 - Inbdian Institute of Technology, Madras](http://www.cse.iitm.ac.in/~vplab/computer_graphics.html)  
+   [Introduction to Computer Graphics - University of Illinois, Chicago](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/index.html)  
+   [CS 488 - University of Illinois, Chicago](https://www.evl.uic.edu/aej/488/index.html)  
+   [CMU 15-462/662 - Carnegie Mellon University](http://15462.courses.cs.cmu.edu/fall2015/)  
+   [Computer Graphics - Oxford University](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/graphics/)  
+   [CS248 - Stanford University](http://graphics.stanford.edu/courses/cs248-18-spring/)  
+   [CS 175 - Harvard University](https://sites.fas.harvard.edu/~lib175/)  
+   [CS 465 - Bilkent University](http://www.cs.bilkent.edu.tr/~gudukbay/cs465/)  
+   [EDAF80 - Lund University](http://cs.lth.se/edaf80/)  
+   [CS 537 - Drexel University](https://www.cs.drexel.edu/~david/Classes/ICG/)  
+   [CS 4102 - University of St. Andrews](https://info.cs.st-andrews.ac.uk/student-handbook/modules/CS4102.html)  
+   [CSCI 2240: Interactive Computer Graphics - Brown University](https://dritchie.github.io/csci2240/)  
+
 - Computer Networks
 
    [CS 6250 - Georgia Institute of Technology](https://www.omscs.gatech.edu/cs-6250-computer-networks)  
@@ -301,5 +375,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [Microprocessors and their Architecture](https://www.byclb.com/TR/Tutorials/microprocessors/ch2_1.htm)  
    [Links to Intel  documentation](https://software.intel.com/en-us/forums/intel-isa-extensions/topic/285900)
    [Microprocessor Design - Wikibooks](https://en.wikibooks.org/wiki/Microprocessor_Design)  
+   [Red Book](http://www.opengl.org/documentation/red_book/)
+   [The Graphics Codex - Web Edition](http://graphicscodex.com/)  
 
 # Miscellaneous links
