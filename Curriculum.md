@@ -6,7 +6,7 @@
 - [Microprocessors and Microcontrollers](#microprocessors-and-microcontrollers)
 - [Computer Graphics](#computer-graphics)
 - [Computer Networks](#computer-networks)
-
+- [Software Engineering](#software-engineering)
 
 ## Computer Organisation and Architecture
 
@@ -276,6 +276,19 @@ Online courses about Microprocessors are rather difficult to come by.
 [5] - It is regarded as the standard textbook in the field [according to Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Networking).
 
 [6], [7] - Widely recommended in many courses listed above for additional reading, especially those at Princeton, Stanford and UWISC.
+
+## Software Engineering
+
+### Standard Textbooks
+
+1. **Software Engineering A Practitioner’s Approach** - R. S. Pressman
+2. **Software Engineering** - I. Sommerville
+
+### Alternative/Supplementary
+
+1. **An Integrated Approach to Software Engineering** - P. Jalote
+2. **Software Engineering Fundamentals** - A. Behferooz and F. J. Hudson
+3. **Fundamentals of Software Engineering** - R. Mall
 
 # References
 
