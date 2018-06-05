@@ -4,6 +4,7 @@
 - [Theory of Computation](#theory-of-computation)
 - [Operating Systems](#operating-systems)
 - [Microprocessors and Microcontrollers](#microprocessors-and-microcontrollers)
+- [Discrete Mathematics](#discrete-mathematics)
 - [Computer Graphics](#computer-graphics)
 - [Computer Networks](#computer-networks)
 
@@ -178,6 +179,21 @@ Online courses about Microprocessors are rather difficult to come by.
 [5] - Used as the reference for
 
 - [IITK's CS43003](http://www.facweb.iitkgp.ernet.in/~apal/files/microprocessor_04.pdf) (Note: Syllabus page only)
+
+## Discrete Mathematics
+
+### Standard Textbooks
+
+1. **Elements of Discrete Mathematics: A Computer Oriented Approach** - C. L. Liu and D. P. Mohapatra
+2. **Discrete Mathematical Structures for Computer Science** - B. Kolman and R. C. Busby
+
+### Alternative/Supplementary
+
+1. **Discrete Mathematics and Its Applications** - Kenneth H. Rosen
+2. **Discrete Mathematical Structures with Applications, to Computer Science** - J. P. Tremblay and R. Manohar
+3. **Discrete Mathematics for Computer Scientists & Mathematics** - Joe L. Mott, A. Kandel, and T. P. Baker
+4. **Graph Theory with applications to Engineering & Computer Science** - N. Deo
+5. **Discrete Mathematics** - S. Lipschutz
 
 ## Computer Graphics
 
