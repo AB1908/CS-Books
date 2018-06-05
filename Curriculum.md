@@ -5,6 +5,7 @@
 - [Operating Systems](#operating-systems)
 - [Microprocessors and Microcontrollers](#microprocessors-and-microcontrollers)
 - [Computer Graphics](#computer-graphics)
+- [Information Theory and Coding](#information-theory-and-coding)
 - [Computer Networks](#computer-networks)
 
 
@@ -234,6 +235,20 @@ Online courses about Microprocessors are rather difficult to come by.
 - [EDAF80 at LTH](http://cs.lth.se/edaf80/) with [The Graphics Codex](http://graphicscodex.com/) linked for additional reading
 - [CS 537 at Drexel](https://www.cs.drexel.edu/~david/Classes/ICG/)
 - [CS 4102 at St. Andrews](https://info.cs.st-andrews.ac.uk/student-handbook/modules/CS4102.html) (only a list of textbooks)
+
+## Information Theory and Coding
+
+### Standard Textbooks
+
+1. **Information Theory Coding and Cryptography** - R. Bose
+2. **Introduction to Data Compression** - Khalid Sayood
+
+### Alternative/Supplementary
+
+1. **Coding and Information Theory** - S. Roman
+2. **The Theory of Information and Coding** - R. J. McEliece
+3. **Elements of Information Theory** - T. M. Cover and J. A. Thomas
+4. **The Theory of Error Correcting Codes** - F. J. MacWilliams and N. J. A. Sloane
 
 ## Computer Networks
 
