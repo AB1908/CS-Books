@@ -200,6 +200,16 @@ Online courses about Microprocessors are rather difficult to come by.
 9. **Discrete Mathematics** - Nicodemi O.
 10. **Discrete Mathematics** - R. Krishna Kumar
 11. **Discrete Mathematics** - Johnsonbaugh
+12. **An Introduction to Discrete Mathematics for Business & Computing** - John Dwyer
+13. **Discrete Mathematics With Applications** - Susanna S. Epp
+14. **Concrete Mathematics** - Ronald Graham, Donald E. Knuth and Oren Patashnik
+15. **Discrete and Combinatorial Mathematics: An Applied Introduction** - Ralph P. Grimaldi
+16. **The Art of Computer Programming** - Donald E. Knuth
+17. **Discrete Mathematics** - Jiří Matoušek and Jaroslav Nešetřil
+18. **Practice Problems in Discrete Mathematics** - Bojana Obrenic
+19. **Hand Book of Discrete and Combinatorial Mathematics** - Kenneth H. Rosen and John G. Michaels
+20. **Discrete Mathematics by Example** - Andrew Simpson
+21. **Discrete mathematics with graph theory and combinatorics** - T. Veerarajan
 
 ## Computer Graphics
 
