@@ -232,7 +232,7 @@ Online courses about Microprocessors are rather difficult to come by.
 - [6301 at UCL](https://www.ucl.ac.uk/maths/courses/undergraduates/modules/general-ancillary/general_ancillary_syllabuses/6301) (Note: Syllabus page only)
 - [14:332:312 at Rutgers](http://eceweb1.rutgers.edu/~csi/DiscMath.html)
 - [CS 441 at PU](https://people.cs.pitt.edu/~milos/courses/cs441/)
-- [CS 70 at Berkeley](http://people.eecs.berkeley.edu/~daw/teaching/cs70-s05/) although notes are recommended for primary reading
+- [CS 70 at Berkeley](http://eecs70.org/) although notes are recommended for primary reading
 - [CS 207 at IIT Bombay](https://www.cse.iitb.ac.in/~akshayss/courses/cs207-2016.html) along with [9]
 
 [3] - Used as the reference for
@@ -554,7 +554,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [6301 - University College London](https://www.ucl.ac.uk/maths/courses/undergraduates/modules/general-ancillary/general_ancillary_syllabuses/6301)  
    [14:332:312 - Rutgers University](http://eceweb1.rutgers.edu/~csi/DiscMath.html)  
    [CS 441 - Pittsburgh University](https://people.cs.pitt.edu/~milos/courses/cs441/)  
-   [CS 70 - University of California, Berkeley](http://people.eecs.berkeley.edu/~daw/teaching/cs70-s05/)  
+   [CS 70 - University of California, Berkeley](http://eecs70.org/)  
    [CS 207 - Indian Institute of Technology, Bombay](https://www.cse.iitb.ac.in/~akshayss/courses/cs207-2016.html)  
    [Discrete Structures and Combinatorics - Ben-Gurion University of the Negev](https://www.cs.bgu.ac.il/~dsc172/Main)  
    [CPS 102 - Duke University](https://www2.cs.duke.edu/courses/spring09/cps102/)  
