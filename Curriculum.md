@@ -281,12 +281,12 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Standard Textbooks
 
-1. **Software Engineering A Practitioner’s Approach** - Roger S. Pressman
-2. **Software Engineering** - Ian Sommerville
+1. **Software Engineering A Practitioner’s Approach** - Roger S. Pressman [1]
+2. **Software Engineering** - Ian Sommerville [2]
 
 ### Alternative/Supplementary
 
-1. **An Integrated Approach to Software Engineering** - P. Jalote
+1. **An Integrated Approach to Software Engineering** - Pankaj Jalote [3]
 2. **Software Engineering Fundamentals** - A. Behferooz and F. J. Hudson
 3. **Fundamentals of Software Engineering** - Rajib Mall
 4. **Software Engineering** - Gaurav Gupta and Deepika Gupta
@@ -294,7 +294,59 @@ Online courses about Microprocessors are rather difficult to come by.
 6. **Software Engineering 1st Edition** - Udit Agarwal
 7. **Algebraic Methodology and Software Technology** - Grigore Rosu and Jose Meseguer
 8. **Software Design Methodology: From Principles to Architectural Styles** - Hong Zhu
-9. **Fundamentals of Software Engineering** - Carlo Ghezzi
+9. **Object-oriented Software Engineering : using UML, patterns, and Java** - Bernd Bruegge and Allen Dutoit [4]
+10. **The New Software Engineering** - Sue A. Conger [5]
+11. **The Pragmatic Programmer** - Dave Thomas and Andy Hunt [6]
+12. **Software Engineering** - Ivan Marsic [7]
+13. **Design Patterns:  Elements of Reusable Object-Oriented Software**-  E. Gamma, R. Helm, R. Johnson, and J. Vlissides [8]
+14. **Object-Oriented Software Engineering: Practical Software Development using UML and Java** - Timothy C. Lethbridge and Robert Laganière [9]
+15. **Fundamentals of Software Engineering** - Carlo Ghezzi [10]
+
+### Notes
+
+- Wikipedia has a [list of notable publications](https://en.wikipedia.org/wiki/Outline_of_software_engineering#Notable_publications) in Software Engineering.
+- [CS32 at Brown](http://cs.brown.edu/courses/cs0320/) recommends **Effective Java** by Joshua Bloch for some reason. :shrug
+- [EE 360F at UT Austin](http://users.ece.utexas.edu/~perry/education/SE-Intro/) has a list of papers and sections from multiple books as necessary readings for the course.
+
+[1] - Used as the reference for
+
+- [15-413 at CMU](https://www.cs.cmu.edu/~aldrich/courses/413/)
+- [CS 501 at Cornell](http://www.cs.cornell.edu/courses/cs501/2000FA/index.html) along with other classic books like **The Mythical Man Month** by Frederick Brooks
+
+[2] - Used as the reference for
+
+- [Introduction to Software Engineering at PSU](http://www.csci.psu.edu/seminars/fallnotes/SWEintro.pdf) (Note: Syllabus page only)
+
+[3] - Used as the reference for
+
+- [CS 320 at UMass](https://people.cs.umass.edu/~brun/class/2013Spring/CS320/)
+
+[4] - Used as the reference for
+
+- [CS223 at Warwick](http://web.iitd.ac.in/~sumeet/sm.pdf) (Note: Syllabus and lecture pdf only)
+
+[5] - Used as the reference for
+
+- [CS302 at Saylor Academy](https://learn.saylor.org/mod/page/view.php?id=686)
+
+[6] - Used as the reference for
+
+- [CSE 403 at UoW](https://courses.cs.washington.edu/courses/cse403/)
+
+[7] - A [free book](http://www.ece.rutgers.edu/~marsic/books/SE/book-SE_marsic.pdf) written by the instructor of [ECE 14:332:452 at Rutgers](http://www.ece.rutgers.edu/~marsic/Teaching/SE/).
+
+[8] - Used as the reference for
+
+- [CSE870 at MSU](http://www.cse.msu.edu/~cse870/index.php) along with many other articles from literature
+- [Foundations of Software Engineering at BGU](https://www.cs.bgu.ac.il/~fsen141/Main) along with many other textbooks
+
+[9] - Used as the reference for
+
+- SEG 2100 at UoO which cannot be accessed. Instead the author provides supporting materials and other links [here](http://www.site.uottawa.ca/school/research/lloseng/).
+
+[10] - Used as the reference for
+
+- [CSE2102 at UConn](http://www.engr.uconn.edu/~steve/Cse2102/cse2102.html)
 
 # References
 
@@ -396,5 +448,9 @@ Online courses about Microprocessors are rather difficult to come by.
    [Microprocessor Design - Wikibooks](https://en.wikibooks.org/wiki/Microprocessor_Design)  
    [Red Book](http://www.opengl.org/documentation/red_book/)
    [The Graphics Codex - Web Edition](http://graphicscodex.com/)  
+   [Introduction to Software Engineering - Wikibooks](https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering)  
+   [Software Engineering Notes from CS 440 at UIC](https://www.cs.uic.edu/~jbell/CourseNotes/OO_SoftwareEngineering/)  
 
 # Miscellaneous links
+
+[ACM Classic Books Series](https://dl.acm.org/classics.cfm)
