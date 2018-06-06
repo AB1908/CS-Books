@@ -372,6 +372,8 @@ Online courses about Microprocessors are rather difficult to come by.
    [Theory of Computation - Further reading](https://en.wikipedia.org/wiki/Theory_of_computation#Further_reading)  
    [Automata Theory - Further reading](https://en.wikipedia.org/wiki/Automata_theory#Further_reading)  
    [Operating System - Further reading](https://en.wikipedia.org/wiki/Operating_system#Futher_reading)  
+   [Discrete Mathematics - Further Reading](https://en.wikipedia.org/wiki/Discrete_mathematics#Further_reading)  
+   [Discrete Mathematics - Wikibooks](https://en.wikibooks.org/wiki/Discrete_Mathematics)  
    [Computer Network - Further Reading](https://en.wikipedia.org/wiki/Computer_network#Further_reading)  
    [List of Important Publications in Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)  
    [Best Reference Books - San Foundry](https://www.sanfoundry.com/best-reference-books-computer-science-engineering/)  
@@ -423,6 +425,29 @@ Online courses about Microprocessors are rather difficult to come by.
    [Fundamentals of Microprocessors - University of Central Florida](http://www.cs.ucf.edu/~ahossam/teaching/microp/)  
    [CS758: Building Microprocessors - University of Wisconsin](http://pages.cs.wisc.edu/~karu/courses/cs758/fall2011/wiki/index.php)  
 
+- Discrete Mathematics
+
+   [CS103 - Stanford University](http://web.stanford.edu/class/cs103/)  
+   [CS20 - Harvard University](https://www.seas.harvard.edu/courses/cs20/)   
+   [CS 311 - University of Texas, Austin](http://www.cs.utexas.edu/~vl/teaching/311/)  
+   [CS381 - Old Dominion University](http://www.cs.odu.edu/~cs381/index.html)  
+   [CSE 191 - University at Buffalo, New York](https://cse.buffalo.edu/~rapaport/191/)  
+   [6301 - University College London](https://www.ucl.ac.uk/maths/courses/undergraduates/modules/general-ancillary/general_ancillary_syllabuses/6301)  
+   [14:332:312 - Rutgers University](http://eceweb1.rutgers.edu/~csi/DiscMath.html)  
+   [CS 441 - Pittsburgh University](https://people.cs.pitt.edu/~milos/courses/cs441/)  
+   [CS 70 - University of California, Berkeley](http://people.eecs.berkeley.edu/~daw/teaching/cs70-s05/)  
+   [CS 207 - Indian Institute of Technology, Bombay](https://www.cse.iitb.ac.in/~akshayss/courses/cs207-2016.html)  
+   [Discrete Structures and Combinatorics - Ben-Gurion University of the Negev](https://www.cs.bgu.ac.il/~dsc172/Main)  
+   [CPS 102 - Duke University](https://www2.cs.duke.edu/courses/spring09/cps102/)  
+   [MAT 385 - North Kansas University](http://ceadserv1.nku.edu/longa//classes/2002fall/mat385/)  
+   [Discrete Math - Cambridge University](https://www.cl.cam.ac.uk/teaching/1314/DiscMath/)  
+   [Discrete Mathematics - Oxford University](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/discretemaths/)  
+   [CS2102 - University of Virginia](https://uvacs2102.github.io/)  
+   [MIT 6.042 - Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)  
+   [CS1010 - Indian Institute of Technology, Hyderabad](https://www.iith.ac.in/~aravind/cs1010.html)  
+   [CS 30 - Dartmouth University](https://www.cs.dartmouth.edu/~ac/Teach/CS30-Winter18/)  
+   [CSCI 2824 - University of Colorado, Boulder](https://www.colorado.edu/cs/csci-2824-discrete-structures)
+
 - Computer Graphics
 
    [CSCI 1230 - Brown University](https://cs.brown.edu/courses/cs123/)  
@@ -458,11 +483,17 @@ Online courses about Microprocessors are rather difficult to come by.
 
    [CS Readings](http://www.cs.virginia.edu/~robins/CS_readings.html)
    [Xv6, a simple Unix-like teaching operating system - PDOS-MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)  
-   [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
+   [**Operating Systems: Three Easy Pieces**](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
    [Advanced Operating Systems Readings](https://www.udacity.com/wiki/ud156-readings)  
    [Microprocessors and their Architecture](https://www.byclb.com/TR/Tutorials/microprocessors/ch2_1.htm)  
    [Links to Intel  documentation](https://software.intel.com/en-us/forums/intel-isa-extensions/topic/285900)
    [Microprocessor Design - Wikibooks](https://en.wikibooks.org/wiki/Microprocessor_Design)  
+   [**Mathematics for Computer Science**](https://uvacs2102.github.io/docs/mcs.pdf) by Eric Lehman, F. Thomson Leighton, and Albert R. Meyer  
+   [Notes on Discrete Structures - Cornell University](https://www.cs.cornell.edu/~rafael/discmath.pdf)  
+   [Notes - MIT 6.042 Mathematics for Computer Science](https://www.seas.harvard.edu/courses/cs20/MIT6_042Notes.pdf)  
+   [A Course on Discrete Mathematics - Yale University](http://cs.yale.edu/homes/aspnes/classes/202/notes.pdf)  
+   [Mathematics for Computer Science (2012)](https://www.iith.ac.in/~aravind/Files-DM/LLM-MFCS-2012.pdf)  
+   [**How to Write Mathematics**](http://erickson.sites.truman.edu/files/2012/04/guide1.pdf) by Martin Erickson  
    [Red Book](http://www.opengl.org/documentation/red_book/)
    [The Graphics Codex - Web Edition](http://graphicscodex.com/)  
 
