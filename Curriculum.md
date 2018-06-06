@@ -356,6 +356,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [Automata Theory - Further reading](https://en.wikipedia.org/wiki/Automata_theory#Further_reading)  
    [Operating System - Further reading](https://en.wikipedia.org/wiki/Operating_system#Futher_reading)  
    [Computer Network - Further Reading](https://en.wikipedia.org/wiki/Computer_network#Further_reading)  
+   [List of Notable Publications in Software Engineering - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering#Notable_publications)  
    [List of Important Publications in Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)  
    [Best Reference Books - San Foundry](https://www.sanfoundry.com/best-reference-books-computer-science-engineering/)  
    [Teach Yourself CS](https://teachyourselfcs.coms)  
@@ -436,6 +437,21 @@ Online courses about Microprocessors are rather difficult to come by.
    [CS 408 - Sabancı Üniversitesi](http://people.sabanciuniv.edu/levi/cs408/)  
    [CS 527 - University of British Columbia](https://www.cs.ubc.ca/~bestchai/teaching/cs527_2015w1/index.html) is a PhD level course judging by appearance, so it has not been linked in the relevant section.
 
+- Software Engineering
+
+   [CS32 - Brown University](http://cs.brown.edu/courses/cs0320/)  
+   [EE 360F - University of Texas, Austin](http://users.ece.utexas.edu/~perry/education/SE-Intro/)  
+   [15-413 - Carnegie Mellon University](https://www.cs.cmu.edu/~aldrich/courses/413/)  
+   [CS 501 - Cornell University](http://www.cs.cornell.edu/courses/cs501/2000FA/index.html)  
+   [Introduction to Software Engineering - Pennsylvania State University](http://www.csci.psu.edu/seminars/fallnotes/SWEintro.pdf)  
+   [CS 320 - University of Massachusetts Amherst](https://people.cs.umass.edu/~brun/class/2013Spring/CS320/)  
+   [CS223 - University of Warwick](http://web.iitd.ac.in/~sumeet/sm.pdf)  
+   [CS302 - Saylor Academy](https://learn.saylor.org/mod/page/view.php?id=686)  
+   [CSE 403 - University of Washington](https://courses.cs.washington.edu/courses/cse403/)  
+   [ECE 14:332:452 - Rutgers University](http://www.ece.rutgers.edu/~marsic/Teaching/SE/)  
+   [CSE870 - Michigan State University](http://www.cse.msu.edu/~cse870/index.php)  
+   [Foundations of Software Engineering - Ben-Gurion University of the Negev](https://www.cs.bgu.ac.il/~fsen141/Main)  
+   [CSE2102 - University of Connecticut](http://www.engr.uconn.edu/~steve/Cse2102/cse2102.html)  
 
 ## Resources
 
@@ -449,6 +465,8 @@ Online courses about Microprocessors are rather difficult to come by.
    [Red Book](http://www.opengl.org/documentation/red_book/)
    [The Graphics Codex - Web Edition](http://graphicscodex.com/)  
    [Introduction to Software Engineering - Wikibooks](https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering)  
+   [Software Engineering book by Ivan Marsic](http://www.ece.rutgers.edu/~marsic/books/SE/book-SE_marsic.pdf)  
+   [Supplementary Material for **Object-Oriented Software Engineering** by Lethbridge and Laganière](http://www.site.uottawa.ca/school/research/lloseng/)  
    [Software Engineering Notes from CS 440 at UIC](https://www.cs.uic.edu/~jbell/CourseNotes/OO_SoftwareEngineering/)  
 
 # Miscellaneous links
