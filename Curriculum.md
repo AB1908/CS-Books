@@ -4,6 +4,7 @@
 - [Theory of Computation](#theory-of-computation)
 - [Operating Systems](#operating-systems)
 - [Microprocessors and Microcontrollers](#microprocessors-and-microcontrollers)
+- [Discrete Mathematics](#discrete-mathematics)
 - [Computer Graphics](#computer-graphics)
 - [Information Theory and Coding](#information-theory-and-coding)
 - [Computer Networks](#computer-networks)
@@ -179,6 +180,90 @@ Online courses about Microprocessors are rather difficult to come by.
 [5] - Used as the reference for
 
 - [IITK's CS43003](http://www.facweb.iitkgp.ernet.in/~apal/files/microprocessor_04.pdf) (Note: Syllabus page only)
+
+## Discrete Mathematics
+
+### Standard Textbooks
+
+1. **Discrete Mathematics and Its Applications** - Kenneth H. Rosen [1]
+2. **Discrete Mathematics** - Kevin Ferland [2]
+3. **Mathematics for Computer Science** - Eric Lehman, F. Thomson Leighton, and Albert R. Meyer [3]
+
+### Alternative/Supplementary
+
+1. **Discrete and Combinatorial Mathematics: An Applied Introduction** - Ralph P. Grimaldi [4]
+2. **Discrete Mathematics for Computer Science** - Kenneth Bogart and Robert L. Drysdale [5]
+3. **Concrete Mathematics** - Ronald Graham, Donald E. Knuth and Oren Patashnik [6]
+4. **Discrete Mathematics** - Jiří Matoušek and Jaroslav Nešetřil [7]
+5. **Mathematical Structures for Computer Science** - J. L. Gersting [8]
+6. **Discrete Mathematics** - Norman L. Biggs [9]
+7. **Discrete Mathematics** - Kenneth A. Ross and Charles R. Wright [10]
+8. **Discrete Mathematics** - Seymour Lipschutz and Mar Lars Lipson [11]
+9. **Discrete Mathematics: Mathematical Reasoning and Proof with Puzzles, Patterns and Games** - Douglas E. Ensley and J. Winston Crawley [12]
+10. **Elements of Discrete Mathematics: A Computer Oriented Approach** - C. L. Liu and D. P. Mohapatra
+11. **Discrete Mathematical Structures with Applications, to Computer Science** - J. P. Tremblay and R. Manohar
+12. **Discrete Mathematics for Computer Scientists & Mathematics** - Joe L. Mott, A. Kandel, and T. P. Baker
+13. **Graph Theory with applications to Engineering & Computer Science** - N. Deo
+14. **Discrete Mathematical Structures for Computer Science** - B. Kolman and R. C. Busby
+15. **Discrete Mathematics with Applications** - Thomas Koshy
+16. **Discrete Mathematics** - Nicodemi O.
+17. **Discrete Mathematics** - R. Krishna Kumar
+18. **Discrete Mathematics** - Johnsonbaugh
+19. **An Introduction to Discrete Mathematics for Business & Computing** - John Dwyer
+20. **Discrete Mathematics With Applications** - Susanna S. Epp
+21. **The Art of Computer Programming** - Donald E. Knuth
+22. **Practice Problems in Discrete Mathematics** - Bojana Obrenic
+23. **Hand Book of Discrete and Combinatorial Mathematics** - Kenneth H. Rosen and John G. Michaels
+24. **Discrete Mathematics by Example** - Andrew Simpson
+25. **Discrete mathematics with graph theory and combinatorics** - T. Veerarajan
+
+### Notes
+
+- [Stanford's CS103](http://web.stanford.edu/class/cs103/) may serve as an introduction to those who are unfamiliar with the concepts.
+- Yale's CPSC 202 uses a [document of notes on Discrete Math as the primary reading](http://cs.yale.edu/homes/aspnes/classes/202/notes.pdf). Additional reading can be done from [2] or [1].
+- [CS20 at Harvard](https://www.seas.harvard.edu/courses/cs20/) uses [notes](https://www.seas.harvard.edu/courses/cs20/MIT6_042Notes.pdf) from [MIT's 6.042](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/).
+- Cornell also hosts a useful set of [notes on Discrete Structures](https://www.cs.cornell.edu/~rafael/discmath.pdf).
+- [UT Austin's CS 311](http://www.cs.utexas.edu/~vl/teaching/311/) appears to have their own set of lecture notes linked on the course page.
+
+[1] - Used as the reference for
+
+- [CS381 at ODU](http://www.cs.odu.edu/~cs381/index.html)
+- [CSE 191 at UaB](https://cse.buffalo.edu/~rapaport/191/) with [11] additionally recommended
+- [6301 at UCL](https://www.ucl.ac.uk/maths/courses/undergraduates/modules/general-ancillary/general_ancillary_syllabuses/6301) (Note: Syllabus page only)
+- [14:332:312 at Rutgers](http://eceweb1.rutgers.edu/~csi/DiscMath.html)
+- [CS 441 at PU](https://people.cs.pitt.edu/~milos/courses/cs441/)
+- [CS 70 at Berkeley](http://people.eecs.berkeley.edu/~daw/teaching/cs70-s05/) although notes are recommended for primary reading
+- [CS 207 at IIT Bombay](https://www.cse.iitb.ac.in/~akshayss/courses/cs207-2016.html) along with [9]
+
+[3] - Used as the reference for
+
+- [CS2102 at UoV](https://uvacs2102.github.io/) and has generously been made [available online](https://uvacs2102.github.io/docs/mcs.pdf) under the Creative Commons License
+- [CS1010 at IITH](https://www.iith.ac.in/~aravind/cs1010.html) although it uses [slightly older notes](https://www.iith.ac.in/~aravind/Files-DM/LLM-MFCS-2012.pdf) instead with an additional guide on [**How to write Mathematics**](http://erickson.sites.truman.edu/files/2012/04/guide1.pdf) by Martin Erickson
+- [CS 30 at Dartmouth](https://www.cs.dartmouth.edu/~ac/Teach/CS30-Winter18/) with [1] recommended for additional reading
+
+[4] - Used as the reference for
+
+- [Discrete Structures and Combinatorics at BGU](https://www.cs.bgu.ac.il/~dsc172/Main) along with some weird Israeli book? :shrug
+
+[5] - Used as the reference for
+
+- [CPS 102 at Duke](https://www2.cs.duke.edu/courses/spring09/cps102/) with [1], [6] and [7] also recommended
+
+[8] - Used as the reference for
+
+- [MAT 385 at NKU](http://ceadserv1.nku.edu/longa//classes/2002fall/mat385/)
+
+[9] - Used as the reference for
+
+- [Discrete Math at Cambridge](https://www.cl.cam.ac.uk/teaching/1314/DiscMath/) with additional books listed
+
+[10] - Used as the reference for
+
+- [Discrete Mathematics at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/discretemaths/) along with other recommendations like [4]
+
+[12] - Used as the reference for
+
+- [CSCI 2824 at UoC Boulder](https://www.colorado.edu/cs/csci-2824-discrete-structures)
 
 ## Computer Graphics
 
@@ -404,6 +489,8 @@ Online courses about Microprocessors are rather difficult to come by.
    [Theory of Computation - Further reading](https://en.wikipedia.org/wiki/Theory_of_computation#Further_reading)  
    [Automata Theory - Further reading](https://en.wikipedia.org/wiki/Automata_theory#Further_reading)  
    [Operating System - Further reading](https://en.wikipedia.org/wiki/Operating_system#Futher_reading)  
+   [Discrete Mathematics - Further Reading](https://en.wikipedia.org/wiki/Discrete_mathematics#Further_reading)  
+   [Discrete Mathematics - Wikibooks](https://en.wikibooks.org/wiki/Discrete_Mathematics)  
    [Computer Network - Further Reading](https://en.wikipedia.org/wiki/Computer_network#Further_reading)  
    [Information Theory - References](https://en.wikipedia.org/wiki/Information_theory#References)  
    [List of Notable Publications in Software Engineering - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering#Notable_publications)  
@@ -456,6 +543,29 @@ Online courses about Microprocessors are rather difficult to come by.
 
    [Fundamentals of Microprocessors - University of Central Florida](http://www.cs.ucf.edu/~ahossam/teaching/microp/)  
    [CS758: Building Microprocessors - University of Wisconsin](http://pages.cs.wisc.edu/~karu/courses/cs758/fall2011/wiki/index.php)  
+
+- Discrete Mathematics
+
+   [CS103 - Stanford University](http://web.stanford.edu/class/cs103/)  
+   [CS20 - Harvard University](https://www.seas.harvard.edu/courses/cs20/)   
+   [CS 311 - University of Texas, Austin](http://www.cs.utexas.edu/~vl/teaching/311/)  
+   [CS381 - Old Dominion University](http://www.cs.odu.edu/~cs381/index.html)  
+   [CSE 191 - University at Buffalo, New York](https://cse.buffalo.edu/~rapaport/191/)  
+   [6301 - University College London](https://www.ucl.ac.uk/maths/courses/undergraduates/modules/general-ancillary/general_ancillary_syllabuses/6301)  
+   [14:332:312 - Rutgers University](http://eceweb1.rutgers.edu/~csi/DiscMath.html)  
+   [CS 441 - Pittsburgh University](https://people.cs.pitt.edu/~milos/courses/cs441/)  
+   [CS 70 - University of California, Berkeley](http://people.eecs.berkeley.edu/~daw/teaching/cs70-s05/)  
+   [CS 207 - Indian Institute of Technology, Bombay](https://www.cse.iitb.ac.in/~akshayss/courses/cs207-2016.html)  
+   [Discrete Structures and Combinatorics - Ben-Gurion University of the Negev](https://www.cs.bgu.ac.il/~dsc172/Main)  
+   [CPS 102 - Duke University](https://www2.cs.duke.edu/courses/spring09/cps102/)  
+   [MAT 385 - North Kansas University](http://ceadserv1.nku.edu/longa//classes/2002fall/mat385/)  
+   [Discrete Math - Cambridge University](https://www.cl.cam.ac.uk/teaching/1314/DiscMath/)  
+   [Discrete Mathematics - Oxford University](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/discretemaths/)  
+   [CS2102 - University of Virginia](https://uvacs2102.github.io/)  
+   [MIT 6.042 - Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)  
+   [CS1010 - Indian Institute of Technology, Hyderabad](https://www.iith.ac.in/~aravind/cs1010.html)  
+   [CS 30 - Dartmouth University](https://www.cs.dartmouth.edu/~ac/Teach/CS30-Winter18/)  
+   [CSCI 2824 - University of Colorado, Boulder](https://www.colorado.edu/cs/csci-2824-discrete-structures)
 
 - Computer Graphics
 
@@ -528,11 +638,17 @@ Online courses about Microprocessors are rather difficult to come by.
 
    [CS Readings](http://www.cs.virginia.edu/~robins/CS_readings.html)
    [Xv6, a simple Unix-like teaching operating system - PDOS-MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)  
-   [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
+   [**Operating Systems: Three Easy Pieces**](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
    [Advanced Operating Systems Readings](https://www.udacity.com/wiki/ud156-readings)  
    [Microprocessors and their Architecture](https://www.byclb.com/TR/Tutorials/microprocessors/ch2_1.htm)  
    [Links to Intel  documentation](https://software.intel.com/en-us/forums/intel-isa-extensions/topic/285900)
    [Microprocessor Design - Wikibooks](https://en.wikibooks.org/wiki/Microprocessor_Design)  
+   [**Mathematics for Computer Science**](https://uvacs2102.github.io/docs/mcs.pdf) by Eric Lehman, F. Thomson Leighton, and Albert R. Meyer  
+   [Notes on Discrete Structures - Cornell University](https://www.cs.cornell.edu/~rafael/discmath.pdf)  
+   [Notes - MIT 6.042 Mathematics for Computer Science](https://www.seas.harvard.edu/courses/cs20/MIT6_042Notes.pdf)  
+   [A Course on Discrete Mathematics - Yale University](http://cs.yale.edu/homes/aspnes/classes/202/notes.pdf)  
+   [Mathematics for Computer Science (2012)](https://www.iith.ac.in/~aravind/Files-DM/LLM-MFCS-2012.pdf)  
+   [**How to Write Mathematics**](http://erickson.sites.truman.edu/files/2012/04/guide1.pdf) by Martin Erickson  
    [Red Book](http://www.opengl.org/documentation/red_book/)
    [The Graphics Codex - Web Edition](http://graphicscodex.com/)  
    [**Information Theory, Inference, and Learning Algorithms**](http://www.inference.org.uk/mackay/itila/book.html) by David J. C. Mackay  

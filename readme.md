@@ -9,6 +9,7 @@ Being an avid book reader, I have found it absurdly difficult to find a comprehe
 - [Theory of Computation](Curriculum.md/#theory-of-computation)
 - [Operating Systems](Curriculum.md/#operating-systems)
 - [Microprocessors and Microcontrollers](Curriculum.md/#microprocessors-and-microcontrollers)
+- [Discrete Mathematics](Curriculum.md/#discrete-mathematics)
 - [Computer Graphics](Curriculum.md/#computer-graphics)
 - [Information Theory and Coding](Curriculum.md/#information-theory-and-coding)
 - [Computer Networks](Curriculum.md/#computer-networks)
