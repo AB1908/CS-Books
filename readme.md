@@ -12,3 +12,4 @@ Being an avid book reader, I have found it absurdly difficult to find a comprehe
 - [Computer Graphics](Curriculum.md/#computer-graphics)
 - [Information Theory and Coding](Curriculum.md/#information-theory-and-coding)
 - [Computer Networks](Curriculum.md/#computer-networks)
+- [Software Engineering](Curriculum.md/#software-engineering)
