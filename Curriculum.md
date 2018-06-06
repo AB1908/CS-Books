@@ -240,15 +240,49 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Standard Textbooks
 
-1. **Information Theory Coding and Cryptography** - R. Bose
-2. **Introduction to Data Compression** - Khalid Sayood
+1. **Elements of Information Theory** - T. M. Cover and J. A. Thomas [1]
+2. **Information Theory, Inference and Learning Algorithms** - David J. C. Mackay [2]
+3. **Information Theory Coding and Cryptography** - R. Bose
 
 ### Alternative/Supplementary
 
 1. **Coding and Information Theory** - S. Roman
-2. **The Theory of Information and Coding** - R. J. McEliece
-3. **Elements of Information Theory** - T. M. Cover and J. A. Thomas
+2. **Introduction to Data Compression** - Khalid Sayood
+3. **The Theory of Information and Coding** - R. J. McEliece
 4. **The Theory of Error Correcting Codes** - F. J. MacWilliams and N. J. A. Sloane
+5. **Entropy and Information Theory** - Robert M. Gray [3]
+6. **Information Theory and Reliable Communication** - R. G. Gallagher [4]
+7. **Information Theory** - Robert B. Ash [5]
+
+### Notes
+
+- Wikipedia has an [extensive reference list](https://en.wikipedia.org/wiki/Information_theory#References) with many classic texts and books linked.
+- A [Workshop on Complexity Information Theory in Theoretical Computer Science and Discrete Mathematics](http://sites.math.rutgers.edu/~saks/IT/) at Rutgers has an extensive reading list should one be ambitious enough.
+- [CS 229r at Harvard](http://people.seas.harvard.edu/~madhusudan/courses/Spring2016/) has links to notes from other courses and multiple papers on the topic.
+- Most of the courses strongly recommend reading through Claude Shannon's [A Mathematical Theory of Communication](math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) paper from 1948. It serves as the basis for the branch of Information Theory and Coding related research.
+- Most/All of the courses have relevant additional resources which are very useful
+
+[1] - Used as the reference for
+
+- [15-859 at CMU](http://www.cs.cmu.edu/~venkatg/teaching/ITCS-spr2013/) with many other classic papers recommended for reading
+- [CSE 533 at UoW](https://catalyst.uw.edu/workspace/anuprao/15415/86593) with [a list of papers](https://catalyst.uw.edu/workspace/anuprao/15415/86644)
+- [EE5581 at UMN](http://people.ece.umn.edu/~nihar/ee5581_fall05/index.html)
+- [CSCI1850 at Brown](http://jwmi.github.io/IC/) with additional readings from **Information Theory, Inference, and Learning Algorithms** which is [available free of cost](http://www.inference.org.uk/mackay/itila/book.html)
+- [TTIC 31200/CMSC 37220 at UC](http://ttic.uchicago.edu/%7Emadhurt/courses/infotheory2014/index.html)
+- [10-704 at CMU](http://www.cs.cmu.edu/%7Eaarti/Class/10704/lecs.html) along with [2], and has elements of Machine Learning applied to it
+- [CS85/CS185 at Dartmouth](http://www.cs.dartmouth.edu/%7Eac/Teach/CS85-Winter06/) with [a list of papers](http://www.cs.dartmouth.edu/%7Eac/Teach/CS85-Winter06/#papers) for primary reading
+- [COS 597D at Princeton](http://www.cs.princeton.edu/courses/archive/fall11/cos597D/) which also recommends several papers
+- [COMPSCI 650 at UMass](https://people.cs.umass.edu/~elm/Teaching/650_F14/) with [2] recommended additionally
+- [582650 at UoH](https://www.cs.helsinki.fi/group/cosco/Teaching/Information/2014/)
+- [CO 739-2 at UoW](http://www.math.uwaterloo.ca/~anayak/Site/Information_Theory.html)
+- [EECS 428 at NU](https://www.mccormick.northwestern.edu/eecs/courses/descriptions/428.html) (Note: Syllabus page only)
+- [ECE 563 at UoI](https://ece.illinois.edu/academics/courses/profile/ece563) (Note: Syllabus page only)
+
+[2] - Used as a reference for
+
+- [COMP 7404 at DU](http://web.cs.du.edu/~ramki/courses/tpcs/infoTheory/index.html)
+- [CSC 310 at UoT](https://www.cs.toronto.edu/~radford/csc310.F11/) with [3] recommended for rigorous mathematical analysis
+- [CS 616 at WU](https://www.westminster.edu/resources/dean/view_course_syllabus.cfm?id=769) (Note: Syllabus page only)
 
 ## Computer Networks
 
@@ -300,6 +334,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [Automata Theory - Further reading](https://en.wikipedia.org/wiki/Automata_theory#Further_reading)  
    [Operating System - Further reading](https://en.wikipedia.org/wiki/Operating_system#Futher_reading)  
    [Computer Network - Further Reading](https://en.wikipedia.org/wiki/Computer_network#Further_reading)  
+   [Information Theory - References](https://en.wikipedia.org/wiki/Information_theory#References)  
    [List of Important Publications in Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)  
    [Best Reference Books - San Foundry](https://www.sanfoundry.com/best-reference-books-computer-science-engineering/)  
    [Teach Yourself CS](https://teachyourselfcs.coms)  
@@ -367,6 +402,27 @@ Online courses about Microprocessors are rather difficult to come by.
    [CS 4102 - University of St. Andrews](https://info.cs.st-andrews.ac.uk/student-handbook/modules/CS4102.html)  
    [CSCI 2240: Interactive Computer Graphics - Brown University](https://dritchie.github.io/csci2240/)  
 
+- Information Theory and Coding
+
+   [CS 229r - Harvard University](http://people.seas.harvard.edu/~madhusudan/courses/Spring2016/)  
+   [15-859 - Carnegie Mellon University](http://www.cs.cmu.edu/~venkatg/teaching/ITCS-spr2013/)  
+   [CSE 533 - University of Washington](https://catalyst.uw.edu/workspace/anuprao/15415/86593)  
+   [EE5581 - University of Minnesota](http://people.ece.umn.edu/~nihar/ee5581_fall05/index.html)  
+   [CSCI1850 - Brown University](http://jwmi.github.io/IC/)  
+   [TTIC 31200/CMSC 37220 - University of Chicago](http://ttic.uchicago.edu/%7Emadhurt/courses/infotheory2014/index.html)  
+   [10-704 - Carnegie Mellon University](http://www.cs.cmu.edu/%7Eaarti/Class/10704/lecs.html)  
+   [CS85/CS185 - Dartmouth University](http://www.cs.dartmouth.edu/%7Eac/Teach/CS85-Winter06/)  
+   [COS 597D - Princeton University](http://www.cs.princeton.edu/courses/archive/fall11/cos597D/)  
+   [COMPSCI 650 - University of Massachussets, Amherst](https://people.cs.umass.edu/~elm/Teaching/650_F14/)  
+   [582650 - University of Helsinki](https://www.cs.helsinki.fi/group/cosco/Teaching/Information/2014/)  
+   [CO 739-2 - University of Waterloo](http://www.math.uwaterloo.ca/~anayak/Site/Information_Theory.html)  
+   [EECS 428 - Northwestern University](https://www.mccormick.northwestern.edu/eecs/courses/descriptions/428.html)  
+   [ECE 563 - University of Illinois](https://ece.illinois.edu/academics/courses/profile/ece563)  
+   [COMP 7404 - University of Denver](http://web.cs.du.edu/~ramki/courses/tpcs/infoTheory/index.html)  
+   [CSC 310 - University of Toronto](https://www.cs.toronto.edu/~radford/csc310.F11/)  
+   [CS 616 - Westminster University](https://www.westminster.edu/resources/dean/view_course_syllabus.cfm?id=769)  
+   [CS 783 - Cornell University](http://www.cs.cornell.edu/courses/cs783/2007fa/) which has not been linked in relevant section due to being a graduate-level course
+
 - Computer Networks
 
    [CS 6250 - Georgia Institute of Technology](https://www.omscs.gatech.edu/cs-6250-computer-networks)  
@@ -392,5 +448,8 @@ Online courses about Microprocessors are rather difficult to come by.
    [Microprocessor Design - Wikibooks](https://en.wikibooks.org/wiki/Microprocessor_Design)  
    [Red Book](http://www.opengl.org/documentation/red_book/)
    [The Graphics Codex - Web Edition](http://graphicscodex.com/)  
+   [**Information Theory, Inference, and Learning Algorithms**](http://www.inference.org.uk/mackay/itila/book.html) by David J. C. Mackay  
+   [2011 Workshop on Complexity Information Theory in Theoretical Computer Science and Discrete Mathematics](http://sites.math.rutgers.edu/~saks/IT/)  
+   [A Mathematical Theory of Communication - Claude Shannon (1948)](math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)  
 
 # Miscellaneous links
