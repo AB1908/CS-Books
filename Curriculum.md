@@ -194,6 +194,12 @@ Online courses about Microprocessors are rather difficult to come by.
 3. **Discrete Mathematics for Computer Scientists & Mathematics** - Joe L. Mott, A. Kandel, and T. P. Baker
 4. **Graph Theory with applications to Engineering & Computer Science** - N. Deo
 5. **Discrete Mathematics** - S. Lipschutz
+6. **Discrete Mathematics** - Norman L. Biggs
+7. **Discrete Mathematics for Computer Science** - Kenneth Bogart and Robert L Drysdale
+8. **Discrete Mathematics with Applications** - Thomas Koshy
+9. **Discrete Mathematics** - Nicodemi O.
+10. **Discrete Mathematics** - R. Krishna Kumar
+11. **Discrete Mathematics** - Johnsonbaugh
 
 ## Computer Graphics
 
