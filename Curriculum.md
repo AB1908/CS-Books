@@ -281,14 +281,20 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Standard Textbooks
 
-1. **Software Engineering A Practitioner’s Approach** - R. S. Pressman
-2. **Software Engineering** - I. Sommerville
+1. **Software Engineering A Practitioner’s Approach** - Roger S. Pressman
+2. **Software Engineering** - Ian Sommerville
 
 ### Alternative/Supplementary
 
 1. **An Integrated Approach to Software Engineering** - P. Jalote
 2. **Software Engineering Fundamentals** - A. Behferooz and F. J. Hudson
-3. **Fundamentals of Software Engineering** - R. Mall
+3. **Fundamentals of Software Engineering** - Rajib Mall
+4. **Software Engineering** - Gaurav Gupta and Deepika Gupta
+5. **Encyclopedia of Software Engineering** - Philip A. LaPlante
+6. **Software Engineering 1st Edition** - Udit Agarwal
+7. **Algebraic Methodology and Software Technology** - Grigore Rosu and Jose Meseguer
+8. **Software Design Methodology: From Principles to Architectural Styles** - Hong Zhu
+9. **Fundamentals of Software Engineering** - Carlo Ghezzi
 
 # References
 
