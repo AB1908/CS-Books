@@ -11,3 +11,4 @@ Being an avid book reader, I have found it absurdly difficult to find a comprehe
 - [Microprocessors and Microcontrollers](Curriculum.md/#microprocessors-and-microcontrollers)
 - [Computer Graphics](Curriculum.md/#computer-graphics)
 - [Computer Networks](Curriculum.md/#computer-networks)
+- [Software Engineering](Curriculum.md/#software-engineering)
