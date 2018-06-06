@@ -189,27 +189,83 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Alternative/Supplementary
 
-1. **Discrete Mathematics and Its Applications** - Kenneth H. Rosen
+1. **Discrete Mathematics and Its Applications** - Kenneth H. Rosen [1]
 2. **Discrete Mathematical Structures with Applications, to Computer Science** - J. P. Tremblay and R. Manohar
 3. **Discrete Mathematics for Computer Scientists & Mathematics** - Joe L. Mott, A. Kandel, and T. P. Baker
 4. **Graph Theory with applications to Engineering & Computer Science** - N. Deo
-5. **Discrete Mathematics** - S. Lipschutz
-6. **Discrete Mathematics** - Norman L. Biggs
-7. **Discrete Mathematics for Computer Science** - Kenneth Bogart and Robert L Drysdale
+5. **Discrete Mathematics** - Seymour Lipschutz and Mar Lars Lipson [2]
+6. **Discrete Mathematics** - Norman L. Biggs [9]
+7. **Discrete Mathematics for Computer Science** - Kenneth Bogart and Robert L. Drysdale [5]
 8. **Discrete Mathematics with Applications** - Thomas Koshy
 9. **Discrete Mathematics** - Nicodemi O.
 10. **Discrete Mathematics** - R. Krishna Kumar
 11. **Discrete Mathematics** - Johnsonbaugh
 12. **An Introduction to Discrete Mathematics for Business & Computing** - John Dwyer
 13. **Discrete Mathematics With Applications** - Susanna S. Epp
-14. **Concrete Mathematics** - Ronald Graham, Donald E. Knuth and Oren Patashnik
-15. **Discrete and Combinatorial Mathematics: An Applied Introduction** - Ralph P. Grimaldi
-16. **The Art of Computer Programming** - Donald E. Knuth
-17. **Discrete Mathematics** - Jiří Matoušek and Jaroslav Nešetřil
-18. **Practice Problems in Discrete Mathematics** - Bojana Obrenic
-19. **Hand Book of Discrete and Combinatorial Mathematics** - Kenneth H. Rosen and John G. Michaels
-20. **Discrete Mathematics by Example** - Andrew Simpson
-21. **Discrete mathematics with graph theory and combinatorics** - T. Veerarajan
+14. **Concrete Mathematics** - Ronald Graham, Donald E. Knuth and Oren Patashnik [6]
+15. **The Art of Computer Programming** - Donald E. Knuth
+16. **Discrete Mathematics** - Jiří Matoušek and Jaroslav Nešetřil [7]
+17. **Practice Problems in Discrete Mathematics** - Bojana Obrenic
+18. **Hand Book of Discrete and Combinatorial Mathematics** - Kenneth H. Rosen and John G. Michaels
+19. **Discrete Mathematics by Example** - Andrew Simpson
+20. **Discrete mathematics with graph theory and combinatorics** - T. Veerarajan
+21. **Discrete Mathematics** - Kevin Ferland [3]
+22. **Discrete and Combinatorial Mathematics: An Applied Introduction** - Ralph P. Grimaldi [4]
+23. **Mathematical Structures for Computer Science** - J. L. Gersting [8]
+24. **Discrete Mathematics** - Kenneth A. Ross and Charles R. Wright [10]
+25. **Mathematics for Computer Science** - Eric Lehman, F. Thomson Leighton, and Albert R. Meyer [11]
+26. **Discrete Mathematics: Mathematical Reasoning and Proof with Puzzles, Patterns and Games** - Douglas E. Ensley and J. Winston Crawley [12]
+
+### Notes
+
+- [Stanford's CS103](http://web.stanford.edu/class/cs103/) may serve as an introduction to those who are unfamiliar with the concepts.
+- Yale's CPSC 202 uses a [document of notes on Discrete Math as the primary reading](http://cs.yale.edu/homes/aspnes/classes/202/notes.pdf). Additional reading can be done from [3] or [1].
+- [CS20 at Harvard](https://www.seas.harvard.edu/courses/cs20/) uses [notes](https://www.seas.harvard.edu/courses/cs20/MIT6_042Notes.pdf) from [MIT's 6.042](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/).
+- Cornell also hosts a useful set of [notes on Discrete Structures](https://www.cs.cornell.edu/~rafael/discmath.pdf).
+- [UT Austin's CS 311](http://www.cs.utexas.edu/~vl/teaching/311/) appears to have their own set of lecture notes linked on the course page.
+
+[1] - Used as the reference for
+
+- [CS381 at ODU](http://www.cs.odu.edu/~cs381/index.html)
+- [CSE 191 at UaB](https://cse.buffalo.edu/~rapaport/191/) with [2] additionally recommended
+- [6301 at UCL](https://www.ucl.ac.uk/maths/courses/undergraduates/modules/general-ancillary/general_ancillary_syllabuses/6301) (Note: Syllabus page only)
+- [14:332:312 at Rutgers](http://eceweb1.rutgers.edu/~csi/DiscMath.html)
+- [CS 441 at PU](https://people.cs.pitt.edu/~milos/courses/cs441/)
+- [CS 70 at Berkeley](http://people.eecs.berkeley.edu/~daw/teaching/cs70-s05/) although notes are recommended for primary reading
+- [CS 207 at IIT Bombay](https://www.cse.iitb.ac.in/~akshayss/courses/cs207-2016.html) along with [9]
+
+[3] - Used as the reference for
+
+
+[4] - Used as the reference for
+
+- [Discrete Structures and Combinatorics at BGU](https://www.cs.bgu.ac.il/~dsc172/Main) along with some weird Israeli book? :shrug
+
+[5] - Used as the reference for
+
+- [CPS 102 at Duke](https://www2.cs.duke.edu/courses/spring09/cps102/) with [1], [6] and [7] also recommended
+
+[8] - Used as the reference for
+
+- [MAT 385 at NKU](http://ceadserv1.nku.edu/longa//classes/2002fall/mat385/)
+
+[9] - Used as the reference for
+
+- [Discrete Math at Cambridge](https://www.cl.cam.ac.uk/teaching/1314/DiscMath/) with additional books listed
+
+[10] - Used as the reference for
+
+- [Discrete Mathematics at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/discretemaths/) along with other recommendations like [4]
+
+[11] - Used as the reference for
+
+- [CS2102 at UoV](https://uvacs2102.github.io/) and has generously been made [available online](https://uvacs2102.github.io/docs/mcs.pdf) under the Creative Commons License
+- [CS1010 at IITH](https://www.iith.ac.in/~aravind/cs1010.html) although it uses [slightly older notes](https://www.iith.ac.in/~aravind/Files-DM/LLM-MFCS-2012.pdf) instead with an additional guide on [**How to write Mathematics**](http://erickson.sites.truman.edu/files/2012/04/guide1.pdf) by Martin Erickson
+- [CS 30 at Dartmouth](https://www.cs.dartmouth.edu/~ac/Teach/CS30-Winter18/) with [1] recommended for additional reading
+
+[12] - Used as the reference for
+
+- [CSCI 2824 at UoC Boulder](https://www.colorado.edu/cs/csci-2824-discrete-structures)
 
 ## Computer Graphics
 
