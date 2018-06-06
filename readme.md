@@ -10,5 +10,6 @@ Being an avid book reader, I have found it absurdly difficult to find a comprehe
 - [Operating Systems](Curriculum.md/#operating-systems)
 - [Microprocessors and Microcontrollers](Curriculum.md/#microprocessors-and-microcontrollers)
 - [Computer Graphics](Curriculum.md/#computer-graphics)
+- [Information Theory and Coding](Curriculum.md/#information-theory-and-coding)
 - [Computer Networks](Curriculum.md/#computer-networks)
 - [Software Engineering](Curriculum.md/#software-engineering)
