@@ -77,6 +77,9 @@ There are plenty more books than listed and more courses than I'd care to link.
 
 1. **Design and Analysis of Algorithm** - P. H. Dave and H. B. Dave
 2. **Design Methods and Analysis of Algorithms** - S. K. Basu
+3. **Algorithm Design** - J. Kleinberg and E. Tardos
+4. **Algorithm Design: Foundations, Analysis and Internet Examples** - Michael T. Goodrich and Roberto Tamassia
+5. **Algorithms in a Nutshell: A Practical Guide** - George T. Heineman and Gary Pollice
 
 ## Theory of Computation
 
