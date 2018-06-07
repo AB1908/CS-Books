@@ -661,4 +661,8 @@ Online courses about Microprocessors are rather difficult to come by.
 
 # Miscellaneous links
 
-[ACM Classic Books Series](https://dl.acm.org/classics.cfm)
+   [ACM Classic Books Series](https://dl.acm.org/classics.cfm)
+   [Is there a list of the canonical introductory textbooks covering the major branches of computer science? - /r/COMPSCI](https://np.reddit.com/r/compsci/comments/gprp0/is_there_a_list_of_the_canonical_introductory/c1pcqe5/)  
+   [What are the canon books in Computer Science? - /r/COMPSCI](https://www.reddit.com/r/compsci/comments/40mq3q/what_are_the_canon_books_in_computer_science/)  
+   [What Books Should Everyone Read? - Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/questions/3253/what-books-should-everyone-read)  
+   [What papers should everyone read? - Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read?noredirect=1&lq=1)  
