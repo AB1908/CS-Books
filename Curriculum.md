@@ -18,28 +18,38 @@
 
 ### Standard Textbooks
 
-1. **Programming Languages – Concepts & Constructs** - R. Sethi
+1. **Programming Languages – Concepts & Constructs** - Ravi Sethi [1]
 
 ### Alternative/Supplementary
 
-1. **Concepts of Programming Languages** - Robert W. Sebesta
-2. **Programming Language Pragmatcs** - Michael L. Scot
-3. **Programming Languages: Design and Implementaton** - T. W. Prat & M. V. Zelkowitz
-4. **Programming Languages: Applicaton and Intepretaton** - S. Krishnamurthi
-1. **A Formal Semantics of Programming Languages: An Introduction** - Glynn Winskel
-2. **Foundations for Programming Languages** - John C. Mitchell
-3. **Types and Programming Languages** - Benjamin C. Pierce
-4. **Essentials of Programming Languages** - Daniel P. Friedman and Mitchell Wand and Christopher T. Haynes
+1. **Concepts of Programming Languages** - Robert W. Sebesta [2]
+2. **Programming Language Pragmatics** - Michael L. Scott [3]
+3. **Programming Languages: Design and Implementation** - T. W. Prat & M. V. Zelkowitz [4]
+4. **Programming Languages: Application and Interpretation** - S. Krishnamurthi (*PLAI*) [5]
+1. **A Formal Semantics of Programming Languages: An Introduction** - Glynn Winskel [13]
+2. **Foundations for Programming Languages** - John C. Mitchell [12]
+3. **Types and Programming Languages** - Benjamin C. Pierce (*TAPL*) [6]
+4. **Essentials of Programming Languages** - Daniel P. Friedman, Mitchell Wand and Christopher T. Haynes (*EOPL*) [7]
 6. **The Lambda Calculus: Its Syntax and Semantics** - H. P. Barendregt
 7. **Principles of Programming Languages** - Chopra Rajiv
 8. **Principles of Programming Languages** - Dowek
-10. **Programming Languages: Principles & Practices 3rd Edition** - Kenneth C. Louden
+10. **Programming Languages: Principles & Practices** - Kenneth C. Louden
 7. **Design Concepts in Programming Languages** - Franklyn Turbak and David Gifford
-7. **Concepts, Techniques and Models of Computer Programming** - Peter Van Roy and Seif Haridi
-7. **Essentials of Programming Languages, 3rd Edition** - Daniel P. Friedman
-7. **Programming Languages: Application and Interpretation** - Shriram Krishnamurthi course with videos PLAI-1st
-7. **Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp** - Peter Norvig
-7. **Programming Language Pragmatics** - Michael L. Scott
+7. **Concepts, Techniques and Models of Computer Programming** - Peter Van Roy and Seif Haridi [8]
+7. **Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp** - Peter Norvig [9]
+18. **Structure and Interpretation of Computer Programs** -	Harold Abelson, Gerald Jay Sussman and Julie Sussman (*SICP*) [10]
+19. **Theories of Programming Languages** - John C. Reynolds [11]
+20. **Practical Foundations of Programming Languages** - Robert Harper [14]
+
+### Notes
+
+- **Benjamin Pierce** has a [**list of Great Works in Programming Languages**](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml).
+
+- [CS 152 at Harvard](https://www.cs.cmu.edu/~jcr/tpl.html) uses notes for their readings but also recommends [12], [6], [13] and [5] for additional reference.
+
+[7] - Used as the reference for
+
+- [CS 6848 at IIT, Madras](https://www.cse.iitm.ac.in/~krishna/courses/2015/odd-cs6848/) along with [6], with [12] and [14] for additional reference
 
 ## Computer Organisation and Architecture
 
