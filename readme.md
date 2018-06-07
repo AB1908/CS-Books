@@ -5,6 +5,7 @@ This repository was created to maintain a comprehensive list of textbooks and us
 # CS Curriculum Textbooks and References
 Being an avid book reader, I have found it absurdly difficult to find a comprehensive list of textbooks to use for reference and/or self learning. I have, therefore, set out to create and share it for all who wish to find the same. I have also linked courses that I could find across the web, most often the links from the first two pages of Googling, so that one may find a relevant guide to the particular topic. All linked course pages often have one or more additional references should the reader wish to explore the topic in greater depth. This list is by no means comprehensive, though it is an eventual target. There are also video lectures of many of courses which are better located at [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses).
 
+- [Principles of Programming Languages](Curriculum.md/#principles-of-programming-languages)
 - [Computer Organisation and Architecture](Curriculum.md/#computer-organisation-and-architecture)
 - [Algorithm Design and Analysis](Curriculum.md/#algorithm-design-and-analysis)
 - [Theory of Computation](Curriculum.md/#theory-of-computation)
