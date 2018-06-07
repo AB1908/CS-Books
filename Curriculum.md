@@ -80,6 +80,9 @@ There are plenty more books than listed and more courses than I'd care to link.
 3. **Algorithm Design** - J. Kleinberg and E. Tardos
 4. **Algorithm Design: Foundations, Analysis and Internet Examples** - Michael T. Goodrich and Roberto Tamassia
 5. **Algorithms in a Nutshell: A Practical Guide** - George T. Heineman and Gary Pollice
+6. **Algorithms** - Christos Papadimitriou, Sanjoy Dasgupta, and Umesh Vazirani
+7. **Algorithm Design** - Jon Kleinberg and Éva Tardos
+8. **Introduction to Algorithms: A Creative Approach** - Udi Manber
 
 ## Theory of Computation
 
