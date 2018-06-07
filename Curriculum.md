@@ -26,6 +26,14 @@
 2. **Programming Language Pragmatcs** - Michael L. Scot
 3. **Programming Languages: Design and Implementaton** - T. W. Prat & M. V. Zelkowitz
 4. **Programming Languages: Applicaton and Intepretaton** - S. Krishnamurthi
+1. **A Formal Semantics of Programming Languages: An Introduction** - Glynn Winskel
+2. **Foundations for Programming Languages** - John C. Mitchell
+3. **Types and Programming Languages** - Benjamin C. Pierce
+4. **Essentials of Programming Languages** - Daniel P. Friedman and Mitchell Wand and Christopher T. Haynes
+6. **The Lambda Calculus: Its Syntax and Semantics** - H. P. Barendregt
+7. **Principles of Programming Languages** - Chopra Rajiv
+8. **Principles of Programming Languages** - Dowek
+10. **Programming Languages: Principles & Practices 3rd Edition** - Kenneth C. Louden
 
 ## Computer Organisation and Architecture
 
