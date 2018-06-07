@@ -9,6 +9,7 @@
 - [Discrete Mathematics](#discrete-mathematics)
 - [Computer Graphics](#computer-graphics)
 - [Information Theory and Coding](#information-theory-and-coding)
+- [Compiler Design](#compiler-design)
 - [Computer Networks](#computer-networks)
 - [Software Engineering](#software-engineering)
 
@@ -449,6 +450,32 @@ Online courses about Microprocessors are rather difficult to come by.
 - [CSC 310 at UoT](https://www.cs.toronto.edu/~radford/csc310.F11/) with [3] recommended for rigorous mathematical analysis
 - [CS 616 at WU](https://www.westminster.edu/resources/dean/view_course_syllabus.cfm?id=769) (Note: Syllabus page only)
 
+## Compiler Design
+
+### Standard Textbooks
+
+1. **Compilers: Principles, Techniques, and Tools** - A. V. Aho, Ravi Sethi & Jeffrey D. Ullman [1]
+2. **Compiler Construction Principles and Practice** - K. C. Louden 
+3.  **Modern compiler implementation in ML** - A. W. Appel [2]
+
+### Alternative/Supplementary
+
+1. **Compiler Construction: Theory and Practice** - W. A. Barrett, John D. Couch, C. Couch
+2. **Engineering a Compiler** - Keith D Cooper and Linda Torczon
+3. **Modern Compiler Design** - Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs, Koen Langendoen 
+
+### Notes
+
+[1] - This is a brilliant book recommended by [pearson.com](https://www.pearson.com/us/higher-education/program/Aho-Compilers-Principles-Techniques-and-Tools-2nd-Edition/PGM167067.html). Used as the reference for
+
+- [CS143 at Stanford University](https://web.stanford.edu/class/cs143/)
+- [CS4120 at Cornell University](http://www.cs.cornell.edu/courses/cs4120/2013fa/)
+- [CS5470 at university of Utah](https://courses.engr.illinois.edu/cs421/fa2014/)
+
+[2] - Used as reference for 
+
+- [CS421 at University of Illinois](https://courses.engr.illinois.edu/cs421/fa2014/) 
+
 ## Computer Networks
 
 ### Standard Textbooks
@@ -576,6 +603,9 @@ Online courses about Microprocessors are rather difficult to come by.
    [Theory of Computation - Further reading](https://en.wikipedia.org/wiki/Theory_of_computation#Further_reading)  
    [Automata Theory - Further reading](https://en.wikipedia.org/wiki/Automata_theory#Further_reading)  
    [Operating System - Further reading](https://en.wikipedia.org/wiki/Operating_system#Futher_reading)  
+   [Computer Network - Further Reading](https://en.wikipedia.org/wiki/Computer_network#Further_reading)
+   [Principles of Compiler Design -Further Reading]( https://en.wikipedia.org/wiki/Principles_of_Compiler_Design#Further_reading) 
+   [List of Important Publications in Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)  
    [Discrete Mathematics - Further Reading](https://en.wikipedia.org/wiki/Discrete_mathematics#Further_reading)  
    [Discrete Mathematics - Wikibooks](https://en.wikibooks.org/wiki/Discrete_Mathematics)  
    [Computer Network - Further Reading](https://en.wikipedia.org/wiki/Computer_network#Further_reading)  
@@ -709,6 +739,12 @@ Online courses about Microprocessors are rather difficult to come by.
    [CS 616 - Westminster University](https://www.westminster.edu/resources/dean/view_course_syllabus.cfm?id=769)  
    [CS 783 - Cornell University](http://www.cs.cornell.edu/courses/cs783/2007fa/) which has not been linked in relevant section due to being a graduate-level course
 
+- Compiler Design
+   
+   [CS143 at Stanford University](https://web.stanford.edu/class/cs143/)
+   [CS4120 at Cornell University](http://www.cs.cornell.edu/courses/cs4120/2013fa/)
+   [CS5470 at university of Utah](https://courses.engr.illinois.edu/cs421/fa2014/)
+
 - Computer Networks
 
    [CS 6250 - Georgia Institute of Technology](https://www.omscs.gatech.edu/cs-6250-computer-networks)  
@@ -721,7 +757,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [CS 640 - University of Wisconsin-Madison](http://pages.cs.wisc.edu/~pb/cs640.html)  
    [CS 408 - Sabancı Üniversitesi](http://people.sabanciuniv.edu/levi/cs408/)  
    [CS 527 - University of British Columbia](https://www.cs.ubc.ca/~bestchai/teaching/cs527_2015w1/index.html) is a PhD level course judging by appearance, so it has not been linked in the relevant section.
-
+   
 - Software Engineering
 
    [CS32 - Brown University](http://cs.brown.edu/courses/cs0320/)  
@@ -764,6 +800,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [**Information Theory, Inference, and Learning Algorithms**](http://www.inference.org.uk/mackay/itila/book.html) by David J. C. Mackay  
    [2011 Workshop on Complexity Information Theory in Theoretical Computer Science and Discrete Mathematics](http://sites.math.rutgers.edu/~saks/IT/)  
    [A Mathematical Theory of Communication - Claude Shannon (1948)](math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)  
+   [Awesome Compilers - GitHub](https://github.com/aalhour/awesome-compilers)
    [Introduction to Software Engineering - Wikibooks](https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering)  
    [Software Engineering book by Ivan Marsic](http://www.ece.rutgers.edu/~marsic/books/SE/book-SE_marsic.pdf)  
    [Supplementary Material for **Object-Oriented Software Engineering**](http://www.site.uottawa.ca/school/research/lloseng/) by Lethbridge and Laganière  

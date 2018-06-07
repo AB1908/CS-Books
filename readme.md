@@ -14,5 +14,6 @@ Being an avid book reader, I have found it absurdly difficult to find a comprehe
 - [Discrete Mathematics](Curriculum.md/#discrete-mathematics)
 - [Computer Graphics](Curriculum.md/#computer-graphics)
 - [Information Theory and Coding](Curriculum.md/#information-theory-and-coding)
+- [Compiler Design](Curriculum.md/#compiler-design)
 - [Computer Networks](Curriculum.md/#computer-networks)
 - [Software Engineering](Curriculum.md/#software-engineering)
