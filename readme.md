@@ -8,6 +8,7 @@ Being an avid book reader, I have found it absurdly difficult to find a comprehe
 - [Computer Organisation and Architecture](Curriculum.md/#computer-organisation-and-architecture)
 - [Theory of Computation](Curriculum.md/#theory-of-computation)
 - [Operating Systems](Curriculum.md/#operating-systems)
+- [Data Communication](Curriculum.md/#data-communication)
 - [Microprocessors and Microcontrollers](Curriculum.md/#microprocessors-and-microcontrollers)
 - [Discrete Mathematics](Curriculum.md/#discrete-mathematics)
 - [Computer Graphics](Curriculum.md/#computer-graphics)
