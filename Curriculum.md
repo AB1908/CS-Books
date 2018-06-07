@@ -83,6 +83,8 @@ There are plenty more books than listed and more courses than I'd care to link.
 6. **Algorithms** - Christos Papadimitriou, Sanjoy Dasgupta, and Umesh Vazirani
 7. **Algorithm Design** - Jon Kleinberg and Éva Tardos
 8. **Introduction to Algorithms: A Creative Approach** - Udi Manber
+9. **An Introduction to the Analysis of Algorithms** - Robert Sedgewick and Philippe Flajolet
+10. **Algorithms** - Robert Sedgewick and Kevin Wayne
 
 ## Theory of Computation
 
