@@ -151,18 +151,26 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 [6] - Basically a cheaper version of [1] recommended as the reference textbook for [CU's COMS W4118](http://www.cs.columbia.edu/~jae/4118/).
 
 ## Data Communication
-
+<!-- Data transmission fundamentals: historical overview; time/frequency representation of data signals; elements of a communications link; definition of key terms; factors affecting system design, Binary and multi-level signaling: information transfer rate; calculation of channel capacity; bandwidth efficiency, Baseband data transmission: the problem of inter symbol interference; achieving a Nyquist channel response; recovery of symbols from noise; bit error rate performance for baseband data systems, Bandpass digital modulation: binary modulation schemes (eg ASK, FSK, PSK); multi-level digital modulation (e.g. M-ary ASK, M-ary FSK, M-ary PSK, QAM), Coding theory and practice: source coding; channel coding; block coding; convolutional coding; combined coding and modulation, Multi-user digital modulation techniques such as frequency division multiple access (FDMA); time division multiple access (TDMA); code division multiple access (CDMA); combined multiple access systems; Error detection and correction, Digital transmission fundamental  -->
 ### Standard Textbooks
 
-1. B. A. Forouzan, **Data Communication and Networking**, Tata McGraw Hill, 4th Ed, 2007.
-2. A. S. Tanenbaum, **Computer Networks**, Prentice Hall of India, 4th Ed, 2006.
+1. **Data Communication and Networking** - B. A. Forouzan
+2. **Computer Networks** - Andrew S. Tanenbaum
 
 ### Alternative/Supplementary
 
-1. F. Halsall, **Data Communication, Computer Networks and Open Systems**, 4th Ed, AddisonWelsey, 2003.
-2. B. A. Forouzan, **TCP/IP Protocol Suit**, Tata McGraw Hill, 3rd Ed, 2006.
-3. W. Stallings, **Data and Computer Communications**, Prentice Hall of India, 8th Ed. 2007.
-4. Leon-Garcia & I Widjaja, **Communication Networks, Fundamental Concepts & Key Architecture**, Tata McGraw Hill, 2nd Ed, 2003
+1. **Data Communication, Computer Networks and Open Systems** - Fred Halsall
+2. **TCP/IP Protocol Suite** - B. A. Forouzan
+3. **Data and Computer Communications** - William Stallings [1]
+4. **Communication Networks, Fundamental Concepts & Key Architecture** - Leon-Garcia and I. Widjaja
+
+### Notes
+
+- Please help. I found nothing on the web with similar syllabus, which has been commented out. See source code.
+
+[1] - Used as the reference for
+
+- [CS 3413 at UTSA](http://www.cs.utsa.edu/~korkmaz/teaching/cs3413/)
 
 ## Microprocessors and Microcontrollers
 
@@ -287,6 +295,10 @@ Online courses about Microprocessors are rather difficult to come by.
    [CS422/522 - Yale University](http://flint.cs.yale.edu/cs422/)  
    [CS 140 - Harvard University](http://www.eecs.harvard.edu/~cs161/)  
    [COMS W4118 - Columbia University](http://www.cs.columbia.edu/~jae/4118/)  
+
+- Data Communications
+
+   [CS 3413 - University of Texas at San Antonio](http://www.cs.utsa.edu/~korkmaz/teaching/cs3413/)
 
 - Microprocessors and Microcontrollers
 
