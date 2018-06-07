@@ -70,21 +70,57 @@ There are plenty more books than listed and more courses than I'd care to link.
 
 ### Standard Textbooks
 
-1. **Fundamentals of Computer Algorithms** - Ellis Horowitz, Sartaj Sahni and S. Rajasekaran
-2. **Introduction to Algorithms** - Thomas Cormen, C. Leiserson, and R. Rivest and C. Stain
+1. **Introduction to Algorithms** - Thomas Cormen, C. Leiserson, and R. Rivest and C. Stein (*CLRS*) [1]
+2. **Algorithm Design** - Jon Kleinberg and Éva Tardos (*KT*) [2]
+3. **Algorithms** - Christos Papadimitriou, Sanjoy Dasgupta, and Umesh Vazirani (*DPV*) [3]
 
 ### Alternative/Supplementary
 
-1. **Design and Analysis of Algorithm** - P. H. Dave and H. B. Dave
-2. **Design Methods and Analysis of Algorithms** - S. K. Basu
-3. **Algorithm Design** - J. Kleinberg and E. Tardos
-4. **Algorithm Design: Foundations, Analysis and Internet Examples** - Michael T. Goodrich and Roberto Tamassia
-5. **Algorithms in a Nutshell: A Practical Guide** - George T. Heineman and Gary Pollice
-6. **Algorithms** - Christos Papadimitriou, Sanjoy Dasgupta, and Umesh Vazirani
-7. **Algorithm Design** - Jon Kleinberg and Éva Tardos
-8. **Introduction to Algorithms: A Creative Approach** - Udi Manber
-9. **An Introduction to the Analysis of Algorithms** - Robert Sedgewick and Philippe Flajolet
-10. **Algorithms** - Robert Sedgewick and Kevin Wayne
+1. **The Algorithm Design Manual** - Steven Skiena [4]
+2. **Algorithms** - Robert Sedgewick and Kevin Wayne [5]
+3. **Introduction to Algorithms: A Creative Approach** - Udi Manber [6]
+4. **Fundamentals of Computer Algorithms** - Ellis Horowitz, Sartaj Sahni and S. Rajasekaran
+5. **An Introduction to the Analysis of Algorithms** - Robert Sedgewick and Philippe Flajolet
+6. **Design and Analysis of Algorithm** - P. H. Dave and H. B. Dave
+7. **Design Methods and Analysis of Algorithms** - S. K. Basu
+8. **Algorithms in a Nutshell: A Practical Guide** - George T. Heineman and Gary Pollice
+9. **Algorithm Design: Foundations, Analysis and Internet Examples** - Michael T. Goodrich and Roberto Tamassia
+
+### Notes
+
+- Algorithms are a vast topic and merit their own course altogether due to there being many subtopics such as randomised, parallel, approximation and so on, each having entire textbooks on them. This particular topic is meant to serve as an introduction to each subtopic by focusing on the underlying principles used in designing the algorithm. There are many MOOCs to cater to students, again linked [here]().
+- There are, again, numerous resources on the web related to the topic and if a major course related to it hasn't made it to the list, contributions are extremely welcome.
+- [CSC2420 at UoT](http://www.cs.toronto.edu/~bor/2420f12/) does not use a single source. Instead it uses a combination of [1], [3] and [2].
+- [5] is used as the basis for [Sedgewick and Wayne's online course on Coursera](https://www.coursera.org/teach/algorithms-part1) with a [second part](https://www.coursera.org/teach/algorithms-part2).
+- [2] has a revised version of slides to accompany the textbook available [here](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/).
+- [Algorithms, Etc. by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/) is a set of notes that covers the material necessary for his course at University of Illinois.
+- *TAOCP* also serves as a useful reference for many algorithms typically studied as part of an undergraduate level course. It is quite mathematical so typically many students find it a hard read.
+
+[1] - Typically used as an encyclopedic reference for most topic, rather than an introduction to algorithms. Used as the reference for
+
+- [CS 600 A at SIT](https://www.cs.stevens.edu/~swetzel/CS600/spring11/)
+- [15-451/651 at CMU](https://www.cs.cmu.edu/~15451/) which also recommends [3] but either can be used, while an [older version](http://www.cs.cmu.edu/~avrim/451f09/index.html) has it's own set of notes
+- [CS 466/666 at UoW](https://cs.uwaterloo.ca/~eblais/courses/F17/CS466/) with additional material described [here](https://cs.uwaterloo.ca/~eblais/courses/F17/CS466/outline.pdf)
+
+[2] - Used as the reference for
+
+- [CSci 256 at WC](https://www.cs.williams.edu/~lenhart/cs256/index.html)
+- [CPSC500 at UBC](http://www.cs.ubc.ca/~condon/cpsc500/) with [3] additionally recommended along with other texts
+- [CS 7200 at WU](http://cecs.wright.edu/~tkprasad/courses/cs7200/cs7200.html) with [1] additionally used for reference
+- [CS 161 at Stanford](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms) where Tim has made his lecture videos available to all
+- [CS 7820 at Cornell](http://www.cs.cornell.edu/courses/cs6820/2009fa/) taken by **Jon Kleinberg**
+
+[3] - Used as the reference for
+
+- [CS 157 at Brown](https://cs.brown.edu/courses/cs157/)
+
+[4] - Used as the reference for
+
+- [CSE 373 at SUNY](http://www3.cs.stonybrook.edu/~skiena/373/) which is taken by **Steven Skiena**
+
+[5] - Used as the reference for
+
+- [COS226 at Princeton](http://www.cs.princeton.edu/courses/archive/spring18/cos226/) with a [condensed version of the book](https://algs4.cs.princeton.edu/home/) available for reference
 
 ## Theory of Computation
 
@@ -162,7 +198,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 - [TOM-2.1-CS at UT](https://wwwhome.ewi.utwente.nl/~pieter/CS-OS/)
 - [CS 372 at UT Austin](http://www.cs.utexas.edu/users/witchel/372/) although certain readings are from [1] as well.
 
-[3] - [**OSTEP**](http://pages.cs.wisc.edu/~remzi/OSTEP/) was made as a companion for a [course on Operating Systems at UWISC](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), which is freely available. The professors also recommend reading classic texts such as **Linux Kernel Development** and **The C Programming Language** (K&R). It is also used as a reference for [WPI's CS 3013](https://web.cs.wpi.edu/~cshue/cs3013/). Apart from being my personal recommendation for an introduction to Operating Systems, it is also recommended over at [Teach Yourself Computer Science](https://teachyourselfcs.com/£oeprating-systems)(_TYCS_).
+[3] - [**OSTEP**](http://pages.cs.wisc.edu/~remzi/OSTEP/) was made as a companion for a [course on Operating Systems at UWISC](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), which is freely available. The professors also recommend reading classic texts such as **Linux Kernel Development** and **The C Programming Language** (K&R). It is also used as a reference for [WPI's CS 3013](https://web.cs.wpi.edu/~cshue/cs3013/). Apart from being my personal recommendation for an introduction to Operating Systems, it is also recommended over at [Teach Yourself Computer Science](https://teachyourselfcs.com/£oeprating-systems) (_TYCS_).
 
 [4] - Used as the reference for
 
@@ -684,6 +720,7 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ## Resources
 
+   [**The Algorithm Design Manual**](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) by Steven Skiena (for online reading)  
    [CS Readings](http://www.cs.virginia.edu/~robins/CS_readings.html)
    [Xv6, a simple Unix-like teaching operating system - PDOS-MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)  
    [**Operating Systems: Three Easy Pieces**](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
@@ -704,7 +741,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [A Mathematical Theory of Communication - Claude Shannon (1948)](math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)  
    [Introduction to Software Engineering - Wikibooks](https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering)  
    [Software Engineering book by Ivan Marsic](http://www.ece.rutgers.edu/~marsic/books/SE/book-SE_marsic.pdf)  
-   [Supplementary Material for **Object-Oriented Software Engineering** by Lethbridge and Laganière](http://www.site.uottawa.ca/school/research/lloseng/)  
+   [Supplementary Material for **Object-Oriented Software Engineering**](http://www.site.uottawa.ca/school/research/lloseng/) by Lethbridge and Laganière  
    [Software Engineering Notes from CS 440 at UIC](https://www.cs.uic.edu/~jbell/CourseNotes/OO_SoftwareEngineering/)  
 
 # Miscellaneous links
