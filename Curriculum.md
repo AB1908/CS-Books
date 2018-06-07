@@ -1,6 +1,7 @@
 # CS Curriculum Textbooks and References
 
 - [Computer Organisation and Architecture](#computer-organisation-and-architecture)
+- [Algorithm Design and Analysis](#algorithm-design-and-analysis)
 - [Theory of Computation](#theory-of-computation)
 - [Operating Systems](#operating-systems)
 - [Data Communication](#data-communication)
@@ -64,6 +65,18 @@ There are plenty more books than listed and more courses than I'd care to link.
 [9] - Used as the reference for
 
 - [EE382 at Stanford](https://web.stanford.edu/class/ee382/)
+
+## Algorithm Design and Analysis
+
+### Standard Textbooks
+
+1. **Fundamentals of Computer Algorithms** - Ellis Horowitz, Sartaj Sahni and S. Rajasekaran
+2. **Introduction to Algorithms** - Thomas Cormen, C. Leiserson, and R. Rivest and C. Stain
+
+### Alternative/Supplementary
+
+1. **Design and Analysis of Algorithm** - P. H. Dave and H. B. Dave
+2. **Design Methods and Analysis of Algorithms** - S. K. Basu
 
 ## Theory of Computation
 
