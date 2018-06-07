@@ -1,5 +1,6 @@
 # CS Curriculum Textbooks and References
 
+- [Principles of Programming Languages](#principles-of-programming-languages)
 - [Computer Organisation and Architecture](#computer-organisation-and-architecture)
 - [Algorithm Design and Analysis](#algorithm-design-and-analysis)
 - [Theory of Computation](#theory-of-computation)
@@ -12,6 +13,19 @@
 - [Compiler Design](#compiler-design)
 - [Computer Networks](#computer-networks)
 - [Software Engineering](#software-engineering)
+
+## Principles of Programming Languages
+
+### Standard Textbooks
+
+1. **Programming Languages – Concepts & Constructs** - R. Sethi
+
+### Alternative/Supplementary
+
+1. **Concepts of Programming Languages** - Robert W. Sebesta
+2. **Programming Language Pragmatcs** - Michael L. Scot
+3. **Programming Languages: Design and Implementaton** - T. W. Prat & M. V. Zelkowitz
+4. **Programming Languages: Applicaton and Intepretaton** - S. Krishnamurthi
 
 ## Computer Organisation and Architecture
 
@@ -455,14 +469,14 @@ Online courses about Microprocessors are rather difficult to come by.
 ### Standard Textbooks
 
 1. **Compilers: Principles, Techniques, and Tools** - A. V. Aho, Ravi Sethi & Jeffrey D. Ullman [1]
-2. **Compiler Construction Principles and Practice** - K. C. Louden 
+2. **Compiler Construction Principles and Practice** - K. C. Louden
 3.  **Modern compiler implementation in ML** - A. W. Appel [2]
 
 ### Alternative/Supplementary
 
 1. **Compiler Construction: Theory and Practice** - W. A. Barrett, John D. Couch, C. Couch
 2. **Engineering a Compiler** - Keith D Cooper and Linda Torczon
-3. **Modern Compiler Design** - Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs, Koen Langendoen 
+3. **Modern Compiler Design** - Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs, Koen Langendoen
 
 ### Notes
 
@@ -472,9 +486,9 @@ Online courses about Microprocessors are rather difficult to come by.
 - [CS4120 at Cornell University](http://www.cs.cornell.edu/courses/cs4120/2013fa/)
 - [CS5470 at university of Utah](https://courses.engr.illinois.edu/cs421/fa2014/)
 
-[2] - Used as reference for 
+[2] - Used as reference for
 
-- [CS421 at University of Illinois](https://courses.engr.illinois.edu/cs421/fa2014/) 
+- [CS421 at University of Illinois](https://courses.engr.illinois.edu/cs421/fa2014/)
 
 ## Computer Networks
 
@@ -604,7 +618,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [Automata Theory - Further reading](https://en.wikipedia.org/wiki/Automata_theory#Further_reading)  
    [Operating System - Further reading](https://en.wikipedia.org/wiki/Operating_system#Futher_reading)  
    [Computer Network - Further Reading](https://en.wikipedia.org/wiki/Computer_network#Further_reading)
-   [Principles of Compiler Design -Further Reading]( https://en.wikipedia.org/wiki/Principles_of_Compiler_Design#Further_reading) 
+   [Principles of Compiler Design -Further Reading]( https://en.wikipedia.org/wiki/Principles_of_Compiler_Design#Further_reading)
    [List of Important Publications in Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)  
    [Discrete Mathematics - Further Reading](https://en.wikipedia.org/wiki/Discrete_mathematics#Further_reading)  
    [Discrete Mathematics - Wikibooks](https://en.wikibooks.org/wiki/Discrete_Mathematics)  
@@ -740,7 +754,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [CS 783 - Cornell University](http://www.cs.cornell.edu/courses/cs783/2007fa/) which has not been linked in relevant section due to being a graduate-level course
 
 - Compiler Design
-   
+
    [CS143 at Stanford University](https://web.stanford.edu/class/cs143/)
    [CS4120 at Cornell University](http://www.cs.cornell.edu/courses/cs4120/2013fa/)
    [CS5470 at university of Utah](https://courses.engr.illinois.edu/cs421/fa2014/)
@@ -757,7 +771,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [CS 640 - University of Wisconsin-Madison](http://pages.cs.wisc.edu/~pb/cs640.html)  
    [CS 408 - Sabancı Üniversitesi](http://people.sabanciuniv.edu/levi/cs408/)  
    [CS 527 - University of British Columbia](https://www.cs.ubc.ca/~bestchai/teaching/cs527_2015w1/index.html) is a PhD level course judging by appearance, so it has not been linked in the relevant section.
-   
+
 - Software Engineering
 
    [CS32 - Brown University](http://cs.brown.edu/courses/cs0320/)  
