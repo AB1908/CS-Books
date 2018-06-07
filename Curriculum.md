@@ -34,6 +34,12 @@
 7. **Principles of Programming Languages** - Chopra Rajiv
 8. **Principles of Programming Languages** - Dowek
 10. **Programming Languages: Principles & Practices 3rd Edition** - Kenneth C. Louden
+7. **Design Concepts in Programming Languages** - Franklyn Turbak and David Gifford
+7. **Concepts, Techniques and Models of Computer Programming** - Peter Van Roy and Seif Haridi
+7. **Essentials of Programming Languages, 3rd Edition** - Daniel P. Friedman
+7. **Programming Languages: Application and Interpretation** - Shriram Krishnamurthi course with videos PLAI-1st
+7. **Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp** - Peter Norvig
+7. **Programming Language Pragmatics** - Michael L. Scott
 
 ## Computer Organisation and Architecture
 
