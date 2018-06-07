@@ -114,7 +114,7 @@ There are plenty more books than listed and more courses than I'd care to link.
 
 - [CS 157 at Brown](https://cs.brown.edu/courses/cs157/)
 
-[4] - Used as the reference for
+[4] - Recommended by *TYCS*. Used as the reference for
 
 - [CSE 373 at SUNY](http://www3.cs.stonybrook.edu/~skiena/373/) which is taken by **Steven Skiena**
 
@@ -566,6 +566,13 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ## Websites
 
+   [Teach Yourself CS](https://teachyourselfcs.coms)  
+   [List of Notable Publications in Software Engineering - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering#Notable_publications)  
+   [List of Important Publications in Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)  
+   [Is there a list of the canonical introductory textbooks covering the major branches of computer science? - /r/COMPSCI](https://np.reddit.com/r/compsci/comments/gprp0/is_there_a_list_of_the_canonical_introductory/c1pcqe5/)  
+   [What are the canon books in Computer Science? - /r/COMPSCI](https://www.reddit.com/r/compsci/comments/40mq3q/what_are_the_canon_books_in_computer_science/)  
+   [What Books Should Everyone Read? - Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/questions/3253/what-books-should-everyone-read)  
+   [What papers should everyone read? - Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read?noredirect=1&lq=1)  
    [Theory of Computation - Further reading](https://en.wikipedia.org/wiki/Theory_of_computation#Further_reading)  
    [Automata Theory - Further reading](https://en.wikipedia.org/wiki/Automata_theory#Further_reading)  
    [Operating System - Further reading](https://en.wikipedia.org/wiki/Operating_system#Futher_reading)  
@@ -573,10 +580,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [Discrete Mathematics - Wikibooks](https://en.wikibooks.org/wiki/Discrete_Mathematics)  
    [Computer Network - Further Reading](https://en.wikipedia.org/wiki/Computer_network#Further_reading)  
    [Information Theory - References](https://en.wikipedia.org/wiki/Information_theory#References)  
-   [List of Notable Publications in Software Engineering - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering#Notable_publications)  
-   [List of Important Publications in Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)  
    [Best Reference Books - San Foundry](https://www.sanfoundry.com/best-reference-books-computer-science-engineering/)  
-   [Teach Yourself CS](https://teachyourselfcs.coms)  
 
 ## Courses
 
@@ -592,6 +596,22 @@ Online courses about Microprocessors are rather difficult to come by.
    [15-213/18-213 - Carnegie Mellon University](http://www.cs.cmu.edu/%7E213/)  
    [CS107 - Stanford University](http://web.stanford.edu/class/cs107/)  
    [EE382 - Stanford University](https://web.stanford.edu/class/ee382/)  
+
+- Algorithm Design and Analysis
+
+   [CS 600 A - Stevens Institute of Technology](https://www.cs.stevens.edu/~swetzel/CS600/spring11/)  
+   [CSC2420 - University of Toronto](http://www.cs.toronto.edu/~bor/2420f12/)  
+   [15-451/651 - Carnegie Mellon University](https://www.cs.cmu.edu/~15451/)  
+   [15-451/651 - Carnegie Mellon University](http://www.cs.cmu.edu/~avrim/451f09/index.html) (older Fall 2009 version)  
+   [CS 466/666 - University of Waterloo](https://cs.uwaterloo.ca/~eblais/courses/F17/CS466/)  
+   [CSci 256 - Williams College](https://www.cs.williams.edu/~lenhart/cs256/index.html)  
+   [CPSC500 - University of British Columbia](http://www.cs.ubc.ca/~condon/cpsc500/)  
+   [CS 7200 - Wright State University](http://cecs.wright.edu/~tkprasad/courses/cs7200/cs7200.html)  
+   [CS 161 - Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)  
+   [CS 7820 - Cornell University](http://www.cs.cornell.edu/courses/cs6820/2009fa/) taken by **Jon Kleinberg**  
+   [CS 157 - Brown University](https://cs.brown.edu/courses/cs157/)  
+   [CSE 373 - State University of New York](http://www3.cs.stonybrook.edu/~skiena/373/) taken by **Steven Skiena**  
+   [COS226 - Princeton University](http://www.cs.princeton.edu/courses/archive/spring18/cos226/)  
 
 - Theory of Computation
 
@@ -721,6 +741,11 @@ Online courses about Microprocessors are rather difficult to come by.
 ## Resources
 
    [**The Algorithm Design Manual**](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) by Steven Skiena (for online reading)  
+   [Algorithms Part I](https://www.coursera.org/teach/algorithms-part1) and [Part II](https://www.coursera.org/teach/algorithms-part2) taught by **Sedgewick** and **Wayne** on Coursera  
+   [Lecture Slides for Kleinberg-Tardos](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/)  
+   [Algorithms, Etc. by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)  
+   [Algorithm Notes for CS 466 at Waterloo](https://cs.uwaterloo.ca/~eblais/courses/F17/CS466/outline.pdf)  
+   [**Algorithms**](https://algs4.cs.princeton.edu/home/) by Robert Sedgewick and Kevin Wayne (condensed version for reference)  
    [CS Readings](http://www.cs.virginia.edu/~robins/CS_readings.html)
    [Xv6, a simple Unix-like teaching operating system - PDOS-MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)  
    [**Operating Systems: Three Easy Pieces**](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
@@ -747,7 +772,3 @@ Online courses about Microprocessors are rather difficult to come by.
 # Miscellaneous links
 
    [ACM Classic Books Series](https://dl.acm.org/classics.cfm)
-   [Is there a list of the canonical introductory textbooks covering the major branches of computer science? - /r/COMPSCI](https://np.reddit.com/r/compsci/comments/gprp0/is_there_a_list_of_the_canonical_introductory/c1pcqe5/)  
-   [What are the canon books in Computer Science? - /r/COMPSCI](https://www.reddit.com/r/compsci/comments/40mq3q/what_are_the_canon_books_in_computer_science/)  
-   [What Books Should Everyone Read? - Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/questions/3253/what-books-should-everyone-read)  
-   [What papers should everyone read? - Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read?noredirect=1&lq=1)  
