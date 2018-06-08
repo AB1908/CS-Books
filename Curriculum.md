@@ -1,5 +1,6 @@
 # CS Curriculum Textbooks and References
 
+- [Data Structure and Algorithms](#data-structure-and-algorithms)
 - [Principles of Programming Languages](#principles-of-programming-languages)
 - [Computer Organisation and Architecture](#computer-organisation-and-architecture)
 - [Algorithm Design and Analysis](#algorithm-design-and-analysis)
@@ -13,6 +14,20 @@
 - [Compiler Design](#compiler-design)
 - [Computer Networks](#computer-networks)
 - [Software Engineering](#software-engineering)
+
+## Data Structures and Algorithms
+
+### Standard Textbooks
+
+1. **Introduction to Data Structures with applications** - Tremblay and Sorenson
+2. **Data Structures and Algorithm Analysis in C** - M. A. Weiss
+
+### Alternative/Supplementary
+
+1. **Data Structures, Algorithms and Applications in C++** - Sartaj Sahani
+2. **Data Structures and Algorithms** - Alfred V. Aho, John E. Hopcroft and Jeffrey D. Ullman
+3. **Data Structures and Algorithms: Concepts, Techniques and Applications** - G. A. V. Pai
+4. **Data Structures** - D. Samanta
 
 ## Principles of Programming Languages
 
@@ -116,8 +131,7 @@
 8. **Structured Computer Organization** - Andrew S. Tanenbaum
 9. **The Principles of Computer Hardware** - A. Clements
 10. **Fundamentals of Computer Architecture** - M. Burrell
-11. **Computer Architecture: Pipelined and Parallel Processor
-Design** - Michael J. Flynn [9]
+11. **Computer Architecture: Pipelined and Parallel Processor Design** - Michael J. Flynn [9]
 
 ### Notes
 
@@ -290,6 +304,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 - [Yale's CS422/522](http://flint.cs.yale.edu/cs422/)
 
 [5] - Used as the reference for
+
 - [CS 161 at HU](http://www.eecs.harvard.edu/~cs161/)
 
 [6] - Basically a cheaper version of [1] recommended as the reference textbook for [CU's COMS W4118](http://www.cs.columbia.edu/~jae/4118/).
@@ -539,7 +554,7 @@ Online courses about Microprocessors are rather difficult to come by.
 
 1. **Compilers: Principles, Techniques, and Tools** - A. V. Aho, Ravi Sethi & Jeffrey D. Ullman [1]
 2. **Compiler Construction Principles and Practice** - K. C. Louden
-3.  **Modern compiler implementation in ML** - A. W. Appel [2]
+3. **Modern compiler implementation in ML** - A. W. Appel [2]
 
 ### Alternative/Supplementary
 
@@ -595,6 +610,7 @@ Online courses about Microprocessors are rather difficult to come by.
 - [CS 640 at UWISC](http://pages.cs.wisc.edu/~pb/cs640.html)
 
 [4] - Used as the reference for
+
 - [CS 408 at SU](http://people.sabanciuniv.edu/levi/cs408/)
 
 [5] - It is regarded as the standard textbook in the field [according to Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Networking).
