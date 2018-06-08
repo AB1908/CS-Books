@@ -18,7 +18,7 @@
 
 ### Standard Textbooks
 
-1. **Programming Languages – Concepts & Constructs** - Ravi Sethi [1]
+1. **Programming Languages – Concepts & Constructs** - Ravi Sethi
 
 ### Alternative/Supplementary
 
@@ -29,27 +29,68 @@
 1. **A Formal Semantics of Programming Languages: An Introduction** - Glynn Winskel [13]
 2. **Foundations for Programming Languages** - John C. Mitchell [12]
 3. **Types and Programming Languages** - Benjamin C. Pierce (*TAPL*) [6]
-4. **Essentials of Programming Languages** - Daniel P. Friedman, Mitchell Wand and Christopher T. Haynes (*EOPL*) [7]
+4. **Essentials of Programming Languages** - Daniel P. Friedman, Mitchell Wand and Christopher T. Haynes (*EOPL*) [1]
 6. **The Lambda Calculus: Its Syntax and Semantics** - H. P. Barendregt
 7. **Principles of Programming Languages** - Chopra Rajiv
 8. **Principles of Programming Languages** - Dowek
-10. **Programming Languages: Principles & Practices** - Kenneth C. Louden
+10. **Programming Languages: Principles & Practices** - Kenneth C. Louden [17]
 7. **Design Concepts in Programming Languages** - Franklyn Turbak and David Gifford
 7. **Concepts, Techniques and Models of Computer Programming** - Peter Van Roy and Seif Haridi [8]
 7. **Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp** - Peter Norvig [9]
 18. **Structure and Interpretation of Computer Programs** -	Harold Abelson, Gerald Jay Sussman and Julie Sussman (*SICP*) [10]
 19. **Theories of Programming Languages** - John C. Reynolds [11]
 20. **Practical Foundations of Programming Languages** - Robert Harper [14]
+21. **Concepts in Programming Languages** - John C. Mitchell [15]
+22. **Programming Languages: Principles and Paradigms** - Maurizio Gabbrielli and Simone Martini [16]
 
 ### Notes
 
 - **Benjamin Pierce** has a [**list of Great Works in Programming Languages**](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml).
+- [CSE526 at SUNY, SB](https://bsd7.cs.stonybrook.edu/~cse526/) has a list of reading from different books and papers in addition to the lecture notes.
+- [Principles of Programming Langugages at DEIB-P](https://home.deib.polimi.it/pradella/PL.html) has a list of readings from every language and has a list of papers to go through. There is no recommended textbook from the list above.
+- [CS 152 at Harvard](https://www.seas.harvard.edu/courses/cs152/2018sp/index.html) uses notes for their readings but also recommends [15], [6], [13] and [5] for additional reference.
+- [CS 6110 at Cornell](https://www.cs.cornell.edu/courses/cs6110/2018sp/index.html) has no required textbook but recommends [13] and [6] for additional reading.
 
-- [CS 152 at Harvard](https://www.cs.cmu.edu/~jcr/tpl.html) uses notes for their readings but also recommends [12], [6], [13] and [5] for additional reference.
+[1] - Used as the reference for
 
-[7] - Used as the reference for
+- [CS 6848 at IIT, Madras](https://www.cse.iitm.ac.in/~krishna/courses/2015/odd-cs6848/) along with [6], with [15] and [14] for additional reference
+- [Principles of Programming Languages at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/principles/)
+- [CS G111 at NEU](https://course.ccs.neu.edu/csg111/)
+- [CSCI-UA.0480-006](https://cs.nyu.edu/wies/teaching/popl-15/) and has a host of other useful links
+- [CS704 at UWISC](https://github.com/barghouthi/cs704) and has a number of other recommendations as well
+- [CSCI 3155 at UCB](http://csci3155.cs.colorado.edu/s18/) but the recommended readings are from notes with a bunch of other resources linked
 
-- [CS 6848 at IIT, Madras](https://www.cse.iitm.ac.in/~krishna/courses/2015/odd-cs6848/) along with [6], with [12] and [14] for additional reference
+[15] - Please make sure to go through the [errata listed](http://theory.stanford.edu/people/jcm/books/cpl-errata.html) when using this book. Used as the reference for
+
+- [CS 59 at Dartmouth](http://www.cs.dartmouth.edu/~sergey/cs59/syllabus.pdf) is a syllabus only page with many other materials on the instructor's website and also uses some material from [10]
+- [CSCI 334 at WC](http://www.cs.williams.edu/~dbarowy/cs334s18/)
+
+[14] - Used as the reference for
+
+- [15-312 at CMU](https://www.cs.cmu.edu/~jcr/tpl.html)
+
+[2] - Used as the reference for
+
+- [CSC 272 at AU](https://home.adelphi.edu/~siegfried/cs272/)
+- [CS 3MI3 at MMU](http://www.cas.mcmaster.ca/~franek/courses/cs3mi3/)
+
+[3] - Used as the reference for
+
+- [CS 245 at BMC](https://cs.brynmawr.edu/Courses/cs245/fall2010/)
+- [CSc 520 at UAT](https://www2.cs.arizona.edu/classes/cs520/spring06/)
+- [CSCI 3136 at Dal](https://web.cs.dal.ca/~nzeh/Teaching/3136/index.html) which also recommends reading [10], [2], [4] and **The Cinderella Book**
+
+[5] - Used as the reference for
+
+- [COMP 411 at RU](https://www.cs.rice.edu/~javaplt/411/14-spring/)
+
+[16] - Used as the reference for
+
+- [TIE-20306 at TUT](http://www.cs.tut.fi/~popl/nykyinen/index.shtml) along with a free *Finnish* textbook
+
+[17] - Used as the reference for
+
+- [CMSC 245 at HC](https://www.haverford.edu/computer-science/course-pages/2016f-cmsc-245-principles-programming-languages) (Note: Syllabus page only)
 
 ## Computer Organisation and Architecture
 
@@ -155,7 +196,7 @@ There are plenty more books than listed and more courses than I'd care to link.
 
 [4] - Recommended by *TYCS*. Used as the reference for
 
-- [CSE 373 at SUNY](http://www3.cs.stonybrook.edu/~skiena/373/) which is taken by **Steven Skiena**
+- [CSE 373 at SUNY, SB](http://www3.cs.stonybrook.edu/~skiena/373/) which is taken by **Steven Skiena**
 
 [5] - Used as the reference for
 
@@ -190,7 +231,7 @@ There are plenty more books than listed and more courses than I'd care to link.
 
 - [CS 3102 at UoV](http://www.cs.virginia.edu/~robins/cs3102/)
 - [CS-251 at EPFL](http://theory.epfl.ch/cs251/Home.html)
-- [CS 3800 at NU](https://course.ccs.neu.edu/cs3800f17wc/policies.html)
+- [CS 3800 at NEU](https://course.ccs.neu.edu/cs3800f17wc/policies.html)
 - [CS39 at Dartmouth](https://www.cs.dartmouth.edu/~ac/Teach/CS39-Spring18/)
 
 [4] - Used as the reference for
