@@ -33,6 +33,8 @@
 7. **Fundamentals of Data Structures in C** - Ellis Horowitz
 8. **How to Solve it - Computer** - R. G. Dromey
 9. **Data Structures Through C In Depth** - Srivastava
+10. **Handbook of Algorithms and Data Structures - in Pascal and C** - G. H. Gonnet and R. Baeza-Yates
+11. **Fundamentals of Data Structures in Pascal** - Ellis Horowitz and Sartaj Sahni
 
 ## Principles of Programming Languages
 
