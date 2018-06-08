@@ -18,79 +18,79 @@
 
 ### Standard Textbooks
 
-1. **Programming Languages – Concepts & Constructs** - Ravi Sethi
+1. **Essentials of Programming Languages** - Daniel P. Friedman, Mitchell Wand and Christopher T. Haynes (*EOPL*) [1]
+2. **Concepts in Programming Languages** - John C. Mitchell [2]
+3. **Programming Languages: Application and Interpretation** - S. Krishnamurthi (*PLAI*) [3]
 
 ### Alternative/Supplementary
 
-1. **Concepts of Programming Languages** - Robert W. Sebesta [2]
-2. **Programming Language Pragmatics** - Michael L. Scott [3]
-3. **Programming Languages: Design and Implementation** - T. W. Prat & M. V. Zelkowitz [4]
-4. **Programming Languages: Application and Interpretation** - S. Krishnamurthi (*PLAI*) [5]
-1. **A Formal Semantics of Programming Languages: An Introduction** - Glynn Winskel [13]
-2. **Foundations for Programming Languages** - John C. Mitchell [12]
-3. **Types and Programming Languages** - Benjamin C. Pierce (*TAPL*) [6]
-4. **Essentials of Programming Languages** - Daniel P. Friedman, Mitchell Wand and Christopher T. Haynes (*EOPL*) [1]
-6. **The Lambda Calculus: Its Syntax and Semantics** - H. P. Barendregt
-7. **Principles of Programming Languages** - Chopra Rajiv
-8. **Principles of Programming Languages** - Dowek
-10. **Programming Languages: Principles & Practices** - Kenneth C. Louden [17]
-7. **Design Concepts in Programming Languages** - Franklyn Turbak and David Gifford
-7. **Concepts, Techniques and Models of Computer Programming** - Peter Van Roy and Seif Haridi [8]
-7. **Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp** - Peter Norvig [9]
-18. **Structure and Interpretation of Computer Programs** -	Harold Abelson, Gerald Jay Sussman and Julie Sussman (*SICP*) [10]
-19. **Theories of Programming Languages** - John C. Reynolds [11]
-20. **Practical Foundations of Programming Languages** - Robert Harper [14]
-21. **Concepts in Programming Languages** - John C. Mitchell [15]
-22. **Programming Languages: Principles and Paradigms** - Maurizio Gabbrielli and Simone Martini [16]
+1. **Programming Language Pragmatics** - Michael L. Scott [4]
+2. **Types and Programming Languages** - Benjamin C. Pierce (*TAPL*) [5]
+3. **A Formal Semantics of Programming Languages: An Introduction** - Glynn Winskel [6]
+4. **Structure and Interpretation of Computer Programs** -	Harold Abelson, Gerald Jay Sussman and Julie Sussman (*SICP*) [7]
+5. **Concepts of Programming Languages** - Robert W. Sebesta [8]
+6. **Practical Foundations of Programming Languages** - Robert Harper [9]
+7. **Programming Languages: Design and Implementation** - T. W. Prat & M. V. Zelkowitz [10]
+8. **Programming Languages: Principles & Practices** - Kenneth C. Louden [11]
+9. **Programming Languages: Principles and Paradigms** - Maurizio Gabbrielli and Simone Martini [12]
+10. **Programming Languages – Concepts & Constructs** - Ravi Sethi
+11. **Foundations for Programming Languages** - John C. Mitchell
+12. **The Lambda Calculus: Its Syntax and Semantics** - H. P. Barendregt
+13. **Principles of Programming Languages** - Chopra Rajiv
+14. **Principles of Programming Languages** - Dowek
+15. **Design Concepts in Programming Languages** - Franklyn Turbak and David Gifford
+16. **Concepts, Techniques and Models of Computer Programming** - Peter Van Roy and Seif Haridi
+17. **Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp** - Peter Norvig
+18. **Theories of Programming Languages** - John C. Reynolds
 
 ### Notes
 
 - **Benjamin Pierce** has a [**list of Great Works in Programming Languages**](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml).
 - [CSE526 at SUNY, SB](https://bsd7.cs.stonybrook.edu/~cse526/) has a list of reading from different books and papers in addition to the lecture notes.
 - [Principles of Programming Langugages at DEIB-P](https://home.deib.polimi.it/pradella/PL.html) has a list of readings from every language and has a list of papers to go through. There is no recommended textbook from the list above.
-- [CS 152 at Harvard](https://www.seas.harvard.edu/courses/cs152/2018sp/index.html) uses notes for their readings but also recommends [15], [6], [13] and [5] for additional reference.
-- [CS 6110 at Cornell](https://www.cs.cornell.edu/courses/cs6110/2018sp/index.html) has no required textbook but recommends [13] and [6] for additional reading.
+- [CS 152 at Harvard](https://www.seas.harvard.edu/courses/cs152/2018sp/index.html) uses notes for their readings but also recommends [2], [5], [6] and [3] for additional reference.
+- [CS 6110 at Cornell](https://www.cs.cornell.edu/courses/cs6110/2018sp/index.html) has no required textbook but recommends [6] and [5] for additional reading.
 
 [1] - Used as the reference for
 
-- [CS 6848 at IIT, Madras](https://www.cse.iitm.ac.in/~krishna/courses/2015/odd-cs6848/) along with [6], with [15] and [14] for additional reference
+- [CS 6848 at IIT, Madras](https://www.cse.iitm.ac.in/~krishna/courses/2015/odd-cs6848/) along with [5], with [2] and [9] for additional reference
 - [Principles of Programming Languages at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/principles/)
 - [CS G111 at NEU](https://course.ccs.neu.edu/csg111/)
 - [CSCI-UA.0480-006](https://cs.nyu.edu/wies/teaching/popl-15/) and has a host of other useful links
 - [CS704 at UWISC](https://github.com/barghouthi/cs704) and has a number of other recommendations as well
 - [CSCI 3155 at UCB](http://csci3155.cs.colorado.edu/s18/) but the recommended readings are from notes with a bunch of other resources linked
 
-[15] - Please make sure to go through the [errata listed](http://theory.stanford.edu/people/jcm/books/cpl-errata.html) when using this book. Used as the reference for
+[2] - Please make sure to go through the [errata listed](http://theory.stanford.edu/people/jcm/books/cpl-errata.html) when using this book. Used as the reference for
 
-- [CS 59 at Dartmouth](http://www.cs.dartmouth.edu/~sergey/cs59/syllabus.pdf) is a syllabus only page with many other materials on the instructor's website and also uses some material from [10]
+- [CS 59 at Dartmouth](http://www.cs.dartmouth.edu/~sergey/cs59/syllabus.pdf) is a syllabus only page with many other materials on the instructor's website and also uses some material from [7]
 - [CSCI 334 at WC](http://www.cs.williams.edu/~dbarowy/cs334s18/)
 
-[14] - Used as the reference for
+[4] - Used as the reference for
 
-- [15-312 at CMU](https://www.cs.cmu.edu/~jcr/tpl.html)
+- [CS 245 at BMC](https://cs.brynmawr.edu/Courses/cs245/fall2010/)
+- [CSc 520 at UAT](https://www2.cs.arizona.edu/classes/cs520/spring06/)
+- [CSCI 3136 at Dal](https://web.cs.dal.ca/~nzeh/Teaching/3136/index.html) which also recommends reading [7], [2], [10] and **The Cinderella Book**
 
-[2] - Used as the reference for
+[6] - Used as the reference for
+
+- [COMP 411 at RU](https://www.cs.rice.edu/~javaplt/411/14-spring/)
+
+[8] - Used as the reference for
 
 - [CSC 272 at AU](https://home.adelphi.edu/~siegfried/cs272/)
 - [CS 3MI3 at MMU](http://www.cas.mcmaster.ca/~franek/courses/cs3mi3/)
 
-[3] - Used as the reference for
+[9] - Used as the reference for
 
-- [CS 245 at BMC](https://cs.brynmawr.edu/Courses/cs245/fall2010/)
-- [CSc 520 at UAT](https://www2.cs.arizona.edu/classes/cs520/spring06/)
-- [CSCI 3136 at Dal](https://web.cs.dal.ca/~nzeh/Teaching/3136/index.html) which also recommends reading [10], [2], [4] and **The Cinderella Book**
+- [15-312 at CMU](https://www.cs.cmu.edu/~jcr/tpl.html)
 
-[5] - Used as the reference for
-
-- [COMP 411 at RU](https://www.cs.rice.edu/~javaplt/411/14-spring/)
-
-[16] - Used as the reference for
-
-- [TIE-20306 at TUT](http://www.cs.tut.fi/~popl/nykyinen/index.shtml) along with a free *Finnish* textbook
-
-[17] - Used as the reference for
+[11] - Used as the reference for
 
 - [CMSC 245 at HC](https://www.haverford.edu/computer-science/course-pages/2016f-cmsc-245-principles-programming-languages) (Note: Syllabus page only)
+
+[12] - Used as the reference for
+
+- [TIE-20306 at TUT](http://www.cs.tut.fi/~popl/nykyinen/index.shtml) along with a free *Finnish* textbook
 
 ## Computer Organisation and Architecture
 
