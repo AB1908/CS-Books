@@ -765,6 +765,22 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ## Courses
 
+- Data Structures and Algorithms
+
+   [PLDS210 - University of Auckland](https://www.cs.auckland.ac.nz/software/AlgAnim/ds_ToC.html)  
+   [15-111 - Carnegie Mellon University](https://www.andrew.cmu.edu/course/15-111-kesden/)  
+   [CS 61BL - Berkeley University](https://sp18.datastructur.es/)  
+   [Data Structures and Algorithms (Level 1/C) - University of Birmingham](http://www.cs.bham.ac.uk/~jxb/dsa.html)  
+   [CS 302 - University of Nevada, Reno](https://www.cse.unr.edu/~mgunes/cs302/cs302fa12/)  
+   [CS 226 - Princeton University](https://www.cs.princeton.edu/~rs/AlgsDS07/)  
+   [CSE 2010 - Florida Institute of Technology](https://cs.fit.edu/~pkc/classes/ds/)  
+   [600.226 - John Hopkins University](http://www.cs.jhu.edu/~hager/Teaching/cs226/)  
+   [CS 315 - University of Texas at Austin](http://www.cs.utexas.edu/users/novak/cs315.html)  
+   [CS 206 - Bryn Mawr College](https://cs.brynmawr.edu/cs206/)  
+   [CS 213(M) - Indian Institute of Technology, Bombay](https://www.cse.iitb.ac.in/~ranade/cs213/) taken by **Abhiram Ranade**  
+   [CS 240 - Binghamton University](http://www.cs.binghamton.edu/~steflik/cs240/cs240.htm)  
+   [CS 598 JGE - University of Illinois](http://jeffe.cs.illinois.edu/teaching/datastructures/) appears to be a graduate level course and hence has not been linked in the original section  
+
 - Principles of Programming Languages
 
    [601.426/626 - John Hopkins University](http://pl.cs.jhu.edu/pl/index.shtml)  
@@ -835,9 +851,11 @@ Online courses about Microprocessors are rather difficult to come by.
    [CS 385 - University of Illinois, Chicago](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)  
    [CS 347 - Indian Institute of Technology, Bombay](https://www.cse.iitb.ac.in/~mythili/teaching/cs347_autumn2016/index.html)  
    [CS 543 - Drexel University](https://www.cs.drexel.edu/~jjohnson/2012-13/fall/cs543/)  
-   [CS170 - University of California, Santa Barbara](http://www.cs.ucsb.edu/~rich/class/cs170/)  
+   [CS170 - University of Califo
+   
+   rnia, Santa Barbara](http://www.cs.ucsb.edu/~rich/class/cs170/)  
    [TOM-2.1-CS - University of Twente](https://wwwhome.ewi.utwente.nl/~pieter/CS-OS/)  
-   [CS 372 - University of Texas, Austin](http://www.cs.utexas.edu/users/witchel/372/)  
+   [CS 372 - University of Texas at Austin](http://www.cs.utexas.edu/users/witchel/372/)  
    [CS-537 - University of Wisconsin-Madison](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)  
    [CS3013 - Worchester Polytechnic Institute](https://web.cs.wpi.edu/~cshue/cs3013/)  
    [CS140 - Stanford University](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring18/index.php)  
@@ -858,7 +876,7 @@ Online courses about Microprocessors are rather difficult to come by.
 
    [CS103 - Stanford University](http://web.stanford.edu/class/cs103/)  
    [CS20 - Harvard University](https://www.seas.harvard.edu/courses/cs20/)   
-   [CS 311 - University of Texas, Austin](http://www.cs.utexas.edu/~vl/teaching/311/)  
+   [CS 311 - University of Texas at Austin](http://www.cs.utexas.edu/~vl/teaching/311/)  
    [CS381 - Old Dominion University](http://www.cs.odu.edu/~cs381/index.html)  
    [CSE 191 - University at Buffalo, New York](https://cse.buffalo.edu/~rapaport/191/)  
    [6301 - University College London](https://www.ucl.ac.uk/maths/courses/undergraduates/modules/general-ancillary/general_ancillary_syllabuses/6301)  
@@ -925,7 +943,7 @@ Online courses about Microprocessors are rather difficult to come by.
 
    [CS 6250 - Georgia Institute of Technology](https://www.omscs.gatech.edu/cs-6250-computer-networks)  
    [CS60 - Dartmouth University](http://www.cs.dartmouth.edu/~campbell/cs60/)  
-   [CS 356 - University of Texas, Austin](http://www.cs.utexas.edu/users/lam/cs356/)  
+   [CS 356 - University of Texas at Austin](http://www.cs.utexas.edu/users/lam/cs356/)  
    [COS 461 - Princeton University](https://www.cs.princeton.edu/courses/archive/spring17/cos461/)  
    [CS244A - Stanford University](http://web.stanford.edu/class/cs244a/)  
    [15-441 - Carnegie Mellon University](https://www.cs.cmu.edu/~prs/15-441-F16/)  
@@ -937,7 +955,7 @@ Online courses about Microprocessors are rather difficult to come by.
 - Software Engineering
 
    [CS32 - Brown University](http://cs.brown.edu/courses/cs0320/)  
-   [EE 360F - University of Texas, Austin](http://users.ece.utexas.edu/~perry/education/SE-Intro/)  
+   [EE 360F - University of Texas at Austin](http://users.ece.utexas.edu/~perry/education/SE-Intro/)  
    [15-413 - Carnegie Mellon University](https://www.cs.cmu.edu/~aldrich/courses/413/)  
    [CS 501 - Cornell University](http://www.cs.cornell.edu/courses/cs501/2000FA/index.html)  
    [Introduction to Software Engineering - Pennsylvania State University](http://www.csci.psu.edu/seminars/fallnotes/SWEintro.pdf)  
@@ -952,6 +970,15 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ## Resources
 
+   [**Data Structures and Algorithm Analysis**](http://people.cs.vt.edu/~shaffer/Book/) by Clifford A. Shaffer  
+   [**Foundations of Computer Science**](http://infolab.stanford.edu/~ullman/focs.html) by Alfred V. Aho & Jeffrey D. Ullman  
+   [**Fundamental Data Structures**](https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures) by Wikipedia Authors  
+   [**An Online Textbook for CMU 15-111 - Intermediate and Advanced Programming**](http://www.cs.cmu.edu/~clo/www/CMU/DataStructures/) by Ananda Gunawardena  
+   [**Hug61B** - Book Companion to CS 61B](https://joshhug.gitbooks.io/hug61b/) by Josh Hug  
+   [CS 315: Algorithms & Data Structures: Lecture Notes](https://www.cs.utexas.edu/users/novak/cs315contents.html)  
+   [Animations to Assist Learning Some Key Computer Science Topics](http://courses.cs.vt.edu/~csonline/DataStructures/Lessons/index.html)  
+   [Algorithms and Data Structures Animations for the Liang Java, C++, and Python Books](http://cs.armstrong.edu/liang/animation/animation.html)  
+   [Data Structure Visualisations](https://www.cs.usfca.edu/~galles/visualization/about.html)  
    [**How to Design Programs**](http://www.ccs.neu.edu/home/matthias/HtDP2e/) by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi available under Creative Commons License  
    [Programming Language Theory](http://steshaw.org/plt/)  
    [Concepts of Programming Languages Errata](http://theory.stanford.edu/people/jcm/books/cpl-errata.html)  
