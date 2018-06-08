@@ -1,5 +1,6 @@
 # CS Curriculum Textbooks and References
 
+- [Data Structure and Algorithms](#data-structure-and-algorithms)
 - [Principles of Programming Languages](#principles-of-programming-languages)
 - [Computer Organisation and Architecture](#computer-organisation-and-architecture)
 - [Algorithm Design and Analysis](#algorithm-design-and-analysis)
@@ -13,6 +14,72 @@
 - [Compiler Design](#compiler-design)
 - [Computer Networks](#computer-networks)
 - [Software Engineering](#software-engineering)
+
+## Data Structures and Algorithms
+
+### Standard Textbooks
+
+1. **Introduction to Data Structures with Applications** - Jean P. Tremblay and Paul G. Sorenson
+2. **Data Structures and Algorithms** - Alfred V. Aho, John E. Hopcroft and Jeffrey D. Ullman
+3. **Data Abstraction and Problem Solving with C++: Walls and Mirrors** - Frank M. Carrano [1]
+
+### Alternative/Supplementary
+
+1. **Data Structures and Algorithm Analysis in C** - Mark Allen Weiss
+2. **Algorithms in Java** - Robert Sedgewick [2]
+3. **Data Structures and Algorithms in Java** - M. Goodrich, R. Tamassia, and M. Goldwasser [3]
+4. **Data Structures and Algorithms Analysis in Java** - Mark Allen Weiss [4]
+5. **Data Structures: Abstraction and Design Using Java** - Elliot B. Koffman and Paul A. T. Wolfgang [5]
+6. **An Introduction to Programming through C++** - Abhiram G. Ranade [6]
+7. **ADTs, Data Structures and Problem Solving** - Larry Nyhoff [7]
+8. **Data Structures, Algorithms and Applications in C++** - Sartaj Sahani
+9. **Data Structures and Algorithms: Concepts, Techniques and Applications** - G. A. V. Pai
+10. **Data Structures** - D. Samanta
+11. **Data Structures** - Seymour Lipschutz
+12. **Fundamentals of Data Structures in C** - Ellis Horowitz
+13. **How to Solve it - Computer** - R. G. Dromey
+14. **Data Structures Through C In Depth** - Srivastava
+15. **Handbook of Algorithms and Data Structures - in Pascal and C** - G. H. Gonnet and R. Baeza-Yates
+16. **Fundamentals of Data Structures in Pascal** - Ellis Horowitz and Sartaj Sahni
+17. **C++ Plus Data Structures** - Nell Dale
+
+### Notes
+
+- This topic includes a significant overlap with the one on [Algorithm Design and Analysis](#algorithm-design-and-analysis). Many concepts carry over from this topic and one may find it useful to study them side-by-side. Many of the courses linked also may not follow a similar syllabus and may be at higher level than intended.
+- There are numerous amounts of online resources including lecture videos. Such a list may be found elsewhere. An online [Learning Assistant with Animations](http://courses.cs.vt.edu/~csonline/DataStructures/Lessons/index.html) on VT's website may be useful for visualisation and explanation of certain concepts. Daniel Liang has also created some relevant animations which can be found [here](http://cs.armstrong.edu/liang/animation/animation.html). USFCA also [hosts a visualiser](https://www.cs.usfca.edu/~galles/visualization/about.html) on their website and also includes instructions to create one.
+- [PLDS210 at UA](https://www.cs.auckland.ac.nz/software/AlgAnim/ds_ToC.html) does not have a particular reference textbook. Instead it uses a combination of many books as a source for lecture notes. Each topic has it's own list of references, which are the recommended material instead of the lecture notes.
+- [CMU's 15-111](https://www.andrew.cmu.edu/course/15-111-kesden/) uses an [online textbook](http://www.cs.cmu.edu/~clo/www/CMU/DataStructures/).
+- [CS 61BL at Berkeley](https://sp18.datastructur.es/) uses a [set of free notes](https://joshhug.gitbooks.io/hug61b/) by the instructor for the first half, and **Algorithms** by Sedgewick and Wayne for the second half.
+- [Data Structures and Algorithms (Level 1/C) at UoB](http://www.cs.bham.ac.uk/~jxb/dsa.html) recommends using 3 free ebooks linked on the course page.
+
+[1] - Used as a reference for
+
+- [CS 302 at UNR](https://www.cse.unr.edu/~mgunes/cs302/cs302fa12/) but covers only Data Structures and also assumes prior background in Algorithms
+
+[2] - Used as a reference for
+
+- [CS 226 at Princeton](https://www.cs.princeton.edu/~rs/AlgsDS07/) which is **Sedgewick's own course**
+
+[3] - Used as a reference for
+
+- [CSE 2010 at FIT](https://cs.fit.edu/~pkc/classes/ds/)
+
+[4] - Used as a reference for
+
+- [600.226 at JHU](http://www.cs.jhu.edu/~hager/Teaching/cs226/)
+- [CS 315 at UT Austin](http://www.cs.utexas.edu/users/novak/cs315.html) a set of lecture notes [hosted online](https://www.cs.utexas.edu/users/novak/cs315contents.html) are the primary material
+
+[5] - Used as a reference for
+
+- [CS 206 at BMC](https://cs.brynmawr.edu/cs206/)
+
+[6] - Used as a reference for
+
+- [CS 213(M) at IIT Bombay](https://www.cse.iitb.ac.in/~ranade/cs213/) which is taken by **Ranade**
+
+[7] - Used as a reference for
+
+- [CS 240 at BU](http://www.cs.binghamton.edu/~steflik/cs240/cs240.htm) but covers only Data Structures
 
 ## Principles of Programming Languages
 
@@ -62,7 +129,7 @@
 - [CS G111 at NEU](https://course.ccs.neu.edu/csg111/)
 - [CSCI-UA.0480-006](https://cs.nyu.edu/wies/teaching/popl-15/) and has a host of other useful links
 - [CS704 at UWISC](https://github.com/barghouthi/cs704) and has a number of other recommendations as well
-- [CSCI 3155 at UCB](http://csci3155.cs.colorado.edu/s18/) but the recommended readings are from notes with a bunch of other resources linked
+- [CSCI 3155 at Berkeley](http://csci3155.cs.colorado.edu/s18/) but the recommended readings are from notes with a bunch of other resources linked
 
 [2] - Please make sure to go through the [errata listed](http://theory.stanford.edu/people/jcm/books/cpl-errata.html) when using this book. Used as the reference for
 
@@ -116,8 +183,7 @@
 8. **Structured Computer Organization** - Andrew S. Tanenbaum
 9. **The Principles of Computer Hardware** - A. Clements
 10. **Fundamentals of Computer Architecture** - M. Burrell
-11. **Computer Architecture: Pipelined and Parallel Processor
-Design** - Michael J. Flynn [9]
+11. **Computer Architecture: Pipelined and Parallel Processor Design** - Michael J. Flynn [9]
 
 ### Notes
 
@@ -290,6 +356,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 - [Yale's CS422/522](http://flint.cs.yale.edu/cs422/)
 
 [5] - Used as the reference for
+
 - [CS 161 at HU](http://www.eecs.harvard.edu/~cs161/)
 
 [6] - Basically a cheaper version of [1] recommended as the reference textbook for [CU's COMS W4118](http://www.cs.columbia.edu/~jae/4118/).
@@ -539,7 +606,7 @@ Online courses about Microprocessors are rather difficult to come by.
 
 1. **Compilers: Principles, Techniques, and Tools** - A. V. Aho, Ravi Sethi & Jeffrey D. Ullman [1]
 2. **Compiler Construction Principles and Practice** - K. C. Louden
-3.  **Modern compiler implementation in ML** - A. W. Appel [2]
+3. **Modern compiler implementation in ML** - A. W. Appel [2]
 
 ### Alternative/Supplementary
 
@@ -595,6 +662,7 @@ Online courses about Microprocessors are rather difficult to come by.
 - [CS 640 at UWISC](http://pages.cs.wisc.edu/~pb/cs640.html)
 
 [4] - Used as the reference for
+
 - [CS 408 at SU](http://people.sabanciuniv.edu/levi/cs408/)
 
 [5] - It is regarded as the standard textbook in the field [according to Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Networking).
@@ -683,6 +751,10 @@ Online courses about Microprocessors are rather difficult to come by.
    [What are the canon books in Computer Science? - /r/COMPSCI](https://www.reddit.com/r/compsci/comments/40mq3q/what_are_the_canon_books_in_computer_science/)  
    [What Books Should Everyone Read? - Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/questions/3253/what-books-should-everyone-read)  
    [What papers should everyone read? - Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read?noredirect=1&lq=1)  
+   [Data Structures - Further reading](https://en.wikipedia.org/wiki/Data_structure#Further_reading)  
+   [Programming Language - Further reading](https://en.wikipedia.org/wiki/Programming_language#Further_reading)  
+   [Microarchitecture - Further reading](https://en.wikipedia.org/wiki/Microarchitecture#Further_reading)  
+   [Algorithms - Further reading](https://en.wikipedia.org/wiki/Algorithm#Further_reading)  
    [Theory of Computation - Further reading](https://en.wikipedia.org/wiki/Theory_of_computation#Further_reading)  
    [Automata Theory - Further reading](https://en.wikipedia.org/wiki/Automata_theory#Further_reading)  
    [Operating System - Further reading](https://en.wikipedia.org/wiki/Operating_system#Futher_reading)  
@@ -696,6 +768,22 @@ Online courses about Microprocessors are rather difficult to come by.
    [Best Reference Books - San Foundry](https://www.sanfoundry.com/best-reference-books-computer-science-engineering/)  
 
 ## Courses
+
+- Data Structures and Algorithms
+
+   [PLDS210 - University of Auckland](https://www.cs.auckland.ac.nz/software/AlgAnim/ds_ToC.html)  
+   [15-111 - Carnegie Mellon University](https://www.andrew.cmu.edu/course/15-111-kesden/)  
+   [CS 61BL - Berkeley University](https://sp18.datastructur.es/)  
+   [Data Structures and Algorithms (Level 1/C) - University of Birmingham](http://www.cs.bham.ac.uk/~jxb/dsa.html)  
+   [CS 302 - University of Nevada, Reno](https://www.cse.unr.edu/~mgunes/cs302/cs302fa12/)  
+   [CS 226 - Princeton University](https://www.cs.princeton.edu/~rs/AlgsDS07/)  
+   [CSE 2010 - Florida Institute of Technology](https://cs.fit.edu/~pkc/classes/ds/)  
+   [600.226 - John Hopkins University](http://www.cs.jhu.edu/~hager/Teaching/cs226/)  
+   [CS 315 - University of Texas at Austin](http://www.cs.utexas.edu/users/novak/cs315.html)  
+   [CS 206 - Bryn Mawr College](https://cs.brynmawr.edu/cs206/)  
+   [CS 213(M) - Indian Institute of Technology, Bombay](https://www.cse.iitb.ac.in/~ranade/cs213/) taken by **Abhiram Ranade**  
+   [CS 240 - Binghamton University](http://www.cs.binghamton.edu/~steflik/cs240/cs240.htm)  
+   [CS 598 JGE - University of Illinois](http://jeffe.cs.illinois.edu/teaching/datastructures/) appears to be a graduate level course and hence has not been linked in the original section  
 
 - Principles of Programming Languages
 
@@ -767,9 +855,11 @@ Online courses about Microprocessors are rather difficult to come by.
    [CS 385 - University of Illinois, Chicago](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)  
    [CS 347 - Indian Institute of Technology, Bombay](https://www.cse.iitb.ac.in/~mythili/teaching/cs347_autumn2016/index.html)  
    [CS 543 - Drexel University](https://www.cs.drexel.edu/~jjohnson/2012-13/fall/cs543/)  
-   [CS170 - University of California, Santa Barbara](http://www.cs.ucsb.edu/~rich/class/cs170/)  
+   [CS170 - University of Califo
+   
+   rnia, Santa Barbara](http://www.cs.ucsb.edu/~rich/class/cs170/)  
    [TOM-2.1-CS - University of Twente](https://wwwhome.ewi.utwente.nl/~pieter/CS-OS/)  
-   [CS 372 - University of Texas, Austin](http://www.cs.utexas.edu/users/witchel/372/)  
+   [CS 372 - University of Texas at Austin](http://www.cs.utexas.edu/users/witchel/372/)  
    [CS-537 - University of Wisconsin-Madison](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)  
    [CS3013 - Worchester Polytechnic Institute](https://web.cs.wpi.edu/~cshue/cs3013/)  
    [CS140 - Stanford University](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring18/index.php)  
@@ -790,7 +880,7 @@ Online courses about Microprocessors are rather difficult to come by.
 
    [CS103 - Stanford University](http://web.stanford.edu/class/cs103/)  
    [CS20 - Harvard University](https://www.seas.harvard.edu/courses/cs20/)   
-   [CS 311 - University of Texas, Austin](http://www.cs.utexas.edu/~vl/teaching/311/)  
+   [CS 311 - University of Texas at Austin](http://www.cs.utexas.edu/~vl/teaching/311/)  
    [CS381 - Old Dominion University](http://www.cs.odu.edu/~cs381/index.html)  
    [CSE 191 - University at Buffalo, New York](https://cse.buffalo.edu/~rapaport/191/)  
    [6301 - University College London](https://www.ucl.ac.uk/maths/courses/undergraduates/modules/general-ancillary/general_ancillary_syllabuses/6301)  
@@ -857,7 +947,7 @@ Online courses about Microprocessors are rather difficult to come by.
 
    [CS 6250 - Georgia Institute of Technology](https://www.omscs.gatech.edu/cs-6250-computer-networks)  
    [CS60 - Dartmouth University](http://www.cs.dartmouth.edu/~campbell/cs60/)  
-   [CS 356 - University of Texas, Austin](http://www.cs.utexas.edu/users/lam/cs356/)  
+   [CS 356 - University of Texas at Austin](http://www.cs.utexas.edu/users/lam/cs356/)  
    [COS 461 - Princeton University](https://www.cs.princeton.edu/courses/archive/spring17/cos461/)  
    [CS244A - Stanford University](http://web.stanford.edu/class/cs244a/)  
    [15-441 - Carnegie Mellon University](https://www.cs.cmu.edu/~prs/15-441-F16/)  
@@ -869,7 +959,7 @@ Online courses about Microprocessors are rather difficult to come by.
 - Software Engineering
 
    [CS32 - Brown University](http://cs.brown.edu/courses/cs0320/)  
-   [EE 360F - University of Texas, Austin](http://users.ece.utexas.edu/~perry/education/SE-Intro/)  
+   [EE 360F - University of Texas at Austin](http://users.ece.utexas.edu/~perry/education/SE-Intro/)  
    [15-413 - Carnegie Mellon University](https://www.cs.cmu.edu/~aldrich/courses/413/)  
    [CS 501 - Cornell University](http://www.cs.cornell.edu/courses/cs501/2000FA/index.html)  
    [Introduction to Software Engineering - Pennsylvania State University](http://www.csci.psu.edu/seminars/fallnotes/SWEintro.pdf)  
@@ -884,6 +974,15 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ## Resources
 
+   [**Data Structures and Algorithm Analysis**](http://people.cs.vt.edu/~shaffer/Book/) by Clifford A. Shaffer  
+   [**Foundations of Computer Science**](http://infolab.stanford.edu/~ullman/focs.html) by Alfred V. Aho & Jeffrey D. Ullman  
+   [**Fundamental Data Structures**](https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures) by Wikipedia Authors  
+   [**An Online Textbook for CMU 15-111 - Intermediate and Advanced Programming**](http://www.cs.cmu.edu/~clo/www/CMU/DataStructures/) by Ananda Gunawardena  
+   [**Hug61B** - Book Companion to CS 61B](https://joshhug.gitbooks.io/hug61b/) by Josh Hug  
+   [CS 315: Algorithms & Data Structures: Lecture Notes](https://www.cs.utexas.edu/users/novak/cs315contents.html)  
+   [Animations to Assist Learning Some Key Computer Science Topics](http://courses.cs.vt.edu/~csonline/DataStructures/Lessons/index.html)  
+   [Algorithms and Data Structures Animations for the Liang Java, C++, and Python Books](http://cs.armstrong.edu/liang/animation/animation.html)  
+   [Data Structure Visualisations](https://www.cs.usfca.edu/~galles/visualization/about.html)  
    [**How to Design Programs**](http://www.ccs.neu.edu/home/matthias/HtDP2e/) by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi available under Creative Commons License  
    [Programming Language Theory](http://steshaw.org/plt/)  
    [Concepts of Programming Languages Errata](http://theory.stanford.edu/people/jcm/books/cpl-errata.html)  
