@@ -19,7 +19,7 @@
 
 ### Standard Textbooks
 
-1. **Introduction to Data Structures with applications** - Tremblay and Sorenson
+1. **Introduction to Data Structures with Applications** - Tremblay and Sorenson
 2. **Data Structures and Algorithm Analysis in C** - M. A. Weiss
 
 ### Alternative/Supplementary
@@ -28,6 +28,11 @@
 2. **Data Structures and Algorithms** - Alfred V. Aho, John E. Hopcroft and Jeffrey D. Ullman
 3. **Data Structures and Algorithms: Concepts, Techniques and Applications** - G. A. V. Pai
 4. **Data Structures** - D. Samanta
+5. **Data Abstraction and Problem Solving with C++: Walls and Mirrors** - Frank M. Carrano
+6. **Data Structures** - Seymour Lipschutz
+7. **Fundamentals of Data Structures in C** - Ellis Horowitz
+8. **How to Solve it - Computer** - R. G. Dromey
+9. **Data Structures Through C In Depth** - Srivastava
 
 ## Principles of Programming Languages
 
