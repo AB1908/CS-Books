@@ -41,7 +41,7 @@
 15. **Design Concepts in Programming Languages** - Franklyn Turbak and David Gifford
 16. **Concepts, Techniques and Models of Computer Programming** - Peter Van Roy and Seif Haridi
 17. **Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp** - Peter Norvig
-18. **Theories of Programming Languages** - John C. Reynolds
+18. **Theories of Programming Languages** - John C. Reynolds [13]
 
 ### Notes
 
@@ -50,6 +50,8 @@
 - [Principles of Programming Langugages at DEIB-P](https://home.deib.polimi.it/pradella/PL.html) has a list of readings from every language and has a list of papers to go through. There is no recommended textbook from the list above.
 - [CS 152 at Harvard](https://www.seas.harvard.edu/courses/cs152/2018sp/index.html) uses notes for their readings but also recommends [2], [5], [6] and [3] for additional reference.
 - [CS 6110 at Cornell](https://www.cs.cornell.edu/courses/cs6110/2018sp/index.html) has no required textbook but recommends [6] and [5] for additional reading.
+- A [free version](https://www.cs.cmu.edu/~jcr/tpl.html) of [13] is available for reading. I was unable to find any related course material.
+- [601.426/626 at JHU](http://pl.cs.jhu.edu/pl/index.shtml) use their own book created by a course instructor. The book itself is available under Creative Commons License [here](http://pl.cs.jhu.edu/pl/book/book.pdf).
 
 [1] - Used as the reference for
 
@@ -695,6 +697,7 @@ Online courses about Microprocessors are rather difficult to come by.
 
 - Principles of Programming Languages
 
+   [601.426/626 - John Hopkins University](http://pl.cs.jhu.edu/pl/index.shtml)  
    [CSE526 - State University of New York at Stony Brook](https://bsd7.cs.stonybrook.edu/~cse526/)  
    [Principles of Programming Langugages - Politecnico di Milano, Dipartimento di Elettronica, Informazione e Bioingegneria](https://home.deib.polimi.it/pradella/PL.html)  
    [CS 152 - Harvard University](https://www.seas.harvard.edu/courses/cs152/2018sp/index.html)  
@@ -881,6 +884,7 @@ Online courses about Microprocessors are rather difficult to come by.
 
    [Concepts of Programming Languages Errata](http://theory.stanford.edu/people/jcm/books/cpl-errata.html)  
    [**Great Works in Programming Languages**](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)  
+   [**Principles of Programming Languages**](http://pl.cs.jhu.edu/pl/book/book.pdf) by Mike Grant, Zachary Palmer and Scott Smith available under Creative Commons License  
    [**The Algorithm Design Manual**](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) by Steven Skiena (for online reading)  
    [Algorithms Part I](https://www.coursera.org/teach/algorithms-part1) and [Part II](https://www.coursera.org/teach/algorithms-part2) taught by **Sedgewick** and **Wayne** on Coursera  
    [Lecture Slides for Kleinberg-Tardos](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/)  
