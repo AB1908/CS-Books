@@ -46,7 +46,7 @@
 ### Notes
 
 - **Benjamin Pierce** has a [**list of Great Works in Programming Languages**](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml).
-- [CSE526 at SUNY, SB](https://bsd7.cs.stonybrook.edu/~cse526/) has a list of reading from different books and papers in addition to the lecture notes.
+- [CSE526 at SUNY, SB](https://bsd7.cs.stonybrook.edu/~cse526/) has a list of readings from different books and papers in addition to the lecture notes.
 - [Principles of Programming Langugages at DEIB-P](https://home.deib.polimi.it/pradella/PL.html) has a list of readings from every language and has a list of papers to go through. There is no recommended textbook from the list above.
 - [CS 152 at Harvard](https://www.seas.harvard.edu/courses/cs152/2018sp/index.html) uses notes for their readings but also recommends [2], [5], [6] and [3] for additional reference.
 - [CS 6110 at Cornell](https://www.cs.cornell.edu/courses/cs6110/2018sp/index.html) has no required textbook but recommends [6] and [5] for additional reading.
@@ -693,6 +693,30 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ## Courses
 
+- Principles of Programming Languages
+
+   [CSE526 - State University of New York at Stony Brook](https://bsd7.cs.stonybrook.edu/~cse526/)  
+   [Principles of Programming Langugages - Politecnico di Milano, Dipartimento di Elettronica, Informazione e Bioingegneria](https://home.deib.polimi.it/pradella/PL.html)  
+   [CS 152 - Harvard University](https://www.seas.harvard.edu/courses/cs152/2018sp/index.html)  
+   [CS 6110 - Cornell University](https://www.cs.cornell.edu/courses/cs6110/2018sp/index.html)  
+   [CS 6848 - Indian Institute of Technology, Madras](https://www.cse.iitm.ac.in/~krishna/courses/2015/odd-cs6848/)  
+   [Principles of Programming Languages - Oxford University](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/principles/)  
+   [CS G111 - Northeastern University](https://course.ccs.neu.edu/csg111/)  
+   [CSCI-UA.0480-006 - New York University](https://cs.nyu.edu/wies/teaching/popl-15/)  
+   [CS704 - University of Wisconsin-Madison](https://github.com/barghouthi/cs704)  
+   [CSCI 3155 - University of Colorado, Boulder](http://csci3155.cs.colorado.edu/s18/)   
+   [CS 59 - Dartmouth University](http://www.cs.dartmouth.edu/~sergey/cs59/syllabus.pdf)  
+   [CSCI 334 - Williams College](http://www.cs.williams.edu/~dbarowy/cs334s18/)  
+   [CS 245 - Bryn Mawr College](https://cs.brynmawr.edu/Courses/cs245/fall2010/)  
+   [CSc 520 - University at Arizona](https://www2.cs.arizona.edu/classes/cs520/spring06/)  
+   [CSCI 3136 - Dalhouse University](https://web.cs.dal.ca/~nzeh/Teaching/3136/index.html)  
+   [COMP 411 - Rice University](https://www.cs.rice.edu/~javaplt/411/14-spring/)  
+   [CSC 272 - Adelphi University](https://home.adelphi.edu/~siegfried/cs272/)  
+   [CS 3MI3 - MmMaster University](http://www.cas.mcmaster.ca/~franek/courses/cs3mi3/)  
+   [15-312 - Carnegie Mellon University](https://www.cs.cmu.edu/~jcr/tpl.html)  
+   [CMSC 245 - Haverford College](https://www.haverford.edu/computer-science/course-pages/2016f-cmsc-245-principles-programming-languages) (Note: Syllabus page only)  
+   [TIE-20306 - Tampere University of Technology](http://www.cs.tut.fi/~popl/nykyinen/index.shtml)  
+
 - Computer Organisation and Architecture
 
    [CS 312 - University of Missouri-St. Louis](http://www.cs.umsl.edu/~sanjiv/classes/cs312/)  
@@ -855,6 +879,8 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ## Resources
 
+   [Concepts of Programming Languages Errata](http://theory.stanford.edu/people/jcm/books/cpl-errata.html)  
+   [**Great Works in Programming Languages**](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)  
    [**The Algorithm Design Manual**](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) by Steven Skiena (for online reading)  
    [Algorithms Part I](https://www.coursera.org/teach/algorithms-part1) and [Part II](https://www.coursera.org/teach/algorithms-part2) taught by **Sedgewick** and **Wayne** on Coursera  
    [Lecture Slides for Kleinberg-Tardos](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/)  
@@ -888,3 +914,4 @@ Online courses about Microprocessors are rather difficult to come by.
 # Miscellaneous links
 
    [ACM Classic Books Series](https://dl.acm.org/classics.cfm)
+   [List of Useful Tutorials](http://www.cs.williams.edu/~dbarowy/cs334s18/#tutorials)  
