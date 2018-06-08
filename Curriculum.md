@@ -42,6 +42,7 @@
 16. **Concepts, Techniques and Models of Computer Programming** - Peter Van Roy and Seif Haridi
 17. **Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp** - Peter Norvig
 18. **Theories of Programming Languages** - John C. Reynolds [13]
+19. **Type Theory and Functional Programming** - Simon Thompson
 
 ### Notes
 
@@ -52,6 +53,7 @@
 - [CS 6110 at Cornell](https://www.cs.cornell.edu/courses/cs6110/2018sp/index.html) has no required textbook but recommends [6] and [5] for additional reading.
 - A [free version](https://www.cs.cmu.edu/~jcr/tpl.html) of [13] is available for reading. I was unable to find any related course material.
 - [601.426/626 at JHU](http://pl.cs.jhu.edu/pl/index.shtml) use their own book created by a course instructor. The book itself is available under Creative Commons License [here](http://pl.cs.jhu.edu/pl/book/book.pdf).
+- An extensive list of resources can also be found at [Programming Language Theory](http://steshaw.org/plt/).
 
 [1] - Used as the reference for
 
@@ -882,6 +884,8 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ## Resources
 
+   [**How to Design Programs**](http://www.ccs.neu.edu/home/matthias/HtDP2e/) by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi available under Creative Commons License  
+   [Programming Language Theory](http://steshaw.org/plt/)  
    [Concepts of Programming Languages Errata](http://theory.stanford.edu/people/jcm/books/cpl-errata.html)  
    [**Great Works in Programming Languages**](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)  
    [**Principles of Programming Languages**](http://pl.cs.jhu.edu/pl/book/book.pdf) by Mike Grant, Zachary Palmer and Scott Smith available under Creative Commons License  
