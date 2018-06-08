@@ -1,6 +1,7 @@
 # CS Curriculum Textbooks and References
 
 - [Data Structure and Algorithms](#data-structure-and-algorithms)
+- [Database Management Systems](#database-management-systems)
 - [Principles of Programming Languages](#principles-of-programming-languages)
 - [Computer Organisation and Architecture](#computer-organisation-and-architecture)
 - [Algorithm Design and Analysis](#algorithm-design-and-analysis)
@@ -80,6 +81,20 @@
 [7] - Used as a reference for
 
 - [CS 240 at BU](http://www.cs.binghamton.edu/~steflik/cs240/cs240.htm) but covers only Data Structures
+
+## Database Management Systems
+
+### Standard Textbooks
+
+1. **Principles of Data Base Systems** - Jeffrey D. Ullman
+2. **Database system Concepts** - Adam Silberschatz, H. F. Korth & A. Sudarshan
+
+### Alternative/Supplementary
+
+1. **An Introduction to database system** - B. Desai
+2. **An Introduction to Data Base Systems** - C. J. Date
+3. **Fundamentals of Database Systems** - R. Elmasri, S. Navathe, S. B. Navathe, R. Sunderraman
+4. **Database Management Systems** - R. R. Krishnan
 
 ## Principles of Programming Languages
 
