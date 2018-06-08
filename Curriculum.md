@@ -19,22 +19,68 @@
 
 ### Standard Textbooks
 
-1. **Introduction to Data Structures with Applications** - Tremblay and Sorenson
-2. **Data Structures and Algorithm Analysis in C** - M. A. Weiss
+1. **Introduction to Data Structures with Applications** - Jean P. Tremblay and Paul G. Sorenson
+2. **Data Structures and Algorithms** - Alfred V. Aho, John E. Hopcroft and Jeffrey D. Ullman
+5. **Data Abstraction and Problem Solving with C++: Walls and Mirrors** - Frank M. Carrano [7]
 
 ### Alternative/Supplementary
 
+2. **Data Structures and Algorithm Analysis in C** - Mark Allen Weiss
+12. **Algorithms in Java** - Robert Sedgewick [1]
+13. **Data Structures and Algorithms in Java** - M. Goodrich, R. Tamassia, and M. Goldwasser [2]
+14. **Data Structures and Algorithms Analysis in Java** - Mark Allen Weiss [3]
+15. **Data Structures: Abstraction and Design Using Java** - Elliot B. Koffman and Paul A. T. Wolfgang [4]
+16. **An Introduction to Programming through C++** - Abhiram G. Ranade [5]
+17. **ADTs, Data Structures and Problem Solving** - Larry Nyhoff [6]
 1. **Data Structures, Algorithms and Applications in C++** - Sartaj Sahani
-2. **Data Structures and Algorithms** - Alfred V. Aho, John E. Hopcroft and Jeffrey D. Ullman
 3. **Data Structures and Algorithms: Concepts, Techniques and Applications** - G. A. V. Pai
 4. **Data Structures** - D. Samanta
-5. **Data Abstraction and Problem Solving with C++: Walls and Mirrors** - Frank M. Carrano
 6. **Data Structures** - Seymour Lipschutz
 7. **Fundamentals of Data Structures in C** - Ellis Horowitz
 8. **How to Solve it - Computer** - R. G. Dromey
 9. **Data Structures Through C In Depth** - Srivastava
 10. **Handbook of Algorithms and Data Structures - in Pascal and C** - G. H. Gonnet and R. Baeza-Yates
 11. **Fundamentals of Data Structures in Pascal** - Ellis Horowitz and Sartaj Sahni
+18. **C++ Plus Data Structures** - Nell Dale
+
+### Notes
+
+- This topic includes a significant overlap with the one on [Algorithm Design and Analysis](#algorithm-design-and-analysis). Many concepts carry over from this topic and one may find it useful to study them side-by-side. Many of the courses linked also may not follow a similar syllabus and may be at higher level than intended.
+- There are numerous amounts of online resources including lecture videos. Such a list may be found elsewhere on GitHub.
+- An online [Learning Assistant with Animations](http://courses.cs.vt.edu/~csonline/DataStructures/Lessons/index.html) on VT's website may be useful for visualisation and explanation of certain concepts. Daniel Liang has also created some relevant animations which can be found [here](http://cs.armstrong.edu/liang/animation/animation.html). USFCA also [hosts a visualiser](https://www.cs.usfca.edu/~galles/visualization/about.html) on their website and also includes instructions to create one.
+- [PLDS210 at UA](https://www.cs.auckland.ac.nz/software/AlgAnim/ds_ToC.html) does not have a particular reference textbook. Instead it uses a combination of many books as a source for lecture notes. Each topic has it's own list of references, which are the recommended material instead of the lecture notes.
+- [CMU's 15-111](https://www.andrew.cmu.edu/course/15-111-kesden/) uses an [online textbook](http://www.cs.cmu.edu/~clo/www/CMU/DataStructures/).
+- [CS 61BL at Berkeley](https://sp18.datastructur.es/) uses a [set of free notes](https://joshhug.gitbooks.io/hug61b/) by the instructor for the first half, and **Algorithms** by Sedgewick and Wayne for the second half.
+- [Data Structures and Algorithms (Level 1/C) at UoB](http://www.cs.bham.ac.uk/~jxb/dsa.html) recommends using 3 free ebooks linked on the course page.
+
+[1] - Used as a reference for
+
+- [CS 226 at Princeton](https://www.cs.princeton.edu/~rs/AlgsDS07/) which is **Sedgewick's own course**
+
+[2] - Used as a reference for
+
+- [CSE 2010 at FIT](https://cs.fit.edu/~pkc/classes/ds/)
+
+[3] - Used as a reference for
+
+- [600.226 at JHU](http://www.cs.jhu.edu/~hager/Teaching/cs226/)
+- [CS 315 at UT Austin](http://www.cs.utexas.edu/users/novak/cs315.html) a set of lecture notes [hosted online](https://www.cs.utexas.edu/users/novak/cs315contents.html) are the primary material
+
+[4] - Used as a reference for
+
+- [CS 206 at BMC](https://cs.brynmawr.edu/cs206/)
+
+[5] - Used as a reference for
+
+- [CS 213(M) at IIT Bombay](https://www.cse.iitb.ac.in/~ranade/cs213/) which is taken by **Ranade**
+
+[6] - Used as a reference for
+
+- [CS 240 at BU](http://www.cs.binghamton.edu/~steflik/cs240/cs240.htm) but covers only Data Structures
+
+[7] - Used as a reference for
+
+- [CS 302 at UNR](https://www.cse.unr.edu/~mgunes/cs302/cs302fa12/) but covers only Data Structures and also assumes prior background in Algorithms
 
 ## Principles of Programming Languages
 
@@ -84,7 +130,7 @@
 - [CS G111 at NEU](https://course.ccs.neu.edu/csg111/)
 - [CSCI-UA.0480-006](https://cs.nyu.edu/wies/teaching/popl-15/) and has a host of other useful links
 - [CS704 at UWISC](https://github.com/barghouthi/cs704) and has a number of other recommendations as well
-- [CSCI 3155 at UCB](http://csci3155.cs.colorado.edu/s18/) but the recommended readings are from notes with a bunch of other resources linked
+- [CSCI 3155 at Berkeley](http://csci3155.cs.colorado.edu/s18/) but the recommended readings are from notes with a bunch of other resources linked
 
 [2] - Please make sure to go through the [errata listed](http://theory.stanford.edu/people/jcm/books/cpl-errata.html) when using this book. Used as the reference for
 
