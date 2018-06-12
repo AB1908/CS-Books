@@ -87,7 +87,7 @@
 ### Standard Textbooks
 
 1. **Principles of Database Systems** - Jeffrey D. Ullman
-2. **Database System Concepts** - Adam Silberschatz, H. F. Korth & A. Sudarshan [5]
+2. **Database System Concepts** - Abraham Silberschatz, Henry F. Korth & S. Sudarshan [5]
 
 ### Alternative/Supplementary
 
@@ -96,9 +96,13 @@
 3. **Fundamentals of Database Systems** - R. Elmasri, S. Navathe, S. B. Navathe, R. Sunderraman
 4. **Database Management Systems** - Johannes Gehrke and Raghu Ramakrishnan [1]
 5. **Database Systems: The Complete Book** - Hector Garcia-Molina, Jeffrey D. Ullman and Jennifer Widom  [3]
-6. **Transaction Processing: Concepts and Techniques** - Jim Gray
+6. **Transaction Processing: Concepts and Techniques** - Jim Gray and Andreas Reuter
 7. **Readings in Database Systems** - Joseph M. Hellerstein and Michael Stonebraker (*The (Databases) Red Book*) [2]
 8. **A First Course in Database Systems** - Jeffrey Ullman and Jennifer Widom [4]
+9. **Database Systems** - Carolyn E. Begg and Thomas M. Connolly
+10. **Database Concepts** - David M. Kroenke and David J. Auer
+11. **Physical Database Design: the database professional's guide to exploitingindexes, views, storage, and more** - T. Teorey, S. Lightstone and T. Nadeau
+12. **Database Modeling & Design: Logical Design** - T. Teorey, S. Lightstone and T. Nadeau
 
 ### Notes
 
