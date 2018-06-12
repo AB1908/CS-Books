@@ -111,7 +111,7 @@
 - [CS 4320/4321 at Cornell](http://www.cs.cornell.edu/courses/cs4320/2008fa/)
 - [COMS 4111 at CU](http://www.cs.columbia.edu/~coms4111/ewu.html)
 - [Introductory Databases at UoB](http://www.cs.bham.ac.uk/~rjh/courses/IntroToDBs/2017-18/index.htm)
-- [CMPT 354-D1](http://www.cs.sfu.ca/CourseCentral/354/rfrank/course_information.html)
+- [CMPT 354-D1 at SFU](http://www.cs.sfu.ca/CourseCentral/354/rfrank/course_information.html)
 - [CS333 at USFCA](https://www.cs.usfca.edu/~ejung/courses/333/index.html)
 - [CMPSC 431W at PSU](http://www.cse.psu.edu/%7Eyul189/cmpsc431w/index.html)
 - [EECS 339 at NWU](https://www.mccormick.northwestern.edu/eecs/courses/descriptions/339.html) (Note: Syllabus page only)
@@ -807,6 +807,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [What Books Should Everyone Read? - Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/questions/3253/what-books-should-everyone-read)  
    [What papers should everyone read? - Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read?noredirect=1&lq=1)  
    [Data Structures - Further reading](https://en.wikipedia.org/wiki/Data_structure#Further_reading)  
+   [Database - Further reading](https://en.wikipedia.org/wiki/Database#Further_reading)
    [Programming Language - Further reading](https://en.wikipedia.org/wiki/Programming_language#Further_reading)  
    [Microarchitecture - Further reading](https://en.wikipedia.org/wiki/Microarchitecture#Further_reading)  
    [Algorithms - Further reading](https://en.wikipedia.org/wiki/Algorithm#Further_reading)  
@@ -840,6 +841,26 @@ Online courses about Microprocessors are rather difficult to come by.
    [CS 240 - Binghamton University](http://www.cs.binghamton.edu/~steflik/cs240/cs240.htm)  
    [CS 598 JGE - University of Illinois](http://jeffe.cs.illinois.edu/teaching/datastructures/) appears to be a graduate level course and hence has not been linked in the original section  
 
+- Database Management Systems
+
+   [Databases - Stanford Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) taken by **Jennifer Widom**  
+   [CS 186 - University of California, Berkeley](http://www.cs186berkeley.net/home)  
+   [CS 4320/4321 - Cornell University](http://www.cs.cornell.edu/courses/cs4320/2008fa/)  
+   [COMS 4111 - Columbia University](http://www.cs.columbia.edu/~coms4111/ewu.html)  
+   [Introductory Databases - University of Birmingham](http://www.cs.bham.ac.uk/~rjh/courses/IntroToDBs/2017-18/index.htm)  
+   [CMPT 354-D1 - Simon Fraser University](http://www.cs.sfu.ca/CourseCentral/354/rfrank/course_information.html)  
+   [CS333 - University of San Francisco](https://www.cs.usfca.edu/~ejung/courses/333/index.html)  
+   [CMPSC 431W - Pennsylvania State University](http://www.cse.psu.edu/%7Eyul189/cmpsc431w/index.html)  
+   [EECS 339 - Northwestern University](https://www.mccormick.northwestern.edu/eecs/courses/descriptions/339.html) (Note: Syllabus page only)  
+   [CS/SE 4347 - University of Texas at Dallas](https://www.utdallas.edu/~muratk/courses/undb07.html)  
+   [CS662 - University of Virginia](http://www.cs.virginia.edu/~son/cs662.s06/)  
+   [ECS 165A - University of California, Davis](http://web.cs.ucdavis.edu/~green/courses/ecs165a-w11/)  
+   [CS145 - Stanford University](http://web.stanford.edu/class/cs145/)  
+   [CS x265 - Vanderbilt University](https://my.vanderbilt.edu/cs265/)   
+   [CS 23500/33550 - University of Chicago](https://www.classes.cs.uchicago.edu/archive/2017/winter/23500-1/syllabus.html) (Note: Syllabus page only)  
+   [15-445/645 - Carnegie Mellon University](https://15445.courses.cs.cmu.edu/fall2017/)  
+   [CS 348 - University of Waterloo](https://cs.uwaterloo.ca/~david/cs348/)  
+
 - Principles of Programming Languages
 
    [601.426/626 - John Hopkins University](http://pl.cs.jhu.edu/pl/index.shtml)  
@@ -852,7 +873,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [CS G111 - Northeastern University](https://course.ccs.neu.edu/csg111/)  
    [CSCI-UA.0480-006 - New York University](https://cs.nyu.edu/wies/teaching/popl-15/)  
    [CS704 - University of Wisconsin-Madison](https://github.com/barghouthi/cs704)  
-   [CSCI 3155 - University of Colorado, Boulder](http://csci3155.cs.colorado.edu/s18/)   
+   [CSCI 3155 - University of Colorado, Boulder](http://csci3155.cs.colorado.edu/s18/)  
    [CS 59 - Dartmouth University](http://www.cs.dartmouth.edu/~sergey/cs59/syllabus.pdf)  
    [CSCI 334 - Williams College](http://www.cs.williams.edu/~dbarowy/cs334s18/)  
    [CS 245 - Bryn Mawr College](https://cs.brynmawr.edu/Courses/cs245/fall2010/)  
@@ -893,6 +914,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [CS 157 - Brown University](https://cs.brown.edu/courses/cs157/)  
    [CSE 373 - State University of New York](http://www3.cs.stonybrook.edu/~skiena/373/) taken by **Steven Skiena**  
    [COS226 - Princeton University](http://www.cs.princeton.edu/courses/archive/spring18/cos226/)  
+   [Algorithms Part I](https://www.coursera.org/teach/algorithms-part1) and [Part II](https://www.coursera.org/teach/algorithms-part2) taught by **Sedgewick** and **Wayne** on Coursera  
 
 - Theory of Computation
 
@@ -910,9 +932,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [CS 385 - University of Illinois, Chicago](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)  
    [CS 347 - Indian Institute of Technology, Bombay](https://www.cse.iitb.ac.in/~mythili/teaching/cs347_autumn2016/index.html)  
    [CS 543 - Drexel University](https://www.cs.drexel.edu/~jjohnson/2012-13/fall/cs543/)  
-   [CS170 - University of Califo
-   
-   rnia, Santa Barbara](http://www.cs.ucsb.edu/~rich/class/cs170/)  
+   [CS170 - University of California, Santa Barbara](http://www.cs.ucsb.edu/~rich/class/cs170/)  
    [TOM-2.1-CS - University of Twente](https://wwwhome.ewi.utwente.nl/~pieter/CS-OS/)  
    [CS 372 - University of Texas at Austin](http://www.cs.utexas.edu/users/witchel/372/)  
    [CS-537 - University of Wisconsin-Madison](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)  
@@ -934,7 +954,7 @@ Online courses about Microprocessors are rather difficult to come by.
 - Discrete Mathematics
 
    [CS103 - Stanford University](http://web.stanford.edu/class/cs103/)  
-   [CS20 - Harvard University](https://www.seas.harvard.edu/courses/cs20/)   
+   [CS20 - Harvard University](https://www.seas.harvard.edu/courses/cs20/)  
    [CS 311 - University of Texas at Austin](http://www.cs.utexas.edu/~vl/teaching/311/)  
    [CS381 - Old Dominion University](http://www.cs.odu.edu/~cs381/index.html)  
    [CSE 191 - University at Buffalo, New York](https://cse.buffalo.edu/~rapaport/191/)  
@@ -1038,13 +1058,13 @@ Online courses about Microprocessors are rather difficult to come by.
    [Animations to Assist Learning Some Key Computer Science Topics](http://courses.cs.vt.edu/~csonline/DataStructures/Lessons/index.html)  
    [Algorithms and Data Structures Animations for the Liang Java, C++, and Python Books](http://cs.armstrong.edu/liang/animation/animation.html)  
    [Data Structure Visualisations](https://www.cs.usfca.edu/~galles/visualization/about.html)  
+   [CS 186 Video Lectures - University Berkeley](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)  
    [**How to Design Programs**](http://www.ccs.neu.edu/home/matthias/HtDP2e/) by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi available under Creative Commons License  
    [Programming Language Theory](http://steshaw.org/plt/)  
    [Concepts of Programming Languages Errata](http://theory.stanford.edu/people/jcm/books/cpl-errata.html)  
    [**Great Works in Programming Languages**](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)  
    [**Principles of Programming Languages**](http://pl.cs.jhu.edu/pl/book/book.pdf) by Mike Grant, Zachary Palmer and Scott Smith available under Creative Commons License  
    [**The Algorithm Design Manual**](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) by Steven Skiena (for online reading)  
-   [Algorithms Part I](https://www.coursera.org/teach/algorithms-part1) and [Part II](https://www.coursera.org/teach/algorithms-part2) taught by **Sedgewick** and **Wayne** on Coursera  
    [Lecture Slides for Kleinberg-Tardos](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/)  
    [Algorithms, Etc. by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)  
    [Algorithm Notes for CS 466 at Waterloo](https://cs.uwaterloo.ca/~eblais/courses/F17/CS466/outline.pdf)  
