@@ -86,15 +86,55 @@
 
 ### Standard Textbooks
 
-1. **Principles of Data Base Systems** - Jeffrey D. Ullman
-2. **Database system Concepts** - Adam Silberschatz, H. F. Korth & A. Sudarshan
+1. **Principles of Database Systems** - Jeffrey D. Ullman
+2. **Database System Concepts** - Adam Silberschatz, H. F. Korth & A. Sudarshan [5]
 
 ### Alternative/Supplementary
 
-1. **An Introduction to database system** - B. Desai
-2. **An Introduction to Data Base Systems** - C. J. Date
+1. **An Introduction to Database system** - B. Desai
+2. **An Introduction to Database Systems** - Christopher J. Date
 3. **Fundamentals of Database Systems** - R. Elmasri, S. Navathe, S. B. Navathe, R. Sunderraman
-4. **Database Management Systems** - R. R. Krishnan
+4. **Database Management Systems** - Johannes Gehrke and Raghu Ramakrishnan [1]
+5. **Database Systems: The Complete Book** - Hector Garcia-Molina, Jeffrey D. Ullman and Jennifer Widom  [3]
+6. **Transaction Processing: Concepts and Techniques** - Jim Gray
+7. **Readings in Database Systems** - Joseph M. Hellerstein and Michael Stonebraker (*The (Databases) Red Book*) [2]
+8. **A First Course in Database Systems** - Jeffrey Ullman and Jennifer Widom [4]
+
+### Notes
+
+- This is a rather modern theoretical topic which is the backbone of many systems we commonly use. Database books are also not available in as much variety as the other topics.
+- [*TYCS*](https://teachyourselfcs.com/#databases) recommends going through [video lectures from Berkeley](https://archive.org/details/UCBerkeley_Course_Computer_Science_186) before textbooks.
+
+[1] - Used as the reference for
+
+- [CS 186 at Berkeley](http://www.cs186berkeley.net/home)
+- [CS 4320/4321 at Cornell](http://www.cs.cornell.edu/courses/cs4320/2008fa/)
+- [COMS 4111 at CU](http://www.cs.columbia.edu/~coms4111/ewu.html)
+- [Introductory Databases at UoB](http://www.cs.bham.ac.uk/~rjh/courses/IntroToDBs/2017-18/index.htm)
+- [CMPT 354-D1](http://www.cs.sfu.ca/CourseCentral/354/rfrank/course_information.html)
+- [CS333 at USFCA](https://www.cs.usfca.edu/~ejung/courses/333/index.html)
+- [CMPSC 431W at PSU](http://www.cse.psu.edu/%7Eyul189/cmpsc431w/index.html)
+- [EECS 339 at NWU](https://www.mccormick.northwestern.edu/eecs/courses/descriptions/339.html) (Note: Syllabus page only)
+- [CS/SE 4347 at UT Dallas](https://www.utdallas.edu/~muratk/courses/undb07.html)
+- [CS662 at UoV](http://www.cs.virginia.edu/~son/cs662.s06/)
+
+[2] - Used as the reference for
+
+- [ECS 165A at UC Davis](http://web.cs.ucdavis.edu/~green/courses/ecs165a-w11/)
+
+[3] - Used as the reference for
+
+- [CS145 at Stanford](http://web.stanford.edu/class/cs145/)
+
+[4] - Used as the reference for
+
+- [CS x265 at VU](https://my.vanderbilt.edu/cs265/) but strongly recommends going through **Jennifer Widom's** self paced "Databases Course" on [Stanford Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+
+[5] - Used as the reference for
+
+- [CS 23500/33550 at UoC](https://www.classes.cs.uchicago.edu/archive/2017/winter/23500-1/syllabus.html) (Note: Syllabus page only)
+- [15-445/645 at CMU](https://15445.courses.cs.cmu.edu/fall2017/)
+- [CS 348 at UoW](https://cs.uwaterloo.ca/~david/cs348/) along with [1]
 
 ## Principles of Programming Languages
 
@@ -606,7 +646,7 @@ Online courses about Microprocessors are rather difficult to come by.
 - [COMPSCI 650 at UMass](https://people.cs.umass.edu/~elm/Teaching/650_F14/) with [2] recommended additionally
 - [582650 at UoH](https://www.cs.helsinki.fi/group/cosco/Teaching/Information/2014/)
 - [CO 739-2 at UoW](http://www.math.uwaterloo.ca/~anayak/Site/Information_Theory.html)
-- [EECS 428 at NU](https://www.mccormick.northwestern.edu/eecs/courses/descriptions/428.html) (Note: Syllabus page only)
+- [EECS 428 at NWU](https://www.mccormick.northwestern.edu/eecs/courses/descriptions/428.html) (Note: Syllabus page only)
 - [ECE 563 at UoI](https://ece.illinois.edu/academics/courses/profile/ece563) (Note: Syllabus page only)
 
 [2] - Used as a reference for
