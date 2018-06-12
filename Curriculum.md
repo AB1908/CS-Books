@@ -86,23 +86,23 @@
 
 ### Standard Textbooks
 
-1. **Principles of Database Systems** - Jeffrey D. Ullman
-2. **Database System Concepts** - Abraham Silberschatz, Henry F. Korth & S. Sudarshan [5]
+1. **Database Management Systems** - Johannes Gehrke and Raghu Ramakrishnan [1]
+2. **Database System Concepts** - Abraham Silberschatz, Henry F. Korth & S. Sudarshan [2]
+3. **Readings in Database Systems** - Joseph M. Hellerstein and Michael Stonebraker (*The (Databases) Red Book*) [3]
 
 ### Alternative/Supplementary
 
-1. **An Introduction to Database system** - B. Desai
-2. **An Introduction to Database Systems** - Christopher J. Date
-3. **Fundamentals of Database Systems** - R. Elmasri, S. Navathe, S. B. Navathe, R. Sunderraman
-4. **Database Management Systems** - Johannes Gehrke and Raghu Ramakrishnan [1]
-5. **Database Systems: The Complete Book** - Hector Garcia-Molina, Jeffrey D. Ullman and Jennifer Widom  [3]
+1. **Principles of Database Systems** - Jeffrey D. Ullman
+2. **An Introduction to Database system** - B. Desai
+3. **An Introduction to Database Systems** - Christopher J. Date
+4. **Fundamentals of Database Systems** - R. Elmasri, S. Navathe, S. B. Navathe, R. Sunderraman
+5. **Database Systems: The Complete Book** - Hector Garcia-Molina, Jeffrey D. Ullman and Jennifer Widom [4]
 6. **Transaction Processing: Concepts and Techniques** - Jim Gray and Andreas Reuter
-7. **Readings in Database Systems** - Joseph M. Hellerstein and Michael Stonebraker (*The (Databases) Red Book*) [2]
-8. **A First Course in Database Systems** - Jeffrey Ullman and Jennifer Widom [4]
-9. **Database Systems** - Carolyn E. Begg and Thomas M. Connolly
-10. **Database Concepts** - David M. Kroenke and David J. Auer
-11. **Physical Database Design: the database professional's guide to exploitingindexes, views, storage, and more** - T. Teorey, S. Lightstone and T. Nadeau
-12. **Database Modeling & Design: Logical Design** - T. Teorey, S. Lightstone and T. Nadeau
+7. **A First Course in Database Systems** - Jeffrey Ullman and Jennifer Widom [5]
+8. **Database Systems** - Carolyn E. Begg and Thomas M. Connolly
+9. **Database Concepts** - David M. Kroenke and David J. Auer
+10. **Physical Database Design: the database professional's guide to exploitingindexes, views, storage, and more** - T. Teorey, S. Lightstone and T. Nadeau
+11. **Database Modeling & Design: Logical Design** - T. Teorey, S. Lightstone and T. Nadeau
 
 ### Notes
 
@@ -124,21 +124,21 @@
 
 [2] - Used as the reference for
 
-- [ECS 165A at UC Davis](http://web.cs.ucdavis.edu/~green/courses/ecs165a-w11/)
-
-[3] - Used as the reference for
-
-- [CS145 at Stanford](http://web.stanford.edu/class/cs145/)
-
-[4] - Used as the reference for
-
-- [CS x265 at VU](https://my.vanderbilt.edu/cs265/) but strongly recommends going through **Jennifer Widom's** self paced "Databases Course" on [Stanford Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
-
-[5] - Used as the reference for
-
 - [CS 23500/33550 at UoC](https://www.classes.cs.uchicago.edu/archive/2017/winter/23500-1/syllabus.html) (Note: Syllabus page only)
 - [15-445/645 at CMU](https://15445.courses.cs.cmu.edu/fall2017/)
 - [CS 348 at UoW](https://cs.uwaterloo.ca/~david/cs348/) along with [1]
+
+[3] - It is the recommended book on [*TYCS*](https://teachyourselfcs.com/#databases). Used as the reference for
+
+- [ECS 165A at UC Davis](http://web.cs.ucdavis.edu/~green/courses/ecs165a-w11/)
+
+[4] - Used as the reference for
+
+- [CS145 at Stanford](http://web.stanford.edu/class/cs145/)
+
+[5] - Used as the reference for
+
+- [CS x265 at VU](https://my.vanderbilt.edu/cs265/) but strongly recommends going through **Jennifer Widom's** self paced "Databases Course" on [Stanford Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 
 ## Principles of Programming Languages
 
