@@ -1,6 +1,6 @@
 # CS Curriculum Textbooks and References
 
-- [Data Structure and Algorithms](#data-structure-and-algorithms)
+- [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Database Management Systems](#database-management-systems)
 - [Principles of Programming Languages](#principles-of-programming-languages)
 - [Computer Organisation and Architecture](#computer-organisation-and-architecture)
@@ -57,7 +57,7 @@
 
 - [CS 302 at UNR](https://www.cse.unr.edu/~mgunes/cs302/cs302fa12/) but covers only Data Structures and also assumes prior background in Algorithms
 
-<a id="AiJ" href="#AiJref">[2]</a> - Used as a reference for
+<a id="AiJ" href="#AiJref">^</a>2 - Used as a reference for
 
 - [CS 226 at Princeton](https://www.cs.princeton.edu/~rs/AlgsDS07/) which is **Sedgewick's own course**
 
@@ -86,9 +86,9 @@
 
 ### Standard Textbooks
 
-1. **Database Management Systems** - Johannes Gehrke and Raghu Ramakrishnan [1]
-2. **Database System Concepts** - Abraham Silberschatz, Henry F. Korth & S. Sudarshan [2]
-3. **Readings in Database Systems** - Joseph M. Hellerstein and Michael Stonebraker (*The (Databases) Red Book*) [3]
+1. **Database Management Systems** - Johannes Gehrke and Raghu Ramakrishnan <sup id="">[[1]](#)</sup>
+2. **Database System Concepts** - Abraham Silberschatz, Henry F. Korth & S. Sudarshan <sup id="">[[2]](#)</sup>
+3. **Readings in Database Systems** - Joseph M. Hellerstein and Michael Stonebraker (*The (Databases) Red Book*) <sup id="">[[3]](#)</sup>
 
 ### Alternative/Supplementary
 
@@ -96,9 +96,9 @@
 2. **An Introduction to Database system** - B. Desai
 3. **An Introduction to Database Systems** - Christopher J. Date
 4. **Fundamentals of Database Systems** - R. Elmasri, S. Navathe, S. B. Navathe, R. Sunderraman
-5. **Database Systems: The Complete Book** - Hector Garcia-Molina, Jeffrey D. Ullman and Jennifer Widom [4]
+5. **Database Systems: The Complete Book** - Hector Garcia-Molina, Jeffrey D. Ullman and Jennifer Widom <sup id="">[[4]](#)</sup>
 6. **Transaction Processing: Concepts and Techniques** - Jim Gray and Andreas Reuter
-7. **A First Course in Database Systems** - Jeffrey Ullman and Jennifer Widom [5]
+7. **A First Course in Database Systems** - Jeffrey Ullman and Jennifer Widom <sup id="">[[5]](#)</sup>
 8. **Database Systems** - Carolyn E. Begg and Thomas M. Connolly
 9. **Database Concepts** - David M. Kroenke and David J. Auer
 10. **Physical Database Design: the database professional's guide to exploitingindexes, views, storage, and more** - T. Teorey, S. Lightstone and T. Nadeau
@@ -109,7 +109,7 @@
 - This is a rather modern theoretical topic which is the backbone of many systems we commonly use. Database books are also not available in as much variety as the other topics.
 - [*TYCS*](https://teachyourselfcs.com/#databases) recommends going through [video lectures from Berkeley](https://archive.org/details/UCBerkeley_Course_Computer_Science_186) before textbooks.
 
-[1] - Used as the reference for
+<a id="" href="#">^</a>1 - Used as the reference for
 
 - [CS 186 at Berkeley](http://www.cs186berkeley.net/home)
 - [CS 4320/4321 at Cornell](http://www.cs.cornell.edu/courses/cs4320/2008fa/)
@@ -122,21 +122,21 @@
 - [CS/SE 4347 at UT Dallas](https://www.utdallas.edu/~muratk/courses/undb07.html)
 - [CS662 at UoV](http://www.cs.virginia.edu/~son/cs662.s06/)
 
-[2] - Used as the reference for
+<a id="" href="#">^</a>2 - Used as the reference for
 
 - [CS 23500/33550 at UoC](https://www.classes.cs.uchicago.edu/archive/2017/winter/23500-1/syllabus.html) (Note: Syllabus page only)
 - [15-445/645 at CMU](https://15445.courses.cs.cmu.edu/fall2017/)
-- [CS 348 at UoW](https://cs.uwaterloo.ca/~david/cs348/) along with [1]
+- [CS 348 at UoW](https://cs.uwaterloo.ca/~david/cs348/) along with [^](#)1
 
-[3] - It is the recommended book on [*TYCS*](https://teachyourselfcs.com/#databases). Used as the reference for
+<a id="" href="#">^</a>3 - It is the recommended book on [*TYCS*](https://teachyourselfcs.com/#databases). Used as the reference for
 
 - [ECS 165A at UC Davis](http://web.cs.ucdavis.edu/~green/courses/ecs165a-w11/)
 
-[4] - Used as the reference for
+<a id="" href="#">^</a>4 - Used as the reference for
 
 - [CS145 at Stanford](http://web.stanford.edu/class/cs145/)
 
-[5] - Used as the reference for
+<a id="" href="#">^</a>5 - Used as the reference for
 
 - [CS x265 at VU](https://my.vanderbilt.edu/cs265/) but strongly recommends going through **Jennifer Widom's** self paced "Databases Course" on [Stanford Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 
@@ -144,21 +144,21 @@
 
 ### Standard Textbooks
 
-1. **Essentials of Programming Languages** - Daniel P. Friedman, Mitchell Wand and Christopher T. Haynes (*EOPL*) [1]
-2. **Concepts in Programming Languages** - John C. Mitchell [2]
-3. **Programming Languages: Application and Interpretation** - S. Krishnamurthi (*PLAI*) [3]
+1. **Essentials of Programming Languages** - Daniel P. Friedman, Mitchell Wand and Christopher T. Haynes (*EOPL*) <sup id="">[[1]](#)</sup>
+2. **Concepts in Programming Languages** - John C. Mitchell <sup id="">[[2]](#)</sup>
+3. **Programming Languages: Application and Interpretation** - S. Krishnamurthi (*PLAI*) <sup id="">[[3]](#)</sup>
 
 ### Alternative/Supplementary
 
-1. **Programming Language Pragmatics** - Michael L. Scott [4]
-2. **Types and Programming Languages** - Benjamin C. Pierce (*TAPL*) [5]
-3. **A Formal Semantics of Programming Languages: An Introduction** - Glynn Winskel [6]
-4. **Structure and Interpretation of Computer Programs** -	Harold Abelson, Gerald Jay Sussman and Julie Sussman (*SICP*) [7]
-5. **Concepts of Programming Languages** - Robert W. Sebesta [8]
-6. **Practical Foundations of Programming Languages** - Robert Harper [9]
-7. **Programming Languages: Design and Implementation** - T. W. Prat & M. V. Zelkowitz [10]
-8. **Programming Languages: Principles & Practices** - Kenneth C. Louden [11]
-9. **Programming Languages: Principles and Paradigms** - Maurizio Gabbrielli and Simone Martini [12]
+1. **Programming Language Pragmatics** - Michael L. Scott <sup id="">[[4]](#)</sup>
+2. **Types and Programming Languages** - Benjamin C. Pierce (*TAPL*) <sup id="">[[5]](#)</sup>
+3. **A Formal Semantics of Programming Languages: An Introduction** - Glynn Winskel <sup id="">[[6]](#)</sup>
+4. **Structure and Interpretation of Computer Programs** -	Harold Abelson, Gerald Jay Sussman and Julie Sussman (*SICP*) <sup id="">[[7]](#)</sup>
+5. **Concepts of Programming Languages** - Robert W. Sebesta <sup id="">[[8]](#)</sup>
+6. **Practical Foundations of Programming Languages** - Robert Harper <sup id="">[[9]](#)</sup>
+7. **Programming Languages: Design and Implementation** - T. W. Prat & M. V. Zelkowitz <sup id="">[[10]](#)</sup>
+8. **Programming Languages: Principles & Practices** - Kenneth C. Louden <sup id="">[[11]](#)</sup>
+9. **Programming Languages: Principles and Paradigms** - Maurizio Gabbrielli and Simone Martini <sup id="">[[12]](#)</sup>
 10. **Programming Languages – Concepts & Constructs** - Ravi Sethi
 11. **Foundations for Programming Languages** - John C. Mitchell
 12. **The Lambda Calculus: Its Syntax and Semantics** - H. P. Barendregt
@@ -192,7 +192,7 @@
 
 [2] - Please make sure to go through the [errata listed](http://theory.stanford.edu/people/jcm/books/cpl-errata.html) when using this book. Used as the reference for
 
-- [CS 59 at Dartmouth](http://www.cs.dartmouth.edu/~sergey/cs59/syllabus.pdf) is a syllabus only page with many other materials on the instructor's website and also uses some material from [7]
+- [CS 59 at Dartmouth](http://www.cs.dartmouth.edu/~sergey/cs59/syllabus.pdf) is a syllabus only page with many other materials on the instructor's website and also uses some material from <sup id="">[[7]](#)</sup>
 - [CSCI 334 at WC](http://www.cs.williams.edu/~dbarowy/cs334s18/)
 
 [4] - Used as the reference for
@@ -226,23 +226,23 @@
 
 ### Standard Textbooks
 
-1. **Computer Architecture: A Quantitative Approach** - David A. Patterson and John L. Hennessy [1]
-2. **Computer Organisation and Design: The Hardware/Software Interface** - David A. Patterson and John L. Hennessy [2]
-3. **Computer Organisation** - V. C. Hamacher, Zvonko G. Vranesic and Safwat G. Zaky [3]
+1. **Computer Architecture: A Quantitative Approach** - David A. Patterson and John L. Hennessy <sup id="">[[1]](#)</sup>
+2. **Computer Organisation and Design: The Hardware/Software Interface** - David A. Patterson and John L. Hennessy <sup id="">[[2]](#)</sup>
+3. **Computer Organisation** - V. C. Hamacher, Zvonko G. Vranesic and Safwat G. Zaky <sup id="">[[3]](#)</sup>
 
 ### Alternative/Supplementary
 
-1. **Computer System Architecture** - M. Morris Mano [4]
-2. **Computer Organization and Architecture: Designing for Performance** - William Stallings [5]
-3. **Computer Architecture and Organisation** - John. P. Hayes [6]
+1. **Computer System Architecture** - M. Morris Mano <sup id="">[[4]](#)</sup>
+2. **Computer Organization and Architecture: Designing for Performance** - William Stallings <sup id="">[[5]](#)</sup>
+3. **Computer Architecture and Organisation** - John. P. Hayes <sup id="">[[6]](#)</sup>
 4. **Computer Systems Design and Architecture** - Vincent P Heuring and Harry F Jordan
 5. **Fundamentals of Computer Organization and Architecture** - Mostafa Abd-El-Barr and Hesham El-Rewini
-6. **Computer Systems: a Programmer’s Perspective** - Randal E. Bryant and David R. O’Hallaron [7]
-7. **Introduction to Computing Systems: From Bits and Gates to C and Beyond** - Patt and Patel [8]
+6. **Computer Systems: a Programmer’s Perspective** - Randal E. Bryant and David R. O’Hallaron <sup id="">[[7]](#)</sup>
+7. **Introduction to Computing Systems: From Bits and Gates to C and Beyond** - Patt and Patel <sup id="">[[8]](#)</sup>
 8. **Structured Computer Organization** - Andrew S. Tanenbaum
 9. **The Principles of Computer Hardware** - A. Clements
 10. **Fundamentals of Computer Architecture** - M. Burrell
-11. **Computer Architecture: Pipelined and Parallel Processor Design** - Michael J. Flynn [9]
+11. **Computer Architecture: Pipelined and Parallel Processor Design** - Michael J. Flynn <sup id="">[[9]](#)</sup>
 
 ### Notes
 
@@ -257,7 +257,7 @@ There are plenty more books than listed and more courses than I'd care to link.
 - [CS 312 at UMSL](http://www.cs.umsl.edu/~sanjiv/classes/cs312/)
 - [ECE 411 at UI](https://ece.illinois.edu/academics/courses/profile/ECE411)
 - [B62006Y-01 at ](http://english.ucas.ac.cn/index.php/admission/undergraduate/course-syllabuses/620-school-of-computer-and-control-engineering/4471-principles-of-computer-organization) (Note: Syllabus page only)
-- [18-447 at CMU](http://www.ece.cmu.edu/~ece447/s13/doku.php?id=schedule) along with [8]
+- [18-447 at CMU](http://www.ece.cmu.edu/~ece447/s13/doku.php?id=schedule) along with <sup id="">[[8]](#)</sup>
 - [CS 3410 at Cornell](http://www.cs.cornell.edu/courses/cs3410/2016fa/)
 - [CS 61C at Berkeley](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/#Resources)
 
@@ -279,15 +279,15 @@ There are plenty more books than listed and more courses than I'd care to link.
 
 ### Standard Textbooks
 
-1. **Introduction to Algorithms** - Thomas Cormen, C. Leiserson, and R. Rivest and C. Stein (*CLRS*) [1]
-2. **Algorithm Design** - Jon Kleinberg and Éva Tardos (*KT*) [2]
-3. **Algorithms** - Christos Papadimitriou, Sanjoy Dasgupta, and Umesh Vazirani (*DPV*) [3]
+1. **Introduction to Algorithms** - Thomas Cormen, C. Leiserson, and R. Rivest and C. Stein (*CLRS*) <sup id="">[[1]](#)</sup>
+2. **Algorithm Design** - Jon Kleinberg and Éva Tardos (*KT*) <sup id="">[[2]](#)</sup>
+3. **Algorithms** - Christos Papadimitriou, Sanjoy Dasgupta, and Umesh Vazirani (*DPV*) <sup id="">[[3]](#)</sup>
 
 ### Alternative/Supplementary
 
-1. **The Algorithm Design Manual** - Steven Skiena [4]
-2. **Algorithms** - Robert Sedgewick and Kevin Wayne [5]
-3. **Introduction to Algorithms: A Creative Approach** - Udi Manber [6]
+1. **The Algorithm Design Manual** - Steven Skiena <sup id="">[[4]](#)</sup>
+2. **Algorithms** - Robert Sedgewick and Kevin Wayne <sup id="">[[5]](#)</sup>
+3. **Introduction to Algorithms: A Creative Approach** - Udi Manber <sup id="">[[6]](#)</sup>
 4. **Fundamentals of Computer Algorithms** - Ellis Horowitz, Sartaj Sahni and S. Rajasekaran
 5. **An Introduction to the Analysis of Algorithms** - Robert Sedgewick and Philippe Flajolet
 6. **Design and Analysis of Algorithm** - P. H. Dave and H. B. Dave
@@ -335,13 +335,13 @@ There are plenty more books than listed and more courses than I'd care to link.
 
 ### Standard Textbooks
 
-1. **Introduction to Automata Theory, Languages, and Computation** - John E. Hopcroft and Jeffrey D. Ullman (_The Cinderella Book_) [1]
-2. **Introduction to the Theory of Computation** - Michael Sipser [2]
+1. **Introduction to Automata Theory, Languages, and Computation** - John E. Hopcroft and Jeffrey D. Ullman (_The Cinderella Book_) <sup id="">[[1]](#)</sup>
+2. **Introduction to the Theory of Computation** - Michael Sipser <sup id="">[[2]](#)</sup>
 3. **Elements of the Theory of Computation** - Harry R. Lewis & C. H. Papadimitriou
 
 ### Alternative/Supplementary
 
-1. **Introduction to Formal Language and Computation** - Peter Linz [4]
+1. **Introduction to Formal Language and Computation** - Peter Linz <sup id="">[[4]](#)</sup>
 2. **Theory of Computer Science: Automata, Language and Computation** - Mishra & Chandrasekharan
 3. **A Text Book on Automata Theory** - Nasir & Sirmani
 4. **Introduction to Languages and The Theory of Computation** - John Martin
@@ -375,20 +375,20 @@ There are plenty more books than listed and more courses than I'd care to link.
 
 ### Standard Textbooks
 
-1. **Operating System Concepts** - J. L. Peterson and A. Silberschatz (*The Dinosaur Book*) [1]
+1. **Operating System Concepts** - J. L. Peterson and A. Silberschatz (*The Dinosaur Book*) <sup id="">[[1]](#)</sup>
 2. **Modern Operating Systems** - Andrew S. Tanenbaum
-3. **Operating Systems, Internals and Design Principles** - William Stallings [2]
+3. **Operating Systems, Internals and Design Principles** - William Stallings <sup id="">[[2]](#)</sup>
 
 ### Alternative/Supplementary
 
-1. **Operating Systems: Three Easy Pieces** - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (*The Black Book*/*The Asteroid Book*/*The Comet Book*) [3]
+1. **Operating Systems: Three Easy Pieces** - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (*The Black Book*/*The Asteroid Book*/*The Comet Book*) <sup id="">[[3]](#)</sup>
 2. **Schaum’s Outline of Operating Systems** - Archer J. Harris
 3. **The Design of the UNIX operating system** - Maurice J. Bach
-4. **Operating Systems: Principles and Practice** - Thomas Anderson and Michael Dahlin. [4]
+4. **Operating Systems: Principles and Practice** - Thomas Anderson and Michael Dahlin. <sup id="">[[4]](#)</sup>
 5. **Operating Systems: A Concept-Based Approach** - D. M. Dhamdhere
 6. **Operating Systems: A Modern Perspective** - Gary J. Nutt
-7. **Operating Systems In Depth: Design and Programming** - Thomas W. Doeppner [5]
-8. **Operating System Concepts Essentials** - Silberschatz, Galvin, Gagne [6]
+7. **Operating Systems In Depth: Design and Programming** - Thomas W. Doeppner <sup id="">[[5]](#)</sup>
+8. **Operating System Concepts Essentials** - Silberschatz, Galvin, Gagne <sup id="">[[6]](#)</sup>
 
 ### Notes
 
@@ -431,7 +431,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 
 1. **Data Communication, Computer Networks and Open Systems** - Fred Halsall
 2. **TCP/IP Protocol Suite** - B. A. Forouzan
-3. **Data and Computer Communications** - William Stallings [1]
+3. **Data and Computer Communications** - William Stallings <sup id="">[[1]](#)</sup>
 4. **Communication Networks, Fundamental Concepts & Key Architecture** - Leon-Garcia and I. Widjaja
 
 ### Notes
@@ -446,9 +446,9 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 
 ### Standard Textbooks
 
-1. **The Intel Microprocessors - Architecture Programming And Interfacing** - Barry B. Brey [1]
+1. **The Intel Microprocessors - Architecture Programming And Interfacing** - Barry B. Brey <sup id="">[[1]](#)</sup>
 2. **Microprocessor and Interfacing** - D. V. Hall
-3. **Microprocessor Architecture, Programming, and Applications with the 8085** - Ramesh Gaonkar [5]
+3. **Microprocessor Architecture, Programming, and Applications with the 8085** - Ramesh Gaonkar <sup id="">[[5]](#)</sup>
 
 ### Alternative/Supplementary
 
@@ -475,21 +475,21 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Standard Textbooks
 
-1. **Discrete Mathematics and Its Applications** - Kenneth H. Rosen [1]
-2. **Discrete Mathematics** - Kevin Ferland [2]
-3. **Mathematics for Computer Science** - Eric Lehman, F. Thomson Leighton, and Albert R. Meyer [3]
+1. **Discrete Mathematics and Its Applications** - Kenneth H. Rosen <sup id="">[[1]](#)</sup>
+2. **Discrete Mathematics** - Kevin Ferland <sup id="">[[2]](#)</sup>
+3. **Mathematics for Computer Science** - Eric Lehman, F. Thomson Leighton, and Albert R. Meyer <sup id="">[[3]](#)</sup>
 
 ### Alternative/Supplementary
 
-1. **Discrete and Combinatorial Mathematics: An Applied Introduction** - Ralph P. Grimaldi [4]
-2. **Discrete Mathematics for Computer Science** - Kenneth Bogart and Robert L. Drysdale [5]
-3. **Concrete Mathematics** - Ronald Graham, Donald E. Knuth and Oren Patashnik [6]
-4. **Discrete Mathematics** - Jiří Matoušek and Jaroslav Nešetřil [7]
-5. **Mathematical Structures for Computer Science** - J. L. Gersting [8]
-6. **Discrete Mathematics** - Norman L. Biggs [9]
-7. **Discrete Mathematics** - Kenneth A. Ross and Charles R. Wright [10]
-8. **Discrete Mathematics** - Seymour Lipschutz and Mar Lars Lipson [11]
-9. **Discrete Mathematics: Mathematical Reasoning and Proof with Puzzles, Patterns and Games** - Douglas E. Ensley and J. Winston Crawley [12]
+1. **Discrete and Combinatorial Mathematics: An Applied Introduction** - Ralph P. Grimaldi <sup id="">[[4]](#)</sup>
+2. **Discrete Mathematics for Computer Science** - Kenneth Bogart and Robert L. Drysdale <sup id="">[[5]](#)</sup>
+3. **Concrete Mathematics** - Ronald Graham, Donald E. Knuth and Oren Patashnik <sup id="">[[6]](#)</sup>
+4. **Discrete Mathematics** - Jiří Matoušek and Jaroslav Nešetřil <sup id="">[[7]](#)</sup>
+5. **Mathematical Structures for Computer Science** - J. L. Gersting <sup id="">[[8]](#)</sup>
+6. **Discrete Mathematics** - Norman L. Biggs <sup id="">[[9]](#)</sup>
+7. **Discrete Mathematics** - Kenneth A. Ross and Charles R. Wright <sup id="">[[10]](#)</sup>
+8. **Discrete Mathematics** - Seymour Lipschutz and Mar Lars Lipson <sup id="">[[11]](#)</sup>
+9. **Discrete Mathematics: Mathematical Reasoning and Proof with Puzzles, Patterns and Games** - Douglas E. Ensley and J. Winston Crawley <sup id="">[[12]](#)</sup>
 10. **Elements of Discrete Mathematics: A Computer Oriented Approach** - C. L. Liu and D. P. Mohapatra
 11. **Discrete Mathematical Structures with Applications, to Computer Science** - J. P. Tremblay and R. Manohar
 12. **Discrete Mathematics for Computer Scientists & Mathematics** - Joe L. Mott, A. Kandel, and T. P. Baker
@@ -523,7 +523,7 @@ Online courses about Microprocessors are rather difficult to come by.
 - [14:332:312 at Rutgers](http://eceweb1.rutgers.edu/~csi/DiscMath.html)
 - [CS 441 at PU](https://people.cs.pitt.edu/~milos/courses/cs441/)
 - [CS 70 at Berkeley](http://eecs70.org/) although notes are recommended for primary reading
-- [CS 207 at IIT Bombay](https://www.cse.iitb.ac.in/~akshayss/courses/cs207-2016.html) along with [9]
+- [CS 207 at IIT Bombay](https://www.cse.iitb.ac.in/~akshayss/courses/cs207-2016.html) along with <sup id="">[[9]](#)</sup>
 
 [3] - Used as the reference for
 
@@ -549,7 +549,7 @@ Online courses about Microprocessors are rather difficult to come by.
 
 [10] - Used as the reference for
 
-- [Discrete Mathematics at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/discretemaths/) along with other recommendations like [4]
+- [Discrete Mathematics at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/discretemaths/) along with other recommendations like [^](#)4
 
 [12] - Used as the reference for
 
@@ -559,21 +559,21 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Standard Textbooks
 
-1. **Computer Graphics: Principles and Practice** - John F. Hughes, Andries van Dam, Morgan McGuire, David F. Sklar, James D. Foley, Steven K. Feiner, Kurt Akeley [1]
-2. **Fundamentals of Computer Graphics** - Pete Shirley and Steve Marschner with Michael Ashikhmin, Michael Gleicher, Naty Hoffman, Garrett Johnson, Tamara Munzner, Erik Reinhard, Kelvin Sung, William B. Thompson, Peter Willemsen, and Bryan Wyvill [2]
-3. **Computer Graphics, C Version** - Donald Hearn and M. Pauline Baker [3]
+1. **Computer Graphics: Principles and Practice** - John F. Hughes, Andries van Dam, Morgan McGuire, David F. Sklar, James D. Foley, Steven K. Feiner, Kurt Akeley <sup id="">[[1]](#)</sup>
+2. **Fundamentals of Computer Graphics** - Pete Shirley and Steve Marschner with Michael Ashikhmin, Michael Gleicher, Naty Hoffman, Garrett Johnson, Tamara Munzner, Erik Reinhard, Kelvin Sung, William B. Thompson, Peter Willemsen, and Bryan Wyvill <sup id="">[[2]](#)</sup>
+3. **Computer Graphics, C Version** - Donald Hearn and M. Pauline Baker <sup id="">[[3]](#)</sup>
 
 ### Alternative/Supplementary
 
-1. **Computer Graphics using Open GL** - Francis S. Hill [4]
-2. **Multimedia Systems** - R. Steinmetz and K. Nahrstedt [5]
-3. **Fundamentals of Multimedia** - Ze-Nian Li and M. S. Drew [6]
-4. **Mathematical Elements for Computer Graphics** - David F. Rogers and James Alan Adams [7]
-5. **Physically Based Rendering: From Theory to Implementation** - Matt Pharr and Greg Humphreys [8]
-6. **Procedural Elements for Computer Graphics** - David Rogers [9]
-7. **Computer Graphics for Java Programmers** - L. Ammeraal and K. Zhang [10]
-8. **Computer Graphics: A Survey of Current Techniques and Applications** - John Lewell [11]
-9. **Computer Graphics: Theory Into Practice** - Jeffrey J. McConnell [12]
+1. **Computer Graphics using Open GL** - Francis S. Hill <sup id="">[[4]](#)</sup>
+2. **Multimedia Systems** - R. Steinmetz and K. Nahrstedt <sup id="">[[5]](#)</sup>
+3. **Fundamentals of Multimedia** - Ze-Nian Li and M. S. Drew <sup id="">[[6]](#)</sup>
+4. **Mathematical Elements for Computer Graphics** - David F. Rogers and James Alan Adams <sup id="">[[7]](#)</sup>
+5. **Physically Based Rendering: From Theory to Implementation** - Matt Pharr and Greg Humphreys <sup id="">[[8]](#)</sup>
+6. **Procedural Elements for Computer Graphics** - David Rogers <sup id="">[[9]](#)</sup>
+7. **Computer Graphics for Java Programmers** - L. Ammeraal and K. Zhang <sup id="">[[10]](#)</sup>
+8. **Computer Graphics: A Survey of Current Techniques and Applications** - John Lewell <sup id="">[[11]](#)</sup>
+9. **Computer Graphics: Theory Into Practice** - Jeffrey J. McConnell <sup id="">[[12]](#)</sup>
 10. **Computer Graphics: Techniques and Applications** - R. D. Parslow, R. W. Prowse, Richard Elliot Green [13]
 11. **Computer graphics and virtual environments: from realism to real-time** - M. Slater, A. Steed, Y. Chrysantho [14]
 12. **Interactive environments with open-source software** - Wolfgang Höhl [15]
@@ -590,13 +590,13 @@ Online courses about Microprocessors are rather difficult to come by.
 
 - [CSCI 1230 at Brown](https://cs.brown.edu/courses/cs123/)
 - [CS4620/CS4621 at Cornell](http://www.cs.cornell.edu/courses/cs4620/2014fa/index.shtml) along with [16]
-- [CS 6360 at IITM](http://www.cse.iitm.ac.in/~vplab/computer_graphics.html) along with [3]
+- [CS 6360 at IITM](http://www.cse.iitm.ac.in/~vplab/computer_graphics.html) along with [^](#)3
 - [Introduction to Computer Graphics at UIC](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/index.html)
 - [CS 488 at UIC](https://www.evl.uic.edu/aej/488/index.html) which seems to be an earlier version of the course above
 
 [2] - Used as the reference for
 
-- [CMU 15-462/662](http://15462.courses.cs.cmu.edu/fall2015/) along with [1] and [8]
+- [CMU 15-462/662](http://15462.courses.cs.cmu.edu/fall2015/) along with [1] and <sup id="">[[8]](#)</sup>
 - [Computer Graphics at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/graphics/) with [1] and others additionally recommended
 - [CS248 at Stanford](http://graphics.stanford.edu/courses/cs248-18-spring/) with [1] also recommended
 
@@ -615,8 +615,8 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Standard Textbooks
 
-1. **Elements of Information Theory** - T. M. Cover and J. A. Thomas [1]
-2. **Information Theory, Inference and Learning Algorithms** - David J. C. Mackay [2]
+1. **Elements of Information Theory** - T. M. Cover and J. A. Thomas <sup id="">[[1]](#)</sup>
+2. **Information Theory, Inference and Learning Algorithms** - David J. C. Mackay <sup id="">[[2]](#)</sup>
 3. **Information Theory Coding and Cryptography** - R. Bose
 
 ### Alternative/Supplementary
@@ -625,9 +625,9 @@ Online courses about Microprocessors are rather difficult to come by.
 2. **Introduction to Data Compression** - Khalid Sayood
 3. **The Theory of Information and Coding** - R. J. McEliece
 4. **The Theory of Error Correcting Codes** - F. J. MacWilliams and N. J. A. Sloane
-5. **Entropy and Information Theory** - Robert M. Gray [3]
-6. **Information Theory and Reliable Communication** - R. G. Gallagher [4]
-7. **Information Theory** - Robert B. Ash [5]
+5. **Entropy and Information Theory** - Robert M. Gray <sup id="">[[3]](#)</sup>
+6. **Information Theory and Reliable Communication** - R. G. Gallagher <sup id="">[[4]](#)</sup>
+7. **Information Theory** - Robert B. Ash <sup id="">[[5]](#)</sup>
 
 ### Notes
 
@@ -663,9 +663,9 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Standard Textbooks
 
-1. **Compilers: Principles, Techniques, and Tools** - A. V. Aho, Ravi Sethi & Jeffrey D. Ullman [1]
+1. **Compilers: Principles, Techniques, and Tools** - A. V. Aho, Ravi Sethi & Jeffrey D. Ullman <sup id="">[[1]](#)</sup>
 2. **Compiler Construction Principles and Practice** - K. C. Louden
-3. **Modern compiler implementation in ML** - A. W. Appel [2]
+3. **Modern compiler implementation in ML** - A. W. Appel <sup id="">[[2]](#)</sup>
 
 ### Alternative/Supplementary
 
@@ -689,19 +689,19 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Standard Textbooks
 
-1. **Computer Networking: A Top-Down Approach** - James Kurose and Keith Ross [1]
-2. **Computer Networks – A System Approach** - Larry L. Peterson and Bruce S. Davie [2]
-3. **Computer Networks** - Andrew S. Tanenbaum [3]
+1. **Computer Networking: A Top-Down Approach** - James Kurose and Keith Ross <sup id="">[[1]](#)</sup>
+2. **Computer Networks – A System Approach** - Larry L. Peterson and Bruce S. Davie <sup id="">[[2]](#)</sup>
+3. **Computer Networks** - Andrew S. Tanenbaum <sup id="">[[3]](#)</sup>
 
 ### Alternative/Supplementary
 
 1. **TCP/IP protocol Suite** - Behrouz A. Forouzan
-2. **Data and Computer Communication** - William Stallings [4]
+2. **Data and Computer Communication** - William Stallings <sup id="">[[4]](#)</sup>
 3. **Data Communication, Computer Networks and Open Systems** - F. Halsall
-4. **Data Communications and Networking** - Behrouz A. Forouzan [5]
+4. **Data Communications and Networking** - Behrouz A. Forouzan <sup id="">[[5]](#)</sup>
 5. **Internetworking with TCP/IP, Volume 1** - Douglas Comer
-6. **TCP/IP Illustrated, Volume 1: The Protocols** - W. Richard Stevens [6]
-7. **Unix Network Programming, Volume 1: The Sockets Networking API** - W. Richard Stevens [7]
+6. **TCP/IP Illustrated, Volume 1: The Protocols** - W. Richard Stevens <sup id="">[[6]](#)</sup>
+7. **Unix Network Programming, Volume 1: The Sockets Networking API** - W. Richard Stevens <sup id="">[[7]](#)</sup>
 
 ### Notes
 
@@ -711,13 +711,13 @@ Online courses about Microprocessors are rather difficult to come by.
 
 - [CS60 at Dartmouth](http://www.cs.dartmouth.edu/~campbell/cs60/) where texts on Shell Scripting like **A Practical Guide to Linux Commands, Editors, and Shell Programming** by Mark G. Sobell are also recommended
 - [CS 356 at UT Austin](http://www.cs.utexas.edu/users/lam/cs356/)
-- [COS 461 at Princeton](https://www.cs.princeton.edu/courses/archive/spring17/cos461/) along with [2]
+- [COS 461 at Princeton](https://www.cs.princeton.edu/courses/archive/spring17/cos461/) along with [^](#)2
 - [CS244A at Stanford](http://web.stanford.edu/class/cs244a/)
 
 [2] - Used as the reference for
 
 - [15-441 at CMU](https://www.cs.cmu.edu/~prs/15-441-F16/)
-- [Computer Networks at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/networks/) along with [3]
+- [Computer Networks at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/networks/) along with <sup id="">[[3]](#)</sup>
 - [CS 640 at UWISC](http://pages.cs.wisc.edu/~pb/cs640.html)
 
 [4] - Used as the reference for
@@ -732,12 +732,12 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Standard Textbooks
 
-1. **Software Engineering A Practitioner’s Approach** - Roger S. Pressman [1]
-2. **Software Engineering** - Ian Sommerville [2]
+1. **Software Engineering A Practitioner’s Approach** - Roger S. Pressman <sup id="">[[1]](#)</sup>
+2. **Software Engineering** - Ian Sommerville <sup id="">[[2]](#)</sup>
 
 ### Alternative/Supplementary
 
-1. **An Integrated Approach to Software Engineering** - Pankaj Jalote [3]
+1. **An Integrated Approach to Software Engineering** - Pankaj Jalote <sup id="">[[3]](#)</sup>
 2. **Software Engineering Fundamentals** - A. Behferooz and F. J. Hudson
 3. **Fundamentals of Software Engineering** - Rajib Mall
 4. **Software Engineering** - Gaurav Gupta and Deepika Gupta
@@ -745,13 +745,13 @@ Online courses about Microprocessors are rather difficult to come by.
 6. **Software Engineering 1st Edition** - Udit Agarwal
 7. **Algebraic Methodology and Software Technology** - Grigore Rosu and Jose Meseguer
 8. **Software Design Methodology: From Principles to Architectural Styles** - Hong Zhu
-9. **Object-oriented Software Engineering : using UML, patterns, and Java** - Bernd Bruegge and Allen Dutoit [4]
-10. **The New Software Engineering** - Sue A. Conger [5]
-11. **The Pragmatic Programmer** - Dave Thomas and Andy Hunt [6]
-12. **Software Engineering** - Ivan Marsic [7]
-13. **Design Patterns:  Elements of Reusable Object-Oriented Software**-  E. Gamma, R. Helm, R. Johnson, and J. Vlissides [8]
-14. **Object-Oriented Software Engineering: Practical Software Development using UML and Java** - Timothy C. Lethbridge and Robert Laganière [9]
-15. **Fundamentals of Software Engineering** - Carlo Ghezzi [10]
+9. **Object-oriented Software Engineering : using UML, patterns, and Java** - Bernd Bruegge and Allen Dutoit <sup id="">[[4]](#)</sup>
+10. **The New Software Engineering** - Sue A. Conger <sup id="">[[5]](#)</sup>
+11. **The Pragmatic Programmer** - Dave Thomas and Andy Hunt <sup id="">[[6]](#)</sup>
+12. **Software Engineering** - Ivan Marsic <sup id="">[[7]](#)</sup>
+13. **Design Patterns:  Elements of Reusable Object-Oriented Software**-  E. Gamma, R. Helm, R. Johnson, and J. Vlissides <sup id="">[[8]](#)</sup>
+14. **Object-Oriented Software Engineering: Practical Software Development using UML and Java** - Timothy C. Lethbridge and Robert Laganière <sup id="">[[9]](#)</sup>
+15. **Fundamentals of Software Engineering** - Carlo Ghezzi <sup id="">[[10]](#)</sup>
 
 ### Notes
 
