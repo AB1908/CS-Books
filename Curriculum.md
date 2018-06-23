@@ -22,17 +22,17 @@
 
 1. **Introduction to Data Structures with Applications** - Jean P. Tremblay and Paul G. Sorenson
 2. **Data Structures and Algorithms** - Alfred V. Aho, John E. Hopcroft and Jeffrey D. Ullman
-3. **Data Abstraction and Problem Solving with C++: Walls and Mirrors** - Frank M. Carrano [1]
+3. **Data Abstraction and Problem Solving with C++: Walls and Mirrors** - Frank M. Carrano <sup id="DAPSCref">[[1]](#DAPSC)</sup>
 
 ### Alternative/Supplementary
 
 1. **Data Structures and Algorithm Analysis in C** - Mark Allen Weiss
-2. **Algorithms in Java** - Robert Sedgewick [2]
-3. **Data Structures and Algorithms in Java** - M. Goodrich, R. Tamassia, and M. Goldwasser [3]
-4. **Data Structures and Algorithms Analysis in Java** - Mark Allen Weiss [4]
-5. **Data Structures: Abstraction and Design Using Java** - Elliot B. Koffman and Paul A. T. Wolfgang [5]
-6. **An Introduction to Programming through C++** - Abhiram G. Ranade [6]
-7. **ADTs, Data Structures and Problem Solving** - Larry Nyhoff [7]
+2. **Algorithms in Java** - Robert Sedgewick <sup id="AiJref">[[2]](#AiJ)</sup>
+3. **Data Structures and Algorithms in Java** - M. Goodrich, R. Tamassia, and M. Goldwasser <sup id="DSAJref">[[3]](#DSAJ)</sup>
+4. **Data Structures and Algorithms Analysis in Java** - Mark Allen Weiss <sup id="DSAAJref">[[4]](#DSAAJ)</sup>
+5. **Data Structures: Abstraction and Design Using Java** - Elliot B. Koffman and Paul A. T. Wolfgang <sup id="DSADUJref">[[5]](#DSADUJ)</sup>
+6. **An Introduction to Programming through C++** - Abhiram G. Ranade <sup id="IPCPPref">[[6]](#IPCPP)</sup>
+7. **ADTs, Data Structures and Problem Solving** - Larry Nyhoff <sup id="ADSPSref">[[7]](#ADSPS)</sup>
 8. **Data Structures, Algorithms and Applications in C++** - Sartaj Sahani
 9. **Data Structures and Algorithms: Concepts, Techniques and Applications** - G. A. V. Pai
 10. **Data Structures** - D. Samanta
@@ -53,32 +53,32 @@
 - [CS 61BL at Berkeley](https://sp18.datastructur.es/) uses a [set of free notes](https://joshhug.gitbooks.io/hug61b/) by the instructor for the first half, and **Algorithms** by Sedgewick and Wayne for the second half.
 - [Data Structures and Algorithms (Level 1/C) at UoB](http://www.cs.bham.ac.uk/~jxb/dsa.html) recommends using 3 free ebooks linked on the course page.
 
-[1] - Used as a reference for
+<a id="DAPSC" href="#DAPSCref">^</a>1 - Used as a reference for
 
 - [CS 302 at UNR](https://www.cse.unr.edu/~mgunes/cs302/cs302fa12/) but covers only Data Structures and also assumes prior background in Algorithms
 
-[2] - Used as a reference for
+<a id="AiJ" href="#AiJref">[2]</a> - Used as a reference for
 
 - [CS 226 at Princeton](https://www.cs.princeton.edu/~rs/AlgsDS07/) which is **Sedgewick's own course**
 
-[3] - Used as a reference for
+<a id="DSAJ" href="#DSAJref">^</a>3 - Used as a reference for
 
 - [CSE 2010 at FIT](https://cs.fit.edu/~pkc/classes/ds/)
 
-[4] - Used as a reference for
+<a id="DSAAJ" href="#DSAAJref">^</a>4 - Used as a reference for
 
 - [600.226 at JHU](http://www.cs.jhu.edu/~hager/Teaching/cs226/)
 - [CS 315 at UT Austin](http://www.cs.utexas.edu/users/novak/cs315.html) a set of lecture notes [hosted online](https://www.cs.utexas.edu/users/novak/cs315contents.html) are the primary material
 
-[5] - Used as a reference for
+<a id="DSADUJ" href="#DSADUJref">^</a>5 - Used as a reference for
 
 - [CS 206 at BMC](https://cs.brynmawr.edu/cs206/)
 
-[6] - Used as a reference for
+<a id="IPCPPref" href="#IPCPP">^</a>6 - Used as a reference for
 
 - [CS 213(M) at IIT Bombay](https://www.cse.iitb.ac.in/~ranade/cs213/) which is taken by **Ranade**
 
-[7] - Used as a reference for
+<a id="ADSPS" href="#ADSPSref">^</a>7 - Used as a reference for
 
 - [CS 240 at BU](http://www.cs.binghamton.edu/~steflik/cs240/cs240.htm) but covers only Data Structures
 
@@ -533,7 +533,7 @@ Online courses about Microprocessors are rather difficult to come by.
 
 [4] - Used as the reference for
 
-- [Discrete Structures and Combinatorics at BGU](https://www.cs.bgu.ac.il/~dsc172/Main) along with some weird Israeli book? :shrug
+- [Discrete Structures and Combinatorics at BGU](https://www.cs.bgu.ac.il/~dsc172/Main) along with some weird Israeli book? :shrug:
 
 [5] - Used as the reference for
 
@@ -756,7 +756,7 @@ Online courses about Microprocessors are rather difficult to come by.
 ### Notes
 
 - Wikipedia has a [list of notable publications](https://en.wikipedia.org/wiki/Outline_of_software_engineering#Notable_publications) in Software Engineering.
-- [CS32 at Brown](http://cs.brown.edu/courses/cs0320/) recommends **Effective Java** by Joshua Bloch for some reason. :shrug
+- [CS32 at Brown](http://cs.brown.edu/courses/cs0320/) recommends **Effective Java** by Joshua Bloch for some reason. :shrug:
 - [EE 360F at UT Austin](http://users.ece.utexas.edu/~perry/education/SE-Intro/) has a list of papers and sections from multiple books as necessary readings for the course.
 
 [1] - Used as the reference for
