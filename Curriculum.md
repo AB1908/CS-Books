@@ -181,7 +181,7 @@
 - [601.426/626 at JHU](http://pl.cs.jhu.edu/pl/index.shtml) use their own book created by a course instructor. The book itself is available under Creative Commons License [here](http://pl.cs.jhu.edu/pl/book/book.pdf).
 - An extensive list of resources can also be found at [Programming Language Theory](http://steshaw.org/plt/).
 
-[1] - Used as the reference for
+<a id="" href="#">^</a>1 - Used as the reference for
 
 - [CS 6848 at IIT, Madras](https://www.cse.iitm.ac.in/~krishna/courses/2015/odd-cs6848/) along with [5], with [2] and [9] for additional reference
 - [Principles of Programming Languages at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/principles/)
@@ -190,35 +190,35 @@
 - [CS704 at UWISC](https://github.com/barghouthi/cs704) and has a number of other recommendations as well
 - [CSCI 3155 at Berkeley](http://csci3155.cs.colorado.edu/s18/) but the recommended readings are from notes with a bunch of other resources linked
 
-[2] - Please make sure to go through the [errata listed](http://theory.stanford.edu/people/jcm/books/cpl-errata.html) when using this book. Used as the reference for
+<a id="" href="#">^</a>2 - Please make sure to go through the [errata listed](http://theory.stanford.edu/people/jcm/books/cpl-errata.html) when using this book. Used as the reference for
 
 - [CS 59 at Dartmouth](http://www.cs.dartmouth.edu/~sergey/cs59/syllabus.pdf) is a syllabus only page with many other materials on the instructor's website and also uses some material from <sup id="">[[7]](#)</sup>
 - [CSCI 334 at WC](http://www.cs.williams.edu/~dbarowy/cs334s18/)
 
-[4] - Used as the reference for
+<a id="" href="#">^</a>4 - Used as the reference for
 
 - [CS 245 at BMC](https://cs.brynmawr.edu/Courses/cs245/fall2010/)
 - [CSc 520 at UAT](https://www2.cs.arizona.edu/classes/cs520/spring06/)
 - [CSCI 3136 at Dal](https://web.cs.dal.ca/~nzeh/Teaching/3136/index.html) which also recommends reading [7], [2], [10] and **The Cinderella Book**
 
-[6] - Used as the reference for
+<a id="" href="#">^</a>6 - Used as the reference for
 
 - [COMP 411 at RU](https://www.cs.rice.edu/~javaplt/411/14-spring/)
 
-[8] - Used as the reference for
+<a id="" href="#">^</a>8 - Used as the reference for
 
 - [CSC 272 at AU](https://home.adelphi.edu/~siegfried/cs272/)
 - [CS 3MI3 at MMU](http://www.cas.mcmaster.ca/~franek/courses/cs3mi3/)
 
-[9] - Used as the reference for
+<a id="" href="#">^</a>9 - Used as the reference for
 
 - [15-312 at CMU](https://www.cs.cmu.edu/~jcr/tpl.html)
 
-[11] - Used as the reference for
+<a id="" href="#">^</a>11 - Used as the reference for
 
 - [CMSC 245 at HC](https://www.haverford.edu/computer-science/course-pages/2016f-cmsc-245-principles-programming-languages) (Note: Syllabus page only)
 
-[12] - Used as the reference for
+<a id="" href="#">^</a>12 - Used as the reference for
 
 - [TIE-20306 at TUT](http://www.cs.tut.fi/~popl/nykyinen/index.shtml) along with a free *Finnish* textbook
 
@@ -248,11 +248,11 @@
 
 There are plenty more books than listed and more courses than I'd care to link.
 
-[1] - Widely regarded as an authoritative reference for Computer Organisation and Architecture. It is written by Turing Award winning Computer Scientists David Patterson and John Hennessy, but also assumes the reader is already well versed with concepts of Computer Architecture. For the beginner, [2] is widely recommended as _the_ book to start with. Used as a reference for
+<a id="" href="#">^</a>1 - Widely regarded as an authoritative reference for Computer Organisation and Architecture. It is written by Turing Award winning Computer Scientists David Patterson and John Hennessy, but also assumes the reader is already well versed with concepts of Computer Architecture. For the beginner, [2] is widely recommended as _the_ book to start with. Used as a reference for
 
 - [CS146 at Harvard](http://www.eecs.harvard.edu/~dbrooks/cs146-spring2004/)
 
-[2] - [TYCS](https://teachyourselfcs.com/#architecture) recommends this excellent book (after going through **The Elements of Computing Systems** by Nishan and Schocken), as do I, for an introduction to the fundamental ideas of Computer Organisation and Architecture. It is extremely well written, has plenty of depth, and is built upon in [1] by the same authors. Used as a reference for
+<a id="" href="#">^</a>2 - [TYCS](https://teachyourselfcs.com/#architecture) recommends this excellent book (after going through **The Elements of Computing Systems** by Nishan and Schocken), as do I, for an introduction to the fundamental ideas of Computer Organisation and Architecture. It is extremely well written, has plenty of depth, and is built upon in [1] by the same authors. Used as a reference for
 
 - [CS 312 at UMSL](http://www.cs.umsl.edu/~sanjiv/classes/cs312/)
 - [ECE 411 at UI](https://ece.illinois.edu/academics/courses/profile/ECE411)
@@ -261,9 +261,9 @@ There are plenty more books than listed and more courses than I'd care to link.
 - [CS 3410 at Cornell](http://www.cs.cornell.edu/courses/cs3410/2016fa/)
 - [CS 61C at Berkeley](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/#Resources)
 
-[4] - I didn't find this book stimulating at all.
+<a id="" href="#">^</a>4 - I didn't find this book stimulating at all.
 
-[6] - I found this book incredibly dull and difficult to understand. Good luck.
+<a id="" href="#">^</a>6 - I found this book incredibly dull and difficult to understand. Good luck.
 
 [7] - Used as the reference for
 
@@ -271,7 +271,7 @@ There are plenty more books than listed and more courses than I'd care to link.
 - [15-213/18-213 at CMU](http://www.cs.cmu.edu/%7E213/)
 - [CS107 at Stanford](http://web.stanford.edu/class/cs107/)
 
-[9] - Used as the reference for
+<a id="" href="#">^</a>9 - Used as the reference for
 
 - [EE382 at Stanford](https://web.stanford.edu/class/ee382/)
 
@@ -305,13 +305,13 @@ There are plenty more books than listed and more courses than I'd care to link.
 - [Algorithms, Etc. by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/) is a set of notes that covers the material necessary for his course at University of Illinois.
 - *TAOCP* also serves as a useful reference for many algorithms typically studied as part of an undergraduate level course. It is quite mathematical so typically many students find it a hard read.
 
-[1] - Typically used as an encyclopedic reference for most topic, rather than an introduction to algorithms. Used as the reference for
+<a id="" href="#">^</a>1 - Typically used as an encyclopedic reference for most topic, rather than an introduction to algorithms. Used as the reference for
 
 - [CS 600 A at SIT](https://www.cs.stevens.edu/~swetzel/CS600/spring11/)
 - [15-451/651 at CMU](https://www.cs.cmu.edu/~15451/) which also recommends [3] but either can be used, while an [older version](http://www.cs.cmu.edu/~avrim/451f09/index.html) has it's own set of notes
 - [CS 466/666 at UoW](https://cs.uwaterloo.ca/~eblais/courses/F17/CS466/) with additional material described [here](https://cs.uwaterloo.ca/~eblais/courses/F17/CS466/outline.pdf)
 
-[2] - Used as the reference for
+<a id="" href="#">^</a>2 - Used as the reference for
 
 - [CSci 256 at WC](https://www.cs.williams.edu/~lenhart/cs256/index.html)
 - [CPSC500 at UBC](http://www.cs.ubc.ca/~condon/cpsc500/) with [3] additionally recommended along with other texts
@@ -319,15 +319,15 @@ There are plenty more books than listed and more courses than I'd care to link.
 - [CS 161 at Stanford](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms) where Tim has made his lecture videos available to all
 - [CS 7820 at Cornell](http://www.cs.cornell.edu/courses/cs6820/2009fa/) taken by **Jon Kleinberg**
 
-[3] - Used as the reference for
+<a id="" href="#">^</a>3 - Used as the reference for
 
 - [CS 157 at Brown](https://cs.brown.edu/courses/cs157/)
 
-[4] - Recommended by *TYCS*. Used as the reference for
+<a id="" href="#">^</a>4 - Recommended by *TYCS*. Used as the reference for
 
 - [CSE 373 at SUNY, SB](http://www3.cs.stonybrook.edu/~skiena/373/) which is taken by **Steven Skiena**
 
-[5] - Used as the reference for
+<a id="" href="#">^</a>5 - Used as the reference for
 
 - [COS226 at Princeton](http://www.cs.princeton.edu/courses/archive/spring18/cos226/) with a [condensed version of the book](https://algs4.cs.princeton.edu/home/) available for reference
 
@@ -354,20 +354,20 @@ There are plenty more books than listed and more courses than I'd care to link.
 
 ### Notes
 
-[1] - Used a reference textbook for many courses around the world. It closely matches what Jeff Ullman [teaches online at Lagunita](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about). (Duh)
+<a id="" href="#">^</a>1 - Used a reference textbook for many courses around the world. It closely matches what Jeff Ullman [teaches online at Lagunita](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about). (Duh)
 
-[2] - Used as the reference for
+<a id="" href="#">^</a>2 - Used as the reference for
 
 - [CS 3102 at UoV](http://www.cs.virginia.edu/~robins/cs3102/)
 - [CS-251 at EPFL](http://theory.epfl.ch/cs251/Home.html)
 - [CS 3800 at NEU](https://course.ccs.neu.edu/cs3800f17wc/policies.html)
 - [CS39 at Dartmouth](https://www.cs.dartmouth.edu/~ac/Teach/CS39-Spring18/)
 
-[4] - Used as the reference for
+<a id="" href="#">^</a>4 - Used as the reference for
 
 - [UPenn's CSC 4170-50](https://www.seas.upenn.edu/~cit596/notes/dave/syllabus.html)
 
-[5] - Used as the reference for
+<a id="" href="#">^</a>5 - Used as the reference for
 
 - [AU's COMP 674](http://www.athabascau.ca/syllabi/comp/comp674.php), a graduate level course.
 
@@ -394,7 +394,7 @@ There are plenty more books than listed and more courses than I'd care to link.
 
 For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Operating_systems) provides a list of a series of breakthroughs in Operating System Design. [A list of research papers on Udacity](https://www.udacity.com/wiki/ud156-readings) may also be useful, and are the recommended readings for [CS 6210 at GATech](https://www.omscs.gatech.edu/cs-6210-advanced-operating-systems).
 
-[1] - Used as the reference for
+<a id="" href="#">^</a>1 - Used as the reference for
 
 - [CS 385 at UIC](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 - [CM's 15-410](https://www.cs.cmu.edu/~410/)
@@ -402,23 +402,23 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 - [Drexel's CS 543](https://www.cs.drexel.edu/~jjohnson/2012-13/fall/cs543/) which again recommends reading **Linux Kernel Development**.
 - [CS170 at UCSB](http://www.cs.ucsb.edu/~rich/class/cs170/)
 
-[2] - Used as the reference for
+<a id="" href="#">^</a>2 - Used as the reference for
 
 - [TOM-2.1-CS at UT](https://wwwhome.ewi.utwente.nl/~pieter/CS-OS/)
 - [CS 372 at UT Austin](http://www.cs.utexas.edu/users/witchel/372/) although certain readings are from [1] as well.
 
-[3] - [**OSTEP**](http://pages.cs.wisc.edu/~remzi/OSTEP/) was made as a companion for a [course on Operating Systems at UWISC](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), which is freely available. The professors also recommend reading classic texts such as **Linux Kernel Development** and **The C Programming Language** (K&R). It is also used as a reference for [WPI's CS 3013](https://web.cs.wpi.edu/~cshue/cs3013/). Apart from being my personal recommendation for an introduction to Operating Systems, it is also recommended over at [Teach Yourself Computer Science](https://teachyourselfcs.com/£oeprating-systems) (_TYCS_).
+<a id="" href="#">^</a>3 - [**OSTEP**](http://pages.cs.wisc.edu/~remzi/OSTEP/) was made as a companion for a [course on Operating Systems at UWISC](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), which is freely available. The professors also recommend reading classic texts such as **Linux Kernel Development** and **The C Programming Language** (K&R). It is also used as a reference for [WPI's CS 3013](https://web.cs.wpi.edu/~cshue/cs3013/). Apart from being my personal recommendation for an introduction to Operating Systems, it is also recommended over at [Teach Yourself Computer Science](https://teachyourselfcs.com/£oeprating-systems) (_TYCS_).
 
-[4] - Used as the reference for
+<a id="" href="#">^</a>4 - Used as the reference for
 
 - [SU's CS140](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring18/index.php)
 - [Yale's CS422/522](http://flint.cs.yale.edu/cs422/)
 
-[5] - Used as the reference for
+<a id="" href="#">^</a>5 - Used as the reference for
 
 - [CS 161 at HU](http://www.eecs.harvard.edu/~cs161/)
 
-[6] - Basically a cheaper version of [1] recommended as the reference textbook for [CU's COMS W4118](http://www.cs.columbia.edu/~jae/4118/).
+<a id="" href="#">^</a>6 - Basically a cheaper version of [1] recommended as the reference textbook for [CU's COMS W4118](http://www.cs.columbia.edu/~jae/4118/).
 
 ## Data Communication
 <!-- Data transmission fundamentals: historical overview; time/frequency representation of data signals; elements of a communications link; definition of key terms; factors affecting system design, Binary and multi-level signaling: information transfer rate; calculation of channel capacity; bandwidth efficiency, Baseband data transmission: the problem of inter symbol interference; achieving a Nyquist channel response; recovery of symbols from noise; bit error rate performance for baseband data systems, Bandpass digital modulation: binary modulation schemes (eg ASK, FSK, PSK); multi-level digital modulation (e.g. M-ary ASK, M-ary FSK, M-ary PSK, QAM), Coding theory and practice: source coding; channel coding; block coding; convolutional coding; combined coding and modulation, Multi-user digital modulation techniques such as frequency division multiple access (FDMA); time division multiple access (TDMA); code division multiple access (CDMA); combined multiple access systems; Error detection and correction, Digital transmission fundamental  -->
@@ -438,7 +438,7 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 
 - Please help. I found nothing on the web with similar syllabus, which has been commented out. See source code.
 
-[1] - Used as the reference for
+<a id="" href="#">^</a>1 - Used as the reference for
 
 - [CS 3413 at UTSA](http://www.cs.utsa.edu/~korkmaz/teaching/cs3413/)
 
@@ -463,11 +463,11 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 
 Online courses about Microprocessors are rather difficult to come by.
 
-[1] - Used as the reference for
+<a id="" href="#">^</a>1 - Used as the reference for
 
 - [a course at UCF](http://www.cs.ucf.edu/~ahossam/teaching/microp/)
 
-[5] - Used as the reference for
+<a id="" href="#">^</a>5 - Used as the reference for
 
 - [IITK's CS43003](http://www.facweb.iitkgp.ernet.in/~apal/files/microprocessor_04.pdf) (Note: Syllabus page only)
 
@@ -515,7 +515,7 @@ Online courses about Microprocessors are rather difficult to come by.
 - Cornell also hosts a useful set of [notes on Discrete Structures](https://www.cs.cornell.edu/~rafael/discmath.pdf).
 - [UT Austin's CS 311](http://www.cs.utexas.edu/~vl/teaching/311/) appears to have their own set of lecture notes linked on the course page.
 
-[1] - Used as the reference for
+<a id="" href="#">^</a>1 - Used as the reference for
 
 - [CS381 at ODU](http://www.cs.odu.edu/~cs381/index.html)
 - [CSE 191 at UaB](https://cse.buffalo.edu/~rapaport/191/) with [11] additionally recommended
@@ -525,33 +525,33 @@ Online courses about Microprocessors are rather difficult to come by.
 - [CS 70 at Berkeley](http://eecs70.org/) although notes are recommended for primary reading
 - [CS 207 at IIT Bombay](https://www.cse.iitb.ac.in/~akshayss/courses/cs207-2016.html) along with <sup id="">[[9]](#)</sup>
 
-[3] - Used as the reference for
+<a id="" href="#">^</a>3 - Used as the reference for
 
 - [CS2102 at UoV](https://uvacs2102.github.io/) and has generously been made [available online](https://uvacs2102.github.io/docs/mcs.pdf) under the Creative Commons License
 - [CS1010 at IITH](https://www.iith.ac.in/~aravind/cs1010.html) although it uses [slightly older notes](https://www.iith.ac.in/~aravind/Files-DM/LLM-MFCS-2012.pdf) instead with an additional guide on [**How to write Mathematics**](http://erickson.sites.truman.edu/files/2012/04/guide1.pdf) by Martin Erickson
 - [CS 30 at Dartmouth](https://www.cs.dartmouth.edu/~ac/Teach/CS30-Winter18/) with [1] recommended for additional reading
 
-[4] - Used as the reference for
+<a id="" href="#">^</a>4 - Used as the reference for
 
 - [Discrete Structures and Combinatorics at BGU](https://www.cs.bgu.ac.il/~dsc172/Main) along with some weird Israeli book? :shrug:
 
-[5] - Used as the reference for
+<a id="" href="#">^</a>5 - Used as the reference for
 
 - [CPS 102 at Duke](https://www2.cs.duke.edu/courses/spring09/cps102/) with [1], [6] and [7] also recommended
 
-[8] - Used as the reference for
+<a id="" href="#">^</a>8 - Used as the reference for
 
 - [MAT 385 at NKU](http://ceadserv1.nku.edu/longa//classes/2002fall/mat385/)
 
-[9] - Used as the reference for
+<a id="" href="#">^</a>9 - Used as the reference for
 
 - [Discrete Math at Cambridge](https://www.cl.cam.ac.uk/teaching/1314/DiscMath/) with additional books listed
 
-[10] - Used as the reference for
+<a id="" href="#">^</a>10 - Used as the reference for
 
 - [Discrete Mathematics at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/discretemaths/) along with other recommendations like [^](#)4
 
-[12] - Used as the reference for
+<a id="" href="#">^</a>12 - Used as the reference for
 
 - [CSCI 2824 at UoC Boulder](https://www.colorado.edu/cs/csci-2824-discrete-structures)
 
@@ -586,7 +586,7 @@ Online courses about Microprocessors are rather difficult to come by.
 
 - There is a reference book for OpenGL programming one may find useful called the "[Red Book](http://www.opengl.org/documentation/red_book/)". Many courses have further resources like these linked on their course or info pages.
 
-[1] - Used as the reference for
+<a id="" href="#">^</a>1 - Used as the reference for
 
 - [CSCI 1230 at Brown](https://cs.brown.edu/courses/cs123/)
 - [CS4620/CS4621 at Cornell](http://www.cs.cornell.edu/courses/cs4620/2014fa/index.shtml) along with [16]
@@ -594,17 +594,17 @@ Online courses about Microprocessors are rather difficult to come by.
 - [Introduction to Computer Graphics at UIC](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/index.html)
 - [CS 488 at UIC](https://www.evl.uic.edu/aej/488/index.html) which seems to be an earlier version of the course above
 
-[2] - Used as the reference for
+<a id="" href="#">^</a>2 - Used as the reference for
 
 - [CMU 15-462/662](http://15462.courses.cs.cmu.edu/fall2015/) along with [1] and <sup id="">[[8]](#)</sup>
 - [Computer Graphics at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/graphics/) with [1] and others additionally recommended
 - [CS248 at Stanford](http://graphics.stanford.edu/courses/cs248-18-spring/) with [1] also recommended
 
-[16] - Used as the reference for
+<a id="" href="#">^</a>16 - Used as the reference for
 
 - [CS 175 at Harvard](https://sites.fas.harvard.edu/~lib175/) taught by Steven Gortler himself
 
-[17] - Used as the reference for
+<a id="" href="#">^</a>17 - Used as the reference for
 
 - [CS 465 at Bilkent](http://www.cs.bilkent.edu.tr/~gudukbay/cs465/)
 - [EDAF80 at LTH](http://cs.lth.se/edaf80/) with [The Graphics Codex](http://graphicscodex.com/) linked for additional reading
@@ -637,7 +637,7 @@ Online courses about Microprocessors are rather difficult to come by.
 - Most of the courses strongly recommend reading through Claude Shannon's [A Mathematical Theory of Communication](math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) paper from 1948. It serves as the basis for the branch of Information Theory and Coding related research.
 - Most/All of the courses have relevant additional resources which are very useful
 
-[1] - Used as the reference for
+<a id="" href="#">^</a>1 - Used as the reference for
 
 - [15-859 at CMU](http://www.cs.cmu.edu/~venkatg/teaching/ITCS-spr2013/) with many other classic papers recommended for reading
 - [CSE 533 at UoW](https://catalyst.uw.edu/workspace/anuprao/15415/86593) with [a list of papers](https://catalyst.uw.edu/workspace/anuprao/15415/86644)
@@ -653,7 +653,7 @@ Online courses about Microprocessors are rather difficult to come by.
 - [EECS 428 at NWU](https://www.mccormick.northwestern.edu/eecs/courses/descriptions/428.html) (Note: Syllabus page only)
 - [ECE 563 at UoI](https://ece.illinois.edu/academics/courses/profile/ece563) (Note: Syllabus page only)
 
-[2] - Used as a reference for
+<a id="" href="#">^</a>2 - Used as a reference for
 
 - [COMP 7404 at DU](http://web.cs.du.edu/~ramki/courses/tpcs/infoTheory/index.html)
 - [CSC 310 at UoT](https://www.cs.toronto.edu/~radford/csc310.F11/) with [3] recommended for rigorous mathematical analysis
@@ -675,13 +675,13 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Notes
 
-[1] - This is a brilliant book recommended by [pearson.com](https://www.pearson.com/us/higher-education/program/Aho-Compilers-Principles-Techniques-and-Tools-2nd-Edition/PGM167067.html). Used as the reference for
+<a id="" href="#">^</a>1 - This is a brilliant book recommended by [pearson.com](https://www.pearson.com/us/higher-education/program/Aho-Compilers-Principles-Techniques-and-Tools-2nd-Edition/PGM167067.html). Used as the reference for
 
 - [CS143 at Stanford University](https://web.stanford.edu/class/cs143/)
 - [CS4120 at Cornell University](http://www.cs.cornell.edu/courses/cs4120/2013fa/)
 - [CS5470 at university of Utah](https://courses.engr.illinois.edu/cs421/fa2014/)
 
-[2] - Used as reference for
+<a id="" href="#">^</a>2 - Used as reference for
 
 - [CS421 at University of Illinois](https://courses.engr.illinois.edu/cs421/fa2014/)
 
@@ -707,26 +707,26 @@ Online courses about Microprocessors are rather difficult to come by.
 
 [GATech's CS 6250](https://www.omscs.gatech.edu/cs-6250-computer-networks) has a list of useful papers [on Udacity](https://www.udacity.com/wiki/ud819/resources). There are also many more amazing resources on the web.
 
-[1] - It is recommended over at [TYCS](https://teachyourselfcs.com/#networking). Also used as the reference for
+<a id="" href="#">^</a>1 - It is recommended over at [TYCS](https://teachyourselfcs.com/#networking). Also used as the reference for
 
 - [CS60 at Dartmouth](http://www.cs.dartmouth.edu/~campbell/cs60/) where texts on Shell Scripting like **A Practical Guide to Linux Commands, Editors, and Shell Programming** by Mark G. Sobell are also recommended
 - [CS 356 at UT Austin](http://www.cs.utexas.edu/users/lam/cs356/)
 - [COS 461 at Princeton](https://www.cs.princeton.edu/courses/archive/spring17/cos461/) along with [^](#)2
 - [CS244A at Stanford](http://web.stanford.edu/class/cs244a/)
 
-[2] - Used as the reference for
+<a id="" href="#">^</a>2 - Used as the reference for
 
 - [15-441 at CMU](https://www.cs.cmu.edu/~prs/15-441-F16/)
 - [Computer Networks at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/networks/) along with <sup id="">[[3]](#)</sup>
 - [CS 640 at UWISC](http://pages.cs.wisc.edu/~pb/cs640.html)
 
-[4] - Used as the reference for
+<a id="" href="#">^</a>4 - Used as the reference for
 
 - [CS 408 at SU](http://people.sabanciuniv.edu/levi/cs408/)
 
-[5] - It is regarded as the standard textbook in the field [according to Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Networking).
+<a id="" href="#">^</a>5 - It is regarded as the standard textbook in the field [according to Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Networking).
 
-[6], [7] - Widely recommended in many courses listed above for additional reading, especially those at Princeton, Stanford and UWISC.
+<a id="" href="#">^</a>6, [7] - Widely recommended in many courses listed above for additional reading, especially those at Princeton, Stanford and UWISC.
 
 ## Software Engineering
 
@@ -759,43 +759,43 @@ Online courses about Microprocessors are rather difficult to come by.
 - [CS32 at Brown](http://cs.brown.edu/courses/cs0320/) recommends **Effective Java** by Joshua Bloch for some reason. :shrug:
 - [EE 360F at UT Austin](http://users.ece.utexas.edu/~perry/education/SE-Intro/) has a list of papers and sections from multiple books as necessary readings for the course.
 
-[1] - Used as the reference for
+<a id="" href="#">^</a>1 - Used as the reference for
 
 - [15-413 at CMU](https://www.cs.cmu.edu/~aldrich/courses/413/)
 - [CS 501 at Cornell](http://www.cs.cornell.edu/courses/cs501/2000FA/index.html) along with other classic books like **The Mythical Man Month** by Frederick Brooks
 
-[2] - Used as the reference for
+<a id="" href="#">^</a>2 - Used as the reference for
 
 - [Introduction to Software Engineering at PSU](http://www.csci.psu.edu/seminars/fallnotes/SWEintro.pdf) (Note: Syllabus page only)
 
-[3] - Used as the reference for
+<a id="" href="#">^</a>3 - Used as the reference for
 
 - [CS 320 at UMass](https://people.cs.umass.edu/~brun/class/2013Spring/CS320/)
 
-[4] - Used as the reference for
+<a id="" href="#">^</a>4 - Used as the reference for
 
 - [CS223 at Warwick](http://web.iitd.ac.in/~sumeet/sm.pdf) (Note: Syllabus and lecture pdf only)
 
-[5] - Used as the reference for
+<a id="" href="#">^</a>5 - Used as the reference for
 
 - [CS302 at Saylor Academy](https://learn.saylor.org/mod/page/view.php?id=686)
 
-[6] - Used as the reference for
+<a id="" href="#">^</a>6 - Used as the reference for
 
 - [CSE 403 at UoW](https://courses.cs.washington.edu/courses/cse403/)
 
 [7] - A [free book](http://www.ece.rutgers.edu/~marsic/books/SE/book-SE_marsic.pdf) written by the instructor of [ECE 14:332:452 at Rutgers](http://www.ece.rutgers.edu/~marsic/Teaching/SE/).
 
-[8] - Used as the reference for
+<a id="" href="#">^</a>8 - Used as the reference for
 
 - [CSE870 at MSU](http://www.cse.msu.edu/~cse870/index.php) along with many other articles from literature
 - [Foundations of Software Engineering at BGU](https://www.cs.bgu.ac.il/~fsen141/Main) along with many other textbooks
 
-[9] - Used as the reference for
+<a id="" href="#">^</a>9 - Used as the reference for
 
 - SEG 2100 at UoO which cannot be accessed. Instead the author provides supporting materials and other links [here](http://www.site.uottawa.ca/school/research/lloseng/).
 
-[10] - Used as the reference for
+<a id="" href="#">^</a>10 - Used as the reference for
 
 - [CSE2102 at UConn](http://www.engr.uconn.edu/~steve/Cse2102/cse2102.html)
 
