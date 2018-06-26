@@ -663,13 +663,26 @@ Online courses about Microprocessors are rather difficult to come by.
 
 1. **Compilers: Principles, Techniques, and Tools** - A. V. Aho, Ravi Sethi & Jeffrey D. Ullman (_The Dragon Book_) <sup id="TCDBref">[[1]](#TCDB)</sup>
 2. **Compiler Construction Principles and Practice** - K. C. Louden
-3. **Modern Compiler Implementation in ML** - A. W. Appel <sup id="MCIMLref">[[2]](#MCIML)</sup>
+3. **Modern Compiler Implementation in ML** - Andrew W. Appel (_The Tiger Book_)<sup id="TTBref">[[2]](#TTB)</sup>
 
 ### Alternative/Supplementary
 
 1. **Compiler Construction: Theory and Practice** - W. A. Barrett, John D. Couch, C. Couch
-2. **Engineering a Compiler** - Keith D Cooper and Linda Torczon
+2. **Engineering a Compiler** - Keith D. Cooper and Linda Torczon
 3. **Modern Compiler Design** - Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs, Koen Langendoen
+4. **Compiler Design: Theory, Tools, and Examples** - Seth Bergman
+5. **Compiler Design in C** - Allen I. Holub
+6. **Optimizing Compilers for Modern Architectures** - Randy Allen and Ken Kennedy
+7. **Understanding and Writing Compilers: A Do It Yourself Guide** - Richard Bornat
+8. **A Compiler Generator** - William Marshall McKeeman, James J. Horning, David B. Wortman
+9. **Advanced Compiler Design and Implementation** - Steven Muchnick
+10. **The Compiler Design Handbook: Optimizations and Machine Code Generation** - Y. N. Srikant and Priti Shankar
+11. **Compilers and Compiler Generators: An Introduction with C++** - Patrick D. Terry
+12. **Compiler Construction** - Niklaus Wirth
+13. **A Rechargeable C Compiler: Design and Implementation** - Christopher W. Fraser, David Hanson, David Hansen
+14. **Compiling with continuations**- Andrew W. Appel
+15. **Building an Optimizing compiler** - Robert Morgan
+16. **Crafting a Compiler** - Charles N. Fischer, Richard Joseph LeBlanc, and Ronald Kaplan Cytron
 
 ### Notes
 
@@ -679,7 +692,7 @@ Online courses about Microprocessors are rather difficult to come by.
 - [CS4120 at Cornell University](http://www.cs.cornell.edu/courses/cs4120/2013fa/)
 - [CS5470 at university of Utah](https://courses.engr.illinois.edu/cs421/fa2014/)
 
-<a id="MCIML" href="#MCIMLref">^</a>2 - Used as reference for
+<a id="TTB" href="#TTBref">^</a>2 - The author has an [accompanying website](http://www.cs.princeton.edu/~appel/modern/) for his books (available in Java and C as well). Used as reference for
 
 - [CS421 at University of Illinois](https://courses.engr.illinois.edu/cs421/fa2014/)
 
