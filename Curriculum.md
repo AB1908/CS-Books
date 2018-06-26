@@ -76,7 +76,7 @@
 
 <a id="IPCPPref" href="#IPCPP">^</a>6 - Used as a reference for
 
-- [CS 213(M) at IIT Bombay](https://www.cse.iitb.ac.in/~ranade/cs213/) which is taken by **Ranade**
+- [CS 213(M) at IITB](https://www.cse.iitb.ac.in/~ranade/cs213/) which is taken by **Ranade**
 
 <a id="ADSPS" href="#ADSPSref">^</a>7 - Used as a reference for
 
@@ -183,7 +183,7 @@
 
 <a id="EOPL" href="#EOPLref">^</a>1 - Used as the reference for
 
-- [CS 6848 at IIT, Madras](https://www.cse.iitm.ac.in/~krishna/courses/2015/odd-cs6848/) along with [^](#TAPLref)5, with [^](#CPLref)2 and [^](#PLPLref)9 for additional reference
+- [CS 6848 at IITM](https://www.cse.iitm.ac.in/~krishna/courses/2015/odd-cs6848/) along with [^](#TAPLref)5, with [^](#CPLref)2 and [^](#PLPLref)9 for additional reference
 - [Principles of Programming Languages at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/principles/)
 - [CS G111 at NEU](https://course.ccs.neu.edu/csg111/)
 - [CSCI-UA.0480-006](https://cs.nyu.edu/wies/teaching/popl-15/) and has a host of other useful links
@@ -467,7 +467,7 @@ Online courses about Microprocessors are rather difficult to come by.
 
 <a id="MAPA" href="#MAPAref">^</a>5 - Used as the reference for
 
-- [IITK's CS43003](http://www.facweb.iitkgp.ernet.in/~apal/files/microprocessor_04.pdf) (Note: Syllabus page only)
+- [IITKGP's CS43003](http://www.facweb.iitkgp.ernet.in/~apal/files/microprocessor_04.pdf) (Note: Syllabus page only)
 
 ## Discrete Mathematics
 
@@ -521,7 +521,7 @@ Online courses about Microprocessors are rather difficult to come by.
 - [14:332:312 at Rutgers](http://eceweb1.rutgers.edu/~csi/DiscMath.html)
 - [CS 441 at PU](https://people.cs.pitt.edu/~milos/courses/cs441/)
 - [CS 70 at Berkeley](http://eecs70.org/) although notes are recommended for primary reading
-- [CS 207 at IIT Bombay](https://www.cse.iitb.ac.in/~akshayss/courses/cs207-2016.html) along with [^](#DMNBref)9
+- [CS 207 at IITB](https://www.cse.iitb.ac.in/~akshayss/courses/cs207-2016.html) along with [^](#DMNBref)9
 
 <a id="MFCS" href="#MFCSref">^</a>3 - Used as the reference for
 
@@ -662,40 +662,69 @@ Online courses about Microprocessors are rather difficult to come by.
 ### Standard Textbooks
 
 1. **Compilers: Principles, Techniques, and Tools** - A. V. Aho, Ravi Sethi & Jeffrey D. Ullman (_The Dragon Book_) <sup id="TCDBref">[[1]](#TCDB)</sup>
-2. **Compiler Construction Principles and Practice** - K. C. Louden
+2. **Compiler Construction: Principles and Practice** - Kenneth C. Louden <sup id="CCPPref">[[7]](#CCPP)</sup>
 3. **Modern Compiler Implementation in ML** - Andrew W. Appel (_The Tiger Book_)<sup id="TTBref">[[2]](#TTB)</sup>
 
 ### Alternative/Supplementary
 
 1. **Compiler Construction: Theory and Practice** - W. A. Barrett, John D. Couch, C. Couch
-2. **Engineering a Compiler** - Keith D. Cooper and Linda Torczon
+2. **Engineering a Compiler** - Keith D. Cooper and Linda Torczon (_CT_) <sup id="EACref">[[3]](#EAC)</sup>
 3. **Modern Compiler Design** - Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs, Koen Langendoen
 4. **Compiler Design: Theory, Tools, and Examples** - Seth Bergman
 5. **Compiler Design in C** - Allen I. Holub
-6. **Optimizing Compilers for Modern Architectures** - Randy Allen and Ken Kennedy
+6. **Optimizing Compilers for Modern Architectures: A Dependence-based Approach** - Randy Allen and Ken Kennedy <sup id="OCFMAref">[[5]](#OCFMA)</sup>
 7. **Understanding and Writing Compilers: A Do It Yourself Guide** - Richard Bornat
 8. **A Compiler Generator** - William Marshall McKeeman, James J. Horning, David B. Wortman
-9. **Advanced Compiler Design and Implementation** - Steven Muchnick
+9. **Advanced Compiler Design and Implementation** - Steven Muchnick <sup id="CACref">[[6]](#CAC)</sup>
 10. **The Compiler Design Handbook: Optimizations and Machine Code Generation** - Y. N. Srikant and Priti Shankar
 11. **Compilers and Compiler Generators: An Introduction with C++** - Patrick D. Terry
 12. **Compiler Construction** - Niklaus Wirth
 13. **A Rechargeable C Compiler: Design and Implementation** - Christopher W. Fraser, David Hanson, David Hansen
 14. **Compiling with continuations**- Andrew W. Appel
 15. **Building an Optimizing compiler** - Robert Morgan
-16. **Crafting a Compiler** - Charles N. Fischer, Richard Joseph LeBlanc, and Ronald Kaplan Cytron
+16. **Crafting a Compiler** - Charles N. Fischer, Richard Joseph LeBlanc, and Ronald Kaplan Cytron <sup id="CACref">[[4]](#CAC)</sup>
 17. **Elements of Compiler Design** - Alexander Meduna
+18. **Object-oriented Compiler Construction** - Jim Holmes
+19. **Theory and Practice of Compiler Writing** - J.P. Tremblay and P.G. Sorenson <sup id="TPCWref">[[8]](#TPCW)</sup>
+20. **Parsing Techniques: A Practical Guide** - J.P. Tremblay and P.G. Sorenson
 
 ### Notes
 
-<a id="TCDB" href="#TCDBref">^</a>1 - This is a brilliant book recommended by [pearson.com](https://www.pearson.com/us/higher-education/program/Aho-Compilers-Principles-Techniques-and-Tools-2nd-Edition/PGM167067.html). Used as the reference for
+<a id="TCDB" href="#TCDBref">^</a>1 - This is regarded as the definitive reference book on compilers [according to Wikipedia](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools) and has multiple editions, of which _The Purple Dragon Book_ or the 2<sup>nd</sup> edition is more referred to. The corresponding edition for a course should be verified from the course page. Used as the reference for
 
-- [CS143 at Stanford University](https://web.stanford.edu/class/cs143/)
-- [CS4120 at Cornell University](http://www.cs.cornell.edu/courses/cs4120/2013fa/)
-- [CS5470 at university of Utah](https://courses.engr.illinois.edu/cs421/fa2014/)
+- [CS143 at Stanford](https://web.stanford.edu/class/cs143/)
+- [CS4120 at Cornell](http://www.cs.cornell.edu/courses/cs4120/2013fa/)
+- [ECS 142 at UC Davis](http://web.cs.ucdavis.edu/~pandey/Teaching/ECS142/ecs142_spring2011.html) has many more books listed, but also recommends [^](#TTBref)The Tiger Book in Java, [^](#EACref)3, [^](#CACref)4
+- [CPSC 605-600 at TAMU](https://parasol.tamu.edu/~rwerger/Courses/605/) along with [^](#OCFMAref)5
+- [CS 5461 at UoM Duluth](https://www.d.umn.edu/~rmaclin/cs5641/index.html)
+- [Compiler Design at NCTU](https://people.cs.nctu.edu.tw/~ypyou/courses/Compiler-grad-s18/) with more useful resources listed
+- [COP5621 at FSU](https://www.cs.fsu.edu/~engelen/courses/COP5621/) along with **The Java&trade; Virtual Machine Specification**, SE 8 edition
+- [CS 2210 at UoP](https://people.cs.pitt.edu/~wahn/teaching/cs2210/)
+- [CS 3300 at IITM](http://www.cse.iitm.ac.in/~krishna/cs3300/) along with [^](#TTBref)The Tiger Book in Java
+- [CS335 at IITK](https://www.cse.iitk.ac.in/users/karkare/cs335/)
+- [CS 352 at IITR](https://www.iitr.ac.in/departments/CSE/uploads/File/CS%20btech%20courses/Cs352-compiler.pdf) along with [^](#EACref)3, [^](#CCPPref)7 and [^](#TPCWref)8 (Note: Syllabus page only)
 
 <a id="TTB" href="#TTBref">^</a>2 - The author has an [accompanying website](http://www.cs.princeton.edu/~appel/modern/) for his books (available in Java and C as well). Used as reference for
 
-- [CS421 at University of Illinois](https://courses.engr.illinois.edu/cs421/fa2014/)
+- [CS421 at UoI](https://courses.engr.illinois.edu/cs421/fa2014/)
+- [CS5470 at UoU](http://www.cs.utah.edu/~parker/5470_Sp18.html) but in Java (Note: Syllabus page only)
+- [15-411 at CMU](https://www.cs.cmu.edu/~fp/courses/15411-f09/index.html)
+- [CS 432F & CS 728](http://www.cse.iitd.ernet.in/~sanjiva/compilers.html) with [^](#TCDBref)1 additionally recommended
+
+<a id="CCPP" href="#CCPPref">^</a>7 - Used as a reference for
+
+- [COSC 4353 at TAMUCC](http://www.sci.tamucc.edu/~sking/Courses/Compilers/) with books such as **Unix Programming Tools :lex & yacc** additionally recommended
+- [CS 780 at WSU](http://cecs.wright.edu/~tkprasad/courses/cs780/cs780.html) with additional references listed
+
+<a id="EAC" href="#EACref">^</a>3 - Used as a reference for
+
+- [CS 321 at PDXSU](http://web.cecs.pdx.edu/~sheard/course/Cs321/)
+- [CS 8803 at GATech](http://www.omscs.gatech.edu/cs-8803-o08-compilers-theory-and-practice) which appears to have an [online course](https://in.udacity.com/course/compilers-theory-and-practice--ud168)
+- [CS712/CS812 at UNH](http://www.cs.unh.edu/~cs712/)
+
+<a id="CAC" href="#CACref">^</a>4 - Used as a reference for
+
+- [CPSC 466 at SRU](http://cs.sru.edu/~whit/handouts.466.s12.html)
 
 ## Computer Networks
 
