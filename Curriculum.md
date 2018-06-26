@@ -372,7 +372,7 @@ There are plenty more books than listed and more courses than I'd care to link.
 
 ### Standard Textbooks
 
-1. **Operating System Concepts** - J. L. Peterson and A. Silberschatz (*The Dinosaur Book*) <sup id="TDBref">[[1]](#TDB)</sup>
+1. **Operating System Concepts** - J. L. Peterson and A. Silberschatz (*The Dinosaur Book*) <sup id="TOSDBref">[[1]](#TOSDB)</sup>
 2. **Modern Operating Systems** - Andrew S. Tanenbaum
 3. **Operating Systems, Internals and Design Principles** - William Stallings <sup id="OSIDPref">[[2]](#OSIDP)</sup>
 
@@ -392,7 +392,7 @@ There are plenty more books than listed and more courses than I'd care to link.
 - For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Operating_systems) provides a list of a series of breakthroughs in Operating System Design.
 - [A list of research papers on Udacity](https://www.udacity.com/wiki/ud156-readings) may also be useful, and are the recommended readings for [CS 6210 at GATech](https://www.omscs.gatech.edu/cs-6210-advanced-operating-systems).
 
-<a id="TDB" href="#TDBref">^</a>1 - Used as the reference for
+<a id="TOSDB" href="#TOSDBref">^</a>1 - Used as the reference for
 
 - [CS 385 at UIC](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 - [CM's 15-410](https://www.cs.cmu.edu/~410/)
@@ -613,8 +613,8 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Standard Textbooks
 
-1. **Elements of Information Theory** - T. M. Cover and J. A. Thomas <sup id="ref">[[1]](#)</sup>
-2. **Information Theory, Inference and Learning Algorithms** - David J. C. Mackay <sup id="ref">[[2]](#)</sup>
+1. **Elements of Information Theory** - T. M. Cover and J. A. Thomas <sup id="EOITref">[[1]](#EOIT)</sup>
+2. **Information Theory, Inference and Learning Algorithms** - David J. C. Mackay <sup id="ITILAref">[[2]](#ITILA)</sup>
 3. **Information Theory Coding and Cryptography** - R. Bose
 
 ### Alternative/Supplementary
@@ -623,9 +623,9 @@ Online courses about Microprocessors are rather difficult to come by.
 2. **Introduction to Data Compression** - Khalid Sayood
 3. **The Theory of Information and Coding** - R. J. McEliece
 4. **The Theory of Error Correcting Codes** - F. J. MacWilliams and N. J. A. Sloane
-5. **Entropy and Information Theory** - Robert M. Gray <sup id="ref">[[3]](#)</sup>
-6. **Information Theory and Reliable Communication** - R. G. Gallagher <sup id="ref">[[4]](#)</sup>
-7. **Information Theory** - Robert B. Ash <sup id="ref">[[5]](#)</sup>
+5. **Entropy and Information Theory** - Robert M. Gray <sup id="EAITref">[[3]](#EAIT)</sup>
+6. **Information Theory and Reliable Communication** - R. G. Gallagher
+7. **Information Theory** - Robert B. Ash
 
 ### Notes
 
@@ -633,37 +633,37 @@ Online courses about Microprocessors are rather difficult to come by.
 - A [Workshop on Complexity Information Theory in Theoretical Computer Science and Discrete Mathematics](http://sites.math.rutgers.edu/~saks/IT/) at Rutgers has an extensive reading list should one be ambitious enough.
 - [CS 229r at Harvard](http://people.seas.harvard.edu/~madhusudan/courses/Spring2016/) has links to notes from other courses and multiple papers on the topic.
 - Most of the courses strongly recommend reading through Claude Shannon's [A Mathematical Theory of Communication](math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) paper from 1948. It serves as the basis for the branch of Information Theory and Coding related research.
-- Most/All of the courses have relevant additional resources which are very useful
+- Most/All of the courses have relevant additional resources which are very useful.
 
-<a id="" href="#ref">^</a>1 - Used as the reference for
+<a id="EOIT" href="#EOITref">^</a>1 - Used as the reference for
 
 - [15-859 at CMU](http://www.cs.cmu.edu/~venkatg/teaching/ITCS-spr2013/) with many other classic papers recommended for reading
 - [CSE 533 at UoW](https://catalyst.uw.edu/workspace/anuprao/15415/86593) with [a list of papers](https://catalyst.uw.edu/workspace/anuprao/15415/86644)
 - [EE5581 at UMN](http://people.ece.umn.edu/~nihar/ee5581_fall05/index.html)
 - [CSCI1850 at Brown](http://jwmi.github.io/IC/) with additional readings from **Information Theory, Inference, and Learning Algorithms** which is [available free of cost](http://www.inference.org.uk/mackay/itila/book.html)
 - [TTIC 31200/CMSC 37220 at UC](http://ttic.uchicago.edu/%7Emadhurt/courses/infotheory2014/index.html)
-- [10-704 at CMU](http://www.cs.cmu.edu/%7Eaarti/Class/10704/lecs.html) along with [2], and has elements of Machine Learning applied to it
+- [10-704 at CMU](http://www.cs.cmu.edu/%7Eaarti/Class/10704/lecs.html) along with [^](#ITILAref)2, and has elements of Machine Learning applied to it
 - [CS85/CS185 at Dartmouth](http://www.cs.dartmouth.edu/%7Eac/Teach/CS85-Winter06/) with [a list of papers](http://www.cs.dartmouth.edu/%7Eac/Teach/CS85-Winter06/#papers) for primary reading
 - [COS 597D at Princeton](http://www.cs.princeton.edu/courses/archive/fall11/cos597D/) which also recommends several papers
-- [COMPSCI 650 at UMass](https://people.cs.umass.edu/~elm/Teaching/650_F14/) with [2] recommended additionally
+- [COMPSCI 650 at UMass](https://people.cs.umass.edu/~elm/Teaching/650_F14/) with [^](#ITILAref)2 recommended additionally
 - [582650 at UoH](https://www.cs.helsinki.fi/group/cosco/Teaching/Information/2014/)
 - [CO 739-2 at UoW](http://www.math.uwaterloo.ca/~anayak/Site/Information_Theory.html)
 - [EECS 428 at NWU](https://www.mccormick.northwestern.edu/eecs/courses/descriptions/428.html) (Note: Syllabus page only)
 - [ECE 563 at UoI](https://ece.illinois.edu/academics/courses/profile/ece563) (Note: Syllabus page only)
 
-<a id="" href="#ref">^</a>2 - Used as a reference for
+<a id="ITILA" href="#ITILAref">^</a>2 - Used as a reference for
 
 - [COMP 7404 at DU](http://web.cs.du.edu/~ramki/courses/tpcs/infoTheory/index.html)
-- [CSC 310 at UoT](https://www.cs.toronto.edu/~radford/csc310.F11/) with [3] recommended for rigorous mathematical analysis
+- [CSC 310 at UoT](https://www.cs.toronto.edu/~radford/csc310.F11/) with [^](#EAITref)3 recommended for rigorous mathematical analysis
 - [CS 616 at WU](https://www.westminster.edu/resources/dean/view_course_syllabus.cfm?id=769) (Note: Syllabus page only)
 
 ## Compiler Design
 
 ### Standard Textbooks
 
-1. **Compilers: Principles, Techniques, and Tools** - A. V. Aho, Ravi Sethi & Jeffrey D. Ullman <sup id="ref">[[1]](#)</sup>
+1. **Compilers: Principles, Techniques, and Tools** - A. V. Aho, Ravi Sethi & Jeffrey D. Ullman (_The Dragon Book_) <sup id="TCDBref">[[1]](#TCDB)</sup>
 2. **Compiler Construction Principles and Practice** - K. C. Louden
-3. **Modern compiler implementation in ML** - A. W. Appel <sup id="ref">[[2]](#)</sup>
+3. **Modern Compiler Implementation in ML** - A. W. Appel <sup id="MCIMLref">[[2]](#MCIML)</sup>
 
 ### Alternative/Supplementary
 
@@ -673,13 +673,13 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Notes
 
-<a id="" href="#ref">^</a>1 - This is a brilliant book recommended by [pearson.com](https://www.pearson.com/us/higher-education/program/Aho-Compilers-Principles-Techniques-and-Tools-2nd-Edition/PGM167067.html). Used as the reference for
+<a id="TCDB" href="#TCDBref">^</a>1 - This is a brilliant book recommended by [pearson.com](https://www.pearson.com/us/higher-education/program/Aho-Compilers-Principles-Techniques-and-Tools-2nd-Edition/PGM167067.html). Used as the reference for
 
 - [CS143 at Stanford University](https://web.stanford.edu/class/cs143/)
 - [CS4120 at Cornell University](http://www.cs.cornell.edu/courses/cs4120/2013fa/)
 - [CS5470 at university of Utah](https://courses.engr.illinois.edu/cs421/fa2014/)
 
-<a id="" href="#ref">^</a>2 - Used as reference for
+<a id="MCIML" href="#MCIMLref">^</a>2 - Used as reference for
 
 - [CS421 at University of Illinois](https://courses.engr.illinois.edu/cs421/fa2014/)
 
@@ -687,55 +687,55 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Standard Textbooks
 
-1. **Computer Networking: A Top-Down Approach** - James Kurose and Keith Ross <sup id="ref">[[1]](#)</sup>
-2. **Computer Networks – A System Approach** - Larry L. Peterson and Bruce S. Davie <sup id="ref">[[2]](#)</sup>
-3. **Computer Networks** - Andrew S. Tanenbaum <sup id="ref">[[3]](#)</sup>
+1. **Computer Networking: A Top-Down Approach** - James Kurose and Keith Ross <sup id="CNATDAref">[[1]](#CNATDA)</sup>
+2. **Computer Networks – A System Approach** - Larry L. Peterson and Bruce S. Davie <sup id="CNASDref">[[2]](#CNASD)</sup>
+3. **Computer Networks** - Andrew S. Tanenbaum <sup id="CNATref">[[3]](#CNAT)</sup>
 
 ### Alternative/Supplementary
 
-1. **TCP/IP protocol Suite** - Behrouz A. Forouzan
-2. **Data and Computer Communication** - William Stallings <sup id="ref">[[4]](#)</sup>
+1. **TCP/IP Protocol Suite** - Behrouz A. Forouzan
+2. **Data and Computer Communication** - William Stallings <sup id="DCCWSref">[[4]](#DCCWS)</sup>
 3. **Data Communication, Computer Networks and Open Systems** - F. Halsall
-4. **Data Communications and Networking** - Behrouz A. Forouzan <sup id="ref">[[5]](#)</sup>
+4. **Data Communications and Networking** - Behrouz A. Forouzan <sup id="DCNBFref">[[5]](#DCNBF)</sup>
 5. **Internetworking with TCP/IP, Volume 1** - Douglas Comer
-6. **TCP/IP Illustrated, Volume 1: The Protocols** - W. Richard Stevens <sup id="ref">[[6]](#)</sup>
-7. **Unix Network Programming, Volume 1: The Sockets Networking API** - W. Richard Stevens <sup id="ref">[[7]](#)</sup>
+6. **TCP/IP Illustrated, Volume 1: The Protocols** - W. Richard Stevens <sup id="TCPIPIref">[[6]](#TCPIPI)</sup>
+7. **Unix Network Programming, Volume 1: The Sockets Networking API** - W. Richard Stevens <sup id="UNPVOref">[[7]](#UNPVO)</sup>
 
 ### Notes
 
 [GATech's CS 6250](https://www.omscs.gatech.edu/cs-6250-computer-networks) has a list of useful papers [on Udacity](https://www.udacity.com/wiki/ud819/resources). There are also many more amazing resources on the web.
 
-<a id="" href="#ref">^</a>1 - It is recommended over at [TYCS](https://teachyourselfcs.com/#networking). Also used as the reference for
+<a id="CNATDA" href="#CNATDAref">^</a>1 - It is recommended over at [TYCS](https://teachyourselfcs.com/#networking). Also used as the reference for
 
 - [CS60 at Dartmouth](http://www.cs.dartmouth.edu/~campbell/cs60/) where texts on Shell Scripting like **A Practical Guide to Linux Commands, Editors, and Shell Programming** by Mark G. Sobell are also recommended
 - [CS 356 at UT Austin](http://www.cs.utexas.edu/users/lam/cs356/)
-- [COS 461 at Princeton](https://www.cs.princeton.edu/courses/archive/spring17/cos461/) along with [^](#)2
+- [COS 461 at Princeton](https://www.cs.princeton.edu/courses/archive/spring17/cos461/) along with [^](#CNASDref)2
 - [CS244A at Stanford](http://web.stanford.edu/class/cs244a/)
 
-<a id="" href="#ref">^</a>2 - Used as the reference for
+<a id="CNASD" href="#CNASDref">^</a>2 - Used as the reference for
 
 - [15-441 at CMU](https://www.cs.cmu.edu/~prs/15-441-F16/)
-- [Computer Networks at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/networks/) along with <sup id=ref"">[[3]](#)</sup>
+- [Computer Networks at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/networks/) along with [^](#CNATref)3
 - [CS 640 at UWISC](http://pages.cs.wisc.edu/~pb/cs640.html)
 
-<a id="" href="#ref">^</a>4 - Used as the reference for
+<a id="DCCWS" href="#DCCWSref">^</a>4 - Used as the reference for
 
 - [CS 408 at SU](http://people.sabanciuniv.edu/levi/cs408/)
 
-<a id="" href="#ref">^</a>5 - It is regarded as the standard textbook in the field [according to Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Networking).
+<a id="DCNBF" href="#DCNBFref">^</a>5 - It is regarded as the standard textbook in the field [according to Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Networking).
 
-<a id="" href="#ref">^</a>6, [7] - Widely recommended in many courses listed above for additional reading, especially those at Princeton, Stanford and UWISC.
+<a id="TCPIPI" href="#TCPIPIref">^</a>6, <a id="UNPVO" href="#UNPVOref">^</a>7 - Widely recommended in many courses listed above for additional reading, especially those at Princeton, Stanford and UWISC.
 
 ## Software Engineering
 
 ### Standard Textbooks
 
-1. **Software Engineering A Practitioner’s Approach** - Roger S. Pressman <sup id="ref">[[1]](#)</sup>
-2. **Software Engineering** - Ian Sommerville <sup id="ref">[[2]](#)</sup>
+1. **Software Engineering: A Practitioner’s Approach** - Roger S. Pressman <sup id="SEAPAref">[[1]](#SEAPA)</sup>
+2. **Software Engineering** - Ian Sommerville <sup id="SEISref">[[2]](#SEIS)</sup>
 
 ### Alternative/Supplementary
 
-1. **An Integrated Approach to Software Engineering** - Pankaj Jalote <sup id="ref">[[3]](#)</sup>
+1. **An Integrated Approach to Software Engineering** - Pankaj Jalote <sup id="AIASEref">[[3]](#AIASE)</sup>
 2. **Software Engineering Fundamentals** - A. Behferooz and F. J. Hudson
 3. **Fundamentals of Software Engineering** - Rajib Mall
 4. **Software Engineering** - Gaurav Gupta and Deepika Gupta
@@ -743,57 +743,57 @@ Online courses about Microprocessors are rather difficult to come by.
 6. **Software Engineering 1st Edition** - Udit Agarwal
 7. **Algebraic Methodology and Software Technology** - Grigore Rosu and Jose Meseguer
 8. **Software Design Methodology: From Principles to Architectural Styles** - Hong Zhu
-9. **Object-oriented Software Engineering : using UML, patterns, and Java** - Bernd Bruegge and Allen Dutoit <sup id="ref">[[4]](#)</sup>
-10. **The New Software Engineering** - Sue A. Conger <sup id="ref">[[5]](#)</sup>
-11. **The Pragmatic Programmer** - Dave Thomas and Andy Hunt <sup id="ref">[[6]](#)</sup>
-12. **Software Engineering** - Ivan Marsic <sup id="ref">[[7]](#)</sup>
-13. **Design Patterns:  Elements of Reusable Object-Oriented Software**-  E. Gamma, R. Helm, R. Johnson, and J. Vlissides <sup id="ref">[[8]](#)</sup>
-14. **Object-Oriented Software Engineering: Practical Software Development using UML and Java** - Timothy C. Lethbridge and Robert Laganière <sup id="ref">[[9]](#)</sup>
-15. **Fundamentals of Software Engineering** - Carlo Ghezzi <sup id="ref">[[10]](#)</sup>
+9. **Object-oriented Software Engineering : using UML, patterns, and Java** - Bernd Bruegge and Allen Dutoit <sup id="OOSEref">[[4]](#OOSE)</sup>
+10. **The New Software Engineering** - Sue A. Conger <sup id="TNSESCref">[[5]](#TNSESC)</sup>
+11. **The Pragmatic Programmer** - Dave Thomas and Andy Hunt <sup id="TPPTHref">[[6]](#TPPTH)</sup>
+12. **Software Engineering** - Ivan Marsic <sup id="SEIMref">[[7]](#SEIM)</sup>
+13. **Design Patterns:  Elements of Reusable Object-Oriented Software**-  E. Gamma, R. Helm, R. Johnson, and J. Vlissides <sup id="DPEROOSref">[[8]](#DPEROOS)</sup>
+14. **Object-Oriented Software Engineering: Practical Software Development using UML and Java** - Timothy C. Lethbridge and Robert Laganière <sup id="OOSELLref">[[9]](#OOSELL)</sup>
+15. **Fundamentals of Software Engineering** - Carlo Ghezzi <sup id="FOSECGref">[[10]](#FOSECG)</sup>
 
 ### Notes
 
 - Wikipedia has a [list of notable publications](https://en.wikipedia.org/wiki/Outline_of_software_engineering#Notable_publications) in Software Engineering.
-- [CS32 at Brown](http://cs.brown.edu/courses/cs0320/) recommends **Effective Java** by Joshua Bloch for some reason. :shrug:
+- [CS32 at Brown](http://cs.brown.edu/courses/cs0320/) recommends **Effective Java** by Joshua Bloch for some reason.
 - [EE 360F at UT Austin](http://users.ece.utexas.edu/~perry/education/SE-Intro/) has a list of papers and sections from multiple books as necessary readings for the course.
 
-<a id="" href="#ref">^</a>1 - Used as the reference for
+<a id="SEAPA" href="#SEAPAref">^</a>1 - Used as the reference for
 
 - [15-413 at CMU](https://www.cs.cmu.edu/~aldrich/courses/413/)
 - [CS 501 at Cornell](http://www.cs.cornell.edu/courses/cs501/2000FA/index.html) along with other classic books like **The Mythical Man Month** by Frederick Brooks
 
-<a id="" href="#ref">^</a>2 - Used as the reference for
+<a id="SEIS" href="#SEISref">^</a>2 - Used as the reference for
 
 - [Introduction to Software Engineering at PSU](http://www.csci.psu.edu/seminars/fallnotes/SWEintro.pdf) (Note: Syllabus page only)
 
-<a id="" href="#ref">^</a>3 - Used as the reference for
+<a id="AIASE" href="#AIASEref">^</a>3 - Used as the reference for
 
 - [CS 320 at UMass](https://people.cs.umass.edu/~brun/class/2013Spring/CS320/)
 
-<a id="" href="#ref">^</a>4 - Used as the reference for
+<a id="OOSE" href="#OOSEref">^</a>4 - Used as the reference for
 
 - [CS223 at Warwick](http://web.iitd.ac.in/~sumeet/sm.pdf) (Note: Syllabus and lecture pdf only)
 
-<a id="" href="#ref">^</a>5 - Used as the reference for
+<a id="TNSESC" href="#TNSESCref">^</a>5 - Used as the reference for
 
 - [CS302 at Saylor Academy](https://learn.saylor.org/mod/page/view.php?id=686)
 
-<a id="" href="#ref">^</a>6 - Used as the reference for
+<a id="TPPTH" href="#TPPTHref">^</a>6 - Used as the reference for
 
 - [CSE 403 at UoW](https://courses.cs.washington.edu/courses/cse403/)
 
-<a id="" href="#ref">^</a>7 - A [free book](http://www.ece.rutgers.edu/~marsic/books/SE/book-SE_marsic.pdf) written by the instructor of [ECE 14:332:452 at Rutgers](http://www.ece.rutgers.edu/~marsic/Teaching/SE/).
+<a id="SEIM" href="#SEIMref">^</a>7 - A [free book](http://www.ece.rutgers.edu/~marsic/books/SE/book-SE_marsic.pdf) written by the instructor of [ECE 14:332:452 at Rutgers](http://www.ece.rutgers.edu/~marsic/Teaching/SE/).
 
-<a id="" href="#ref">^</a>8 - Used as the reference for
+<a id="DPEROOS" href="#DPEROOSref">^</a>8 - Used as the reference for
 
 - [CSE870 at MSU](http://www.cse.msu.edu/~cse870/index.php) along with many other articles from literature
 - [Foundations of Software Engineering at BGU](https://www.cs.bgu.ac.il/~fsen141/Main) along with many other textbooks
 
-<a id="" href="#ref">^</a>9 - Used as the reference for
+<a id="OOSELL" href="#OOSELLref">^</a>9 - Used as the reference for
 
 - SEG 2100 at UoO which cannot be accessed. Instead the author provides supporting materials and other links [here](http://www.site.uottawa.ca/school/research/lloseng/).
 
-<a id="" href="#ref">^</a>10 - Used as the reference for
+<a id="FOSECG" href="#FOSECGref">^</a>10 - Used as the reference for
 
 - [CSE2102 at UConn](http://www.engr.uconn.edu/~steve/Cse2102/cse2102.html)
 
