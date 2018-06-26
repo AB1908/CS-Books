@@ -107,7 +107,7 @@
 ### Notes
 
 - This is a rather modern theoretical topic which is the backbone of many systems we commonly use. Database books are also not available in as much variety as the other topics.
-- [*TYCS*](https://teachyourselfcs.com/#databases) recommends going through [video lectures from Berkeley](https://archive.org/details/UCBerkeley_Course_Computer_Science_186) before textbooks.
+- [TYCS](https://teachyourselfcs.com/#databases) recommends going through [video lectures from Berkeley](https://archive.org/details/UCBerkeley_Course_Computer_Science_186) before textbooks.
 
 <a id="DMS" href="#DMSref">^</a>1 - Used as the reference for
 
@@ -128,7 +128,7 @@
 - [15-445/645 at CMU](https://15445.courses.cs.cmu.edu/fall2017/)
 - [CS 348 at UoW](https://cs.uwaterloo.ca/~david/cs348/) along with [^](#DMS)1
 
-<a id="TDRB" href="#TDRBref">^</a>3 - It is the recommended book on [*TYCS*](https://teachyourselfcs.com/#databases). Used as the reference for
+<a id="TDRB" href="#TDRBref">^</a>3 - It is the recommended book on [TYCS](https://teachyourselfcs.com/#databases). Used as the reference for
 
 - [ECS 165A at UC Davis](http://web.cs.ucdavis.edu/~green/courses/ecs165a-w11/)
 
@@ -323,7 +323,7 @@ There are plenty more books than listed and more courses than I'd care to link.
 
 - [CS 157 at Brown](https://cs.brown.edu/courses/cs157/)
 
-<a id="ADM" href="#ADMref">^</a>4 - Recommended by [*TYCS*](https://teachyourselfcs.com/#algorithms). Used as the reference for
+<a id="ADM" href="#ADMref">^</a>4 - Recommended by [TYCS](https://teachyourselfcs.com/#algorithms). Used as the reference for
 
 - [CSE 373 at SUNY, SB](http://www3.cs.stonybrook.edu/~skiena/373/) which is taken by **Steven Skiena**
 
@@ -405,7 +405,7 @@ There are plenty more books than listed and more courses than I'd care to link.
 - [TOM-2.1-CS at UT](https://wwwhome.ewi.utwente.nl/~pieter/CS-OS/)
 - [CS 372 at UT Austin](http://www.cs.utexas.edu/users/witchel/372/) although certain readings are from [^](#TDB)1 as well.
 
-<a id="OSTEP" href="#OSTEPref">^</a>3 - [**OSTEP**](http://pages.cs.wisc.edu/~remzi/OSTEP/) was made as a companion for [CS 537 at UWISC](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), which is freely available. The professors also recommend reading classic texts such as **Linux Kernel Development** and **The C Programming Language** (K&R). It is also used as a reference for [WPI's CS 3013](https://web.cs.wpi.edu/~cshue/cs3013/). Apart from being my personal recommendation for an introduction to Operating Systems, it is also recommended over at [_TYCS_](https://teachyourselfcs.com/#operating-systems).
+<a id="OSTEP" href="#OSTEPref">^</a>3 - [**OSTEP**](http://pages.cs.wisc.edu/~remzi/OSTEP/) was made as a companion for [CS 537 at UWISC](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), which is freely available. The professors also recommend reading classic texts such as **Linux Kernel Development** and **The C Programming Language** (K&R). It is also used as a reference for [WPI's CS 3013](https://web.cs.wpi.edu/~cshue/cs3013/). Apart from being my personal recommendation for an introduction to Operating Systems, it is also recommended over at [TYCS](https://teachyourselfcs.com/#operating-systems).
 
 <a id="OSPP" href="#OSPPref">^</a>4 - Used as the reference for
 
@@ -808,16 +808,16 @@ Online courses about Microprocessors are rather difficult to come by.
    [What are the canon books in Computer Science? - /r/COMPSCI](https://www.reddit.com/r/compsci/comments/40mq3q/what_are_the_canon_books_in_computer_science/)  
    [What Books Should Everyone Read? - Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/questions/3253/what-books-should-everyone-read)  
    [What papers should everyone read? - Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read?noredirect=1&lq=1)  
-   [Data Structures - Further reading](https://en.wikipedia.org/wiki/Data_structure#Further_reading)  
-   [Database - Further reading](https://en.wikipedia.org/wiki/Database#Further_reading)
-   [Programming Language - Further reading](https://en.wikipedia.org/wiki/Programming_language#Further_reading)  
-   [Microarchitecture - Further reading](https://en.wikipedia.org/wiki/Microarchitecture#Further_reading)  
-   [Algorithms - Further reading](https://en.wikipedia.org/wiki/Algorithm#Further_reading)  
-   [Theory of Computation - Further reading](https://en.wikipedia.org/wiki/Theory_of_computation#Further_reading)  
-   [Automata Theory - Further reading](https://en.wikipedia.org/wiki/Automata_theory#Further_reading)  
-   [Operating System - Further reading](https://en.wikipedia.org/wiki/Operating_system#Futher_reading)  
-   [Computer Network - Further Reading](https://en.wikipedia.org/wiki/Computer_network#Further_reading)
-   [Principles of Compiler Design -Further Reading]( https://en.wikipedia.org/wiki/Principles_of_Compiler_Design#Further_reading)
+   [Data Structures - Further Reading](https://en.wikipedia.org/wiki/Data_structure#Further_reading)  
+   [Database - Further Reading](https://en.wikipedia.org/wiki/Database#Further_reading)  
+   [Programming Language - Further Reading](https://en.wikipedia.org/wiki/Programming_language#Further_reading)  
+   [Microarchitecture - Further Reading](https://en.wikipedia.org/wiki/Microarchitecture#Further_reading)  
+   [Algorithms - Further Reading](https://en.wikipedia.org/wiki/Algorithm#Further_reading)  
+   [Theory of Computation - Further Reading](https://en.wikipedia.org/wiki/Theory_of_computation#Further_reading)  
+   [Automata Theory - Further Reading](https://en.wikipedia.org/wiki/Automata_theory#Further_reading)  
+   [Operating System - Further Reading](https://en.wikipedia.org/wiki/Operating_system#Futher_reading)  
+   [Computer Network - Further Reading](https://en.wikipedia.org/wiki/Computer_network#Further_reading)  
+   [Principles of Compiler Design - Further Reading]( https://en.wikipedia.org/wiki/Principles_of_Compiler_Design#Further_reading)  
    [List of Important Publications in Computer Science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)  
    [Discrete Mathematics - Further Reading](https://en.wikipedia.org/wiki/Discrete_mathematics#Further_reading)  
    [Discrete Mathematics - Wikibooks](https://en.wikibooks.org/wiki/Discrete_Mathematics)  
@@ -1016,8 +1016,8 @@ Online courses about Microprocessors are rather difficult to come by.
 
 - Compiler Design
 
-   [CS143 at Stanford University](https://web.stanford.edu/class/cs143/)
-   [CS4120 at Cornell University](http://www.cs.cornell.edu/courses/cs4120/2013fa/)
+   [CS143 at Stanford University](https://web.stanford.edu/class/cs143/)  
+   [CS4120 at Cornell University](http://www.cs.cornell.edu/courses/cs4120/2013fa/)  
    [CS5470 at university of Utah](https://courses.engr.illinois.edu/cs421/fa2014/)
 
 - Computer Networks
@@ -1089,7 +1089,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [**Information Theory, Inference, and Learning Algorithms**](http://www.inference.org.uk/mackay/itila/book.html) by David J. C. Mackay  
    [2011 Workshop on Complexity Information Theory in Theoretical Computer Science and Discrete Mathematics](http://sites.math.rutgers.edu/~saks/IT/)  
    [A Mathematical Theory of Communication - Claude Shannon (1948)](math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)  
-   [Awesome Compilers - GitHub](https://github.com/aalhour/awesome-compilers)
+   [Awesome Compilers - GitHub](https://github.com/aalhour/awesome-compilers)  
    [Introduction to Software Engineering - Wikibooks](https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering)  
    [Software Engineering book by Ivan Marsic](http://www.ece.rutgers.edu/~marsic/books/SE/book-SE_marsic.pdf)  
    [Supplementary Material for **Object-Oriented Software Engineering**](http://www.site.uottawa.ca/school/research/lloseng/) by Lethbridge and Laganière  
