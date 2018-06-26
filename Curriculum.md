@@ -714,7 +714,7 @@ Online courses about Microprocessors are rather difficult to come by.
 - [CS421 at UoI](https://courses.engr.illinois.edu/cs421/fa2014/)
 - [CS5470 at UoU](http://www.cs.utah.edu/~parker/5470_Sp18.html) but in Java (Note: Syllabus page only)
 - [15-411 at CMU](https://www.cs.cmu.edu/~fp/courses/15411-f09/index.html)
-- [CS 432F & CS 728](http://www.cse.iitd.ernet.in/~sanjiva/compilers.html) with [^](#TCDBref)1 additionally recommended
+- [CS 432F & CS 728 at IITD](http://www.cse.iitd.ernet.in/~sanjiva/compilers.html) with [^](#TCDBref)1 additionally recommended
 
 <a id="CCPP" href="#CCPPref">^</a>7 - Used as a reference for
 
@@ -1064,9 +1064,27 @@ Online courses about Microprocessors are rather difficult to come by.
 
 - Compiler Design
 
-   [CS143 at Stanford University](https://web.stanford.edu/class/cs143/)  
-   [CS4120 at Cornell University](http://www.cs.cornell.edu/courses/cs4120/2013fa/)  
-   [CS5470 at university of Utah](https://courses.engr.illinois.edu/cs421/fa2014/)
+   [CS143 - Stanford University](https://web.stanford.edu/class/cs143/)  
+   [CS4120 - Cornell University](http://www.cs.cornell.edu/courses/cs4120/2013fa/)  
+   [ECS 142 - University of California, Davis](http://web.cs.ucdavis.edu/~pandey/Teaching/ECS142/ecs142_spring2011.html)  
+   [CPSC 605-600 - Parasol Lab, Texas A&M University](https://parasol.tamu.edu/~rwerger/Courses/605/)  
+   [CS 5461 - University of Minnesota Duluth](https://www.d.umn.edu/~rmaclin/cs5641/index.html)  
+   [Compiler Design - National Chiao Tung University](https://people.cs.nctu.edu.tw/~ypyou/courses/Compiler-grad-s18/)   
+   [COP5621 - FSU](https://www.cs.fsu.edu/~engelen/courses/COP5621/)  
+   [CS 2210 - University of Pittsburgh](https://people.cs.pitt.edu/~wahn/teaching/cs2210/)  
+   [CS 3300 - Indian Institute of Technology, Madras](http://www.cse.iitm.ac.in/~krishna/cs3300/)  
+   [CS335 - Indian Institute of Technology, Kanpur](https://www.cse.iitk.ac.in/users/karkare/cs335/)  
+   [CS 352 - Indian Institute of Technology, Roorkee](https://www.iitr.ac.in/departments/CSE/uploads/File/CS%20btech%20courses/Cs352-compiler.pdf) (Note: Syllabus page only)  
+   [CS421 - University of Illinois](https://courses.engr.illinois.edu/cs421/fa2014/)  
+   [CS5470 - University of Utah](http://www.cs.utah.edu/~parker/5470_Sp18.html)  
+   [15-411 - Carnegie Mellon University ](https://www.cs.cmu.edu/~fp/courses/15411-f09/index.html)  
+   [CS 432F & CS 728 - Indian Institute of Technology, Delhi](http://www.cse.iitd.ernet.in/~sanjiva/compilers.html)  
+   [COSC 4353 - Texas A&M University-Corpus Christi](http://www.sci.tamucc.edu/~sking/Courses/Compilers/)  
+   [CS 780 - Wright State University](http://cecs.wright.edu/~tkprasad/courses/cs780/cs780.html)  
+   [CS 321 - Portland State University](http://web.cecs.pdx.edu/~sheard/course/Cs321/)  
+   [CS 8803 - Georgia Institute of Technology](http://www.omscs.gatech.edu/cs-8803-o08-compilers-theory-and-practice)  
+   [CS712/CS812 - University of New Hampshire](http://www.cs.unh.edu/~cs712/)  
+   [CPSC 466 - Slippery Rock University of Pennsylvania](http://cs.sru.edu/~whit/handouts.466.s12.html)  
 
 - Computer Networks
 
