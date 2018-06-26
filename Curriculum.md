@@ -662,52 +662,52 @@ Online courses about Microprocessors are rather difficult to come by.
 ### Standard Textbooks
 
 1. **Compilers: Principles, Techniques, and Tools** - A. V. Aho, Ravi Sethi & Jeffrey D. Ullman (_The Dragon Book_) <sup id="TCDBref">[[1]](#TCDB)</sup>
-2. **Compiler Construction: Principles and Practice** - Kenneth C. Louden <sup id="CCPPref">[[7]](#CCPP)</sup>
-3. **Modern Compiler Implementation in ML** - Andrew W. Appel (_The Tiger Book_)<sup id="TTBref">[[2]](#TTB)</sup>
+2. **Modern Compiler Implementation in ML** - Andrew W. Appel (_The Tiger Book_)<sup id="TTBref">[[2]](#TTB)</sup>
+3. **Engineering a Compiler** - Keith D. Cooper and Linda Torczon (_CT_) <sup id="EACref">[[3]](#EAC)</sup>
 
 ### Alternative/Supplementary
 
 1. **Compiler Construction: Theory and Practice** - W. A. Barrett, John D. Couch, C. Couch
-2. **Engineering a Compiler** - Keith D. Cooper and Linda Torczon (_CT_) <sup id="EACref">[[3]](#EAC)</sup>
+2. **Compiler Construction: Principles and Practice** - Kenneth C. Louden <sup id="CCPPref">[[4]](#CCPP)</sup>
 3. **Modern Compiler Design** - Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs, Koen Langendoen
-4. **Compiler Design: Theory, Tools, and Examples** - Seth Bergmann <sup id="CDTTEref">[[11]](#CDTTE)</sup>
-5. **Compiler Design in C** - Allen I. Holub <sup id="CDICref">[[9]](#CDIC)</sup>
-6. **Optimizing Compilers for Modern Architectures: A Dependence-based Approach** - Randy Allen and Ken Kennedy <sup id="OCFMAref">[[5]](#OCFMA)</sup>
-7. **Understanding and Writing Compilers: A Do It Yourself Guide** - Richard Bornat <sup id="UAWCref">[[10]](#UACW)</sup>
-8. **A Compiler Generator** - William Marshall McKeeman, James J. Horning, David B. Wortman
-9. **Advanced Compiler Design and Implementation** - Steven Muchnick <sup id="CACref">[[6]](#CAC)</sup>
-10. **The Compiler Design Handbook: Optimizations and Machine Code Generation** - Y. N. Srikant and Priti Shankar
-11. **Compilers and Compiler Generators: An Introduction with C++** - Patrick D. Terry
-12. **Compiler Construction** - Niklaus Wirth
-13. **A Rechargeable C Compiler: Design and Implementation** - Christopher W. Fraser, David Hanson, David Hansen
-14. **Compiling with continuations**- Andrew W. Appel
-15. **Building an Optimizing compiler** - Robert Morgan
-16. **Crafting a Compiler** - Charles N. Fischer, Richard Joseph LeBlanc, and Ronald Kaplan Cytron <sup id="CACref">[[4]](#CAC)</sup>
+4. **Compiler Design: Theory, Tools, and Examples** - Seth Bergmann <sup id="CDTTEref">[[5]](#CDTTE)</sup>
+5. **Compiler Design in C** - Allen I. Holub <sup id="CDICref">[[6]](#CDIC)</sup>
+6. **Optimizing Compilers for Modern Architectures: A Dependence-based Approach** - Randy Allen and Ken Kennedy <sup id="OCFMAref">[[7]](#OCFMA)</sup>
+7. **Understanding and Writing Compilers: A Do It Yourself Guide** - Richard Bornat <sup id="UAWCref">[[8]](#UACW)</sup>
+8. **Advanced Compiler Design and Implementation** - Steven Muchnick <sup id="ACDIref">[[9]](#ACDI)</sup>
+9. **Crafting a Compiler** - Charles N. Fischer, Richard Joseph LeBlanc, and Ronald Kaplan Cytron <sup id="CACref">[[10]](#CAC)</sup>
+10. **A Compiler Generator** - William Marshall McKeeman, James J. Horning, David B. Wortman
+11. **The Compiler Design Handbook: Optimizations and Machine Code Generation** - Y. N. Srikant and Priti Shankar
+12. **Compilers and Compiler Generators: An Introduction with C++** - Patrick D. Terry
+13. **Compiler Construction** - Niklaus Wirth
+14. **A Rechargeable C Compiler: Design and Implementation** - Christopher W. Fraser, David Hanson, David Hansen
+15. **Compiling with continuations**- Andrew W. Appel
+16. **Building an Optimizing compiler** - Robert Morgan
 17. **Elements of Compiler Design** - Alexander Meduna
 18. **Object-oriented Compiler Construction** - Jim Holmes
-19. **Theory and Practice of Compiler Writing** - J.P. Tremblay and P.G. Sorenson <sup id="TPCWref">[[8]](#TPCW)</sup>
+19. **Theory and Practice of Compiler Writing** - J.P. Tremblay and P.G. Sorenson <sup id="TPCWref">[[11]](#TPCW)</sup>
 20. **Parsing Techniques: A Practical Guide** - J.P. Tremblay and P.G. Sorenson
 
 ### Notes
 
 - Compiler Design also has much historical background which can be better read through by following [Wikipedia's Compiler Publication List](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Compilers) and also [Wikipedia's History of compiler construction](https://en.wikipedia.org/wiki/History_of_compiler_construction), which has further reading described at the end.
 - GitHub also has a list of [Awesome Compiler resources](https://github.com/aalhour/awesome-compilers) and even more [additional resources](https://github.com/berkerpeksag/notes/tree/master/learning/compilers).
-- **Allen Holub** made his [^](#CDICref)book <a id="CDIC" href="https://holub.com/compiler/">available online</a>, free of cost, since it is now out of print. **Seth Bergmann** also generously provides [^](#CDTTEref)<a id= "CDTTE" href=" http://elvis.rowan.edu/~bergmann/books/cd/c_cpp/Text/C_CppEd.pdf">his online</a> as does [^](#UACWref)<a id="UACW" href="http://www.eis.mdx.ac.uk/staffpages/r_bornat/books/compiling.pdf">**Richard Bornat**</a>.
+- **Allen Holub** made his [^](#CDICref)book <a id="CDIC" href="https://holub.com/compiler/">available online</a>, free of cost, since it is now out of print. **Seth Bergmann** also generously provides [^](#CDTTEref)<a id= "CDTTE" href=" http://elvis.rowan.edu/~bergmann/books/cd/c_cpp/Text/C_CppEd.pdf">his online</a> as does [^](#UAWCref)<a id="UAWC" href="http://www.eis.mdx.ac.uk/staffpages/r_bornat/books/compiling.pdf">**Richard Bornat**</a>.
 - There is also a [list of compiler books on the GCC wiki](https://gcc.gnu.org/wiki/ListOfCompilerBooks). Mozilla also hosts a [set of resources](https://wiki.mozilla.org/JavaScript:Compiler_References) on JS Compilers. Numerous [additional resources](http://developers-club.com/posts/170735/) are also [scattered across the web](https://www.rip-lang.org/links/#compilers) on various [blogs](http://belkadan.com/blog/2015/11/Recommendations/).
 
 <a id="TCDB" href="#TCDBref">^</a>1 - This is regarded as the definitive reference book on compilers [according to Wikipedia](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools) and has multiple editions, of which _The Purple Dragon Book_ or the 2<sup>nd</sup> edition is more referred to. The corresponding edition for a course should be verified from the course page. Used as the reference for
 
 - [CS143 at Stanford](https://web.stanford.edu/class/cs143/)
 - [CS4120 at Cornell](http://www.cs.cornell.edu/courses/cs4120/2013fa/)
-- [ECS 142 at UC Davis](http://web.cs.ucdavis.edu/~pandey/Teaching/ECS142/ecs142_spring2011.html) has many more books listed, but also recommends [^](#TTBref)The Tiger Book in Java, [^](#EACref)3, [^](#CACref)4
-- [CPSC 605-600 at TAMU](https://parasol.tamu.edu/~rwerger/Courses/605/) along with [^](#OCFMAref)5
+- [ECS 142 at UC Davis](http://web.cs.ucdavis.edu/~pandey/Teaching/ECS142/ecs142_spring2011.html) has many more books listed, but also recommends [^](#TTBref)The Tiger Book in Java, [^](#EACref)3, [^](#ACDIref)9
+- [CPSC 605-600 at TAMU](https://parasol.tamu.edu/~rwerger/Courses/605/) along with [^](#OCFMAref)7
 - [CS 5461 at UoM Duluth](https://www.d.umn.edu/~rmaclin/cs5641/index.html)
 - [Compiler Design at NCTU](https://people.cs.nctu.edu.tw/~ypyou/courses/Compiler-grad-s18/) with more useful resources listed
 - [COP5621 at FSU](https://www.cs.fsu.edu/~engelen/courses/COP5621/) along with **The Java&trade; Virtual Machine Specification**, SE 8 edition
 - [CS 2210 at UoP](https://people.cs.pitt.edu/~wahn/teaching/cs2210/)
 - [CS 3300 at IITM](http://www.cse.iitm.ac.in/~krishna/cs3300/) along with [^](#TTBref)The Tiger Book in Java
 - [CS335 at IITK](https://www.cse.iitk.ac.in/users/karkare/cs335/)
-- [CS 352 at IITR](https://www.iitr.ac.in/departments/CSE/uploads/File/CS%20btech%20courses/Cs352-compiler.pdf) along with [^](#EACref)3, [^](#CCPPref)7 and [^](#TPCWref)8 (Note: Syllabus page only)
+- [CS 352 at IITR](https://www.iitr.ac.in/departments/CSE/uploads/File/CS%20btech%20courses/Cs352-compiler.pdf) along with [^](#EACref)3, [^](#CCPPref)4 and [^](#TPCWref)11 (Note: Syllabus page only)
 
 <a id="TTB" href="#TTBref">^</a>2 - The author has an [accompanying website](http://www.cs.princeton.edu/~appel/modern/) for his books (available in Java and C as well). Used as reference for
 
@@ -716,18 +716,18 @@ Online courses about Microprocessors are rather difficult to come by.
 - [15-411 at CMU](https://www.cs.cmu.edu/~fp/courses/15411-f09/index.html)
 - [CS 432F & CS 728 at IITD](http://www.cse.iitd.ernet.in/~sanjiva/compilers.html) with [^](#TCDBref)1 additionally recommended
 
-<a id="CCPP" href="#CCPPref">^</a>7 - Used as a reference for
-
-- [COSC 4353 at TAMUCC](http://www.sci.tamucc.edu/~sking/Courses/Compilers/) with books such as **Unix Programming Tools :lex & yacc** additionally recommended
-- [CS 780 at WSU](http://cecs.wright.edu/~tkprasad/courses/cs780/cs780.html) with additional references listed
-
 <a id="EAC" href="#EACref">^</a>3 - Used as a reference for
 
 - [CS 321 at PDXSU](http://web.cecs.pdx.edu/~sheard/course/Cs321/)
 - [CS 8803 at GATech](http://www.omscs.gatech.edu/cs-8803-o08-compilers-theory-and-practice) which appears to have an [online course](https://in.udacity.com/course/compilers-theory-and-practice--ud168)
 - [CS712/CS812 at UNH](http://www.cs.unh.edu/~cs712/)
 
-<a id="CAC" href="#CACref">^</a>4 - Used as a reference for
+<a id="CCPP" href="#CCPPref">^</a>4 - Used as a reference for
+
+- [COSC 4353 at TAMUCC](http://www.sci.tamucc.edu/~sking/Courses/Compilers/) with books such as **Unix Programming Tools :lex & yacc** additionally recommended
+- [CS 780 at WSU](http://cecs.wright.edu/~tkprasad/courses/cs780/cs780.html) with additional references listed
+
+<a id="CAC" href="#CACref">^</a>10 - Used as a reference for
 
 - [CPSC 466 at SRU](http://cs.sru.edu/~whit/handouts.466.s12.html)
 
