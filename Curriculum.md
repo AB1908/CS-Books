@@ -670,8 +670,8 @@ Online courses about Microprocessors are rather difficult to come by.
 1. **Compiler Construction: Theory and Practice** - W. A. Barrett, John D. Couch, C. Couch
 2. **Engineering a Compiler** - Keith D. Cooper and Linda Torczon (_CT_) <sup id="EACref">[[3]](#EAC)</sup>
 3. **Modern Compiler Design** - Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs, Koen Langendoen
-4. **Compiler Design: Theory, Tools, and Examples** - Seth Bergman
-5. **Compiler Design in C** - Allen I. Holub
+4. **Compiler Design: Theory, Tools, and Examples** - Seth Bergmann
+5. **Compiler Design in C** - Allen I. Holub <sup id="CDICref">[[9]](#CDIC)</sup>
 6. **Optimizing Compilers for Modern Architectures: A Dependence-based Approach** - Randy Allen and Ken Kennedy <sup id="OCFMAref">[[5]](#OCFMA)</sup>
 7. **Understanding and Writing Compilers: A Do It Yourself Guide** - Richard Bornat
 8. **A Compiler Generator** - William Marshall McKeeman, James J. Horning, David B. Wortman
@@ -689,6 +689,11 @@ Online courses about Microprocessors are rather difficult to come by.
 20. **Parsing Techniques: A Practical Guide** - J.P. Tremblay and P.G. Sorenson
 
 ### Notes
+
+- Compiler Design also has much historical background which can be better read through by following [Wikipedia's Compiler Publication List](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Compilers) and also [Wikipedia's History of compiler construction](https://en.wikipedia.org/wiki/History_of_compiler_construction), which has further reading described at the end.
+- GitHub also has a list of [Awesome Compiler resources](https://github.com/aalhour/awesome-compilers) and even more [additional resources](https://github.com/berkerpeksag/notes/tree/master/learning/compilers).
+- **Allen Holub** made his [^](#CDICref)book <a id="CDIC" href="https://holub.com/compiler/">available online</a>, free of cost, since it is now out of print. **Seth Bergmann** also generously provides [his online](http://elvis.rowan.edu/~bergmann/books/cd/c_cpp/Text/C_CppEd.pdf) too. Many other free books are available as well.
+- There is also a [list of compiler books on the GCC wiki](https://gcc.gnu.org/wiki/ListOfCompilerBooks). Mozilla also hosts a [set of resources](https://wiki.mozilla.org/JavaScript:Compiler_References) on JS Compilers. Numerous [additional resources](http://developers-club.com/posts/170735/) are also [scattered across the web](https://www.rip-lang.org/links/#compilers) on various [blogs](http://belkadan.com/blog/2015/11/Recommendations/).
 
 <a id="TCDB" href="#TCDBref">^</a>1 - This is regarded as the definitive reference book on compilers [according to Wikipedia](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools) and has multiple editions, of which _The Purple Dragon Book_ or the 2<sup>nd</sup> edition is more referred to. The corresponding edition for a course should be verified from the course page. Used as the reference for
 
