@@ -177,7 +177,7 @@
 - [Principles of Programming Langugages at DEIB-P](https://home.deib.polimi.it/pradella/PL.html) has a list of readings from every language and has a list of papers to go through. There is no recommended textbook from the list above.
 - [CS 152 at Harvard](https://www.seas.harvard.edu/courses/cs152/2018sp/index.html) uses notes for their readings but also recommends [^](#CPLref)2, [^](#TAPLref)5, [^](#FSPLref)6 and [^](#PLAIref)3 for additional reference.
 - [CS 6110 at Cornell](https://www.cs.cornell.edu/courses/cs6110/2018sp/index.html) has no required textbook but recommends [^](#FSPLref)6 and [^](#TAPLref)5 for additional reading.
-- A [free version](https://www.cs.cmu.edu/~jcr/tpl.html) of [^](#TOPLref)13 is available for reading. I was unable to find any related course material.
+- A [free version](https://www.cs.cmu.edu/~jcr/tpl.html) of [^](#TOPLref)13 is available for reading. Any related course material was not found.
 - [601.426/626 at JHU](http://pl.cs.jhu.edu/pl/index.shtml) use their own book created by a course instructor. The book itself is available under Creative Commons License [here](http://pl.cs.jhu.edu/pl/book/book.pdf).
 - An extensive list of resources can also be found at [Programming Language Theory](http://steshaw.org/plt/).
 
@@ -237,7 +237,7 @@
 3. **Computer Architecture and Organisation** - John. P. Hayes <sup id="COAref">[[6]](#COA)</sup>
 4. **Computer Systems Design and Architecture** - Vincent P Heuring and Harry F Jordan
 5. **Fundamentals of Computer Organization and Architecture** - Mostafa Abd-El-Barr and Hesham El-Rewini
-6. **Computer Systems: a Programmer’s Perspective** - Randal E. Bryant and David R. O’Hallaron <sup id="CSPPref">[[7]](#CSPP)</sup>
+6. **Computer Systems: A Programmer’s Perspective** - Randal E. Bryant and David R. O’Hallaron <sup id="CSPPref">[[7]](#CSPP)</sup>
 7. **Introduction to Computing Systems: From Bits and Gates to C and Beyond** - Patt and Patel <sup id="ITCPref">[[8]](#ITCP)</sup>
 8. **Structured Computer Organization** - Andrew S. Tanenbaum
 9. **The Principles of Computer Hardware** - A. Clements
@@ -248,7 +248,7 @@
 
 There are plenty more books than listed and more courses than I'd care to link.
 
-<a id="CAHP" href="#CAHPref">^</a>1 - Widely regarded as an authoritative reference for Computer Organisation and Architecture. It is written by Turing Award winning Computer Scientists David Patterson and John Hennessy, but also assumes the reader is already well versed with concepts of Computer Architecture. For the beginner, [^](#CODHref)2 is widely recommended as _the_ book to start with. Used as a reference for
+<a id="CAHP" href="#CAHPref">^</a>1 - Widely regarded as an authoritative reference for Computer Organisation and Architecture. It is written by Turing Award winning Computer Scientists David Patterson and John Hennessy, but also assumes the reader is already well versed with concepts of Computer Architecture. For the beginner, [^](#CODHPref)2 is widely recommended as _the_ book to start with. Used as a reference for
 
 - [CS146 at Harvard](http://www.eecs.harvard.edu/~dbrooks/cs146-spring2004/)
 
@@ -279,15 +279,15 @@ There are plenty more books than listed and more courses than I'd care to link.
 
 ### Standard Textbooks
 
-1. **Introduction to Algorithms** - Thomas Cormen, C. Leiserson, and R. Rivest and C. Stein (*CLRS*) <sup id="ref">[[1]](#)</sup>
-2. **Algorithm Design** - Jon Kleinberg and Éva Tardos (*KT*) <sup id="ref">[[2]](#)</sup>
-3. **Algorithms** - Christos Papadimitriou, Sanjoy Dasgupta, and Umesh Vazirani (*DPV*) <sup id="ref">[[3]](#)</sup>
+1. **Introduction to Algorithms** - Thomas Cormen, C. Leiserson, and R. Rivest and C. Stein (*CLRS*) <sup id="CLRSref">[[1]](#CLRS)</sup>
+2. **Algorithm Design** - Jon Kleinberg and Éva Tardos (*KT*) <sup id="KTref">[[2]](#KT)</sup>
+3. **Algorithms** - Christos Papadimitriou, Sanjoy Dasgupta, and Umesh Vazirani (*DPV*) <sup id="DPVref">[[3]](#DPV)</sup>
 
 ### Alternative/Supplementary
 
-1. **The Algorithm Design Manual** - Steven Skiena <sup id="ref">[[4]](#)</sup>
-2. **Algorithms** - Robert Sedgewick and Kevin Wayne <sup id="ref">[[5]](#)</sup>
-3. **Introduction to Algorithms: A Creative Approach** - Udi Manber <sup id="ref">[[6]](#)</sup>
+1. **The Algorithm Design Manual** - Steven Skiena <sup id="ADMref">[[4]](#ADM)</sup>
+2. **Algorithms** - Robert Sedgewick and Kevin Wayne <sup id="ASWref">[[5]](ASW#)</sup>
+3. **Introduction to Algorithms: A Creative Approach** - Udi Manber <sup id="IAACAref">[[6]](#IAACA)</sup>
 4. **Fundamentals of Computer Algorithms** - Ellis Horowitz, Sartaj Sahni and S. Rajasekaran
 5. **An Introduction to the Analysis of Algorithms** - Robert Sedgewick and Philippe Flajolet
 6. **Design and Analysis of Algorithm** - P. H. Dave and H. B. Dave
@@ -299,35 +299,35 @@ There are plenty more books than listed and more courses than I'd care to link.
 
 - Algorithms are a vast topic and merit their own course altogether due to there being many subtopics such as randomised, parallel, approximation and so on, each having entire textbooks on them. This particular topic is meant to serve as an introduction to each subtopic by focusing on the underlying principles used in designing the algorithm. There are many MOOCs to cater to students, again linked [here]().
 - There are, again, numerous resources on the web related to the topic and if a major course related to it hasn't made it to the list, contributions are extremely welcome.
-- [CSC2420 at UoT](http://www.cs.toronto.edu/~bor/2420f12/) does not use a single source. Instead it uses a combination of [1], [3] and [2].
+- [CSC2420 at UoT](http://www.cs.toronto.edu/~bor/2420f12/) does not use a single source. Instead it uses a combination of [^](#CLRSref)1, [^](#DPVref)3 and [^](#KTref)2.
 - [5] is used as the basis for [Sedgewick and Wayne's online course on Coursera](https://www.coursera.org/teach/algorithms-part1) with a [second part](https://www.coursera.org/teach/algorithms-part2).
-- [2] has a revised version of slides to accompany the textbook available [here](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/).
+- [^](#KTref)2 has a revised version of slides to accompany the textbook available [here](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/).
 - [Algorithms, Etc. by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/) is a set of notes that covers the material necessary for his course at University of Illinois.
 - *TAOCP* also serves as a useful reference for many algorithms typically studied as part of an undergraduate level course. It is quite mathematical so typically many students find it a hard read.
 
-<a id="" href="#ref">^</a>1 - Typically used as an encyclopedic reference for most topic, rather than an introduction to algorithms. Used as the reference for
+<a id="CLRS" href="#CLRSref">^</a>1 - Typically used as an encyclopedic reference for most topic, rather than an introduction to algorithms. Used as the reference for
 
 - [CS 600 A at SIT](https://www.cs.stevens.edu/~swetzel/CS600/spring11/)
-- [15-451/651 at CMU](https://www.cs.cmu.edu/~15451/) which also recommends [3] but either can be used, while an [older version](http://www.cs.cmu.edu/~avrim/451f09/index.html) has it's own set of notes
+- [15-451/651 at CMU](https://www.cs.cmu.edu/~15451/) which also recommends [^](#DPVref)3 but either can be used, while an [older version](http://www.cs.cmu.edu/~avrim/451f09/index.html) has it's own set of notes
 - [CS 466/666 at UoW](https://cs.uwaterloo.ca/~eblais/courses/F17/CS466/) with additional material described [here](https://cs.uwaterloo.ca/~eblais/courses/F17/CS466/outline.pdf)
 
-<a id="" href="#ref">^</a>2 - Used as the reference for
+<a id="KT" href="#KTref">^</a>2 - Used as the reference for
 
 - [CSci 256 at WC](https://www.cs.williams.edu/~lenhart/cs256/index.html)
-- [CPSC500 at UBC](http://www.cs.ubc.ca/~condon/cpsc500/) with [3] additionally recommended along with other texts
-- [CS 7200 at WU](http://cecs.wright.edu/~tkprasad/courses/cs7200/cs7200.html) with [1] additionally used for reference
+- [CPSC500 at UBC](http://www.cs.ubc.ca/~condon/cpsc500/) with [^](#DPVref)3 additionally recommended along with other texts
+- [CS 7200 at WU](http://cecs.wright.edu/~tkprasad/courses/cs7200/cs7200.html) with [^](#CLRSref)1 additionally used for reference
 - [CS 161 at Stanford](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms) where Tim has made his lecture videos available to all
 - [CS 7820 at Cornell](http://www.cs.cornell.edu/courses/cs6820/2009fa/) taken by **Jon Kleinberg**
 
-<a id="" href="#ref">^</a>3 - Used as the reference for
+<a id="DPV" href="#DPVref">^</a>3 - Used as the reference for
 
 - [CS 157 at Brown](https://cs.brown.edu/courses/cs157/)
 
-<a id="" href="#ref">^</a>4 - Recommended by *TYCS*. Used as the reference for
+<a id="ADM" href="#ADMref">^</a>4 - Recommended by [*TYCS*](https://teachyourselfcs.com/#algorithms). Used as the reference for
 
 - [CSE 373 at SUNY, SB](http://www3.cs.stonybrook.edu/~skiena/373/) which is taken by **Steven Skiena**
 
-<a id="" href="#ref">^</a>5 - Used as the reference for
+<a id="ASW" href="#ASWref">^</a>5 - Used as the reference for
 
 - [COS226 at Princeton](http://www.cs.princeton.edu/courses/archive/spring18/cos226/) with a [condensed version of the book](https://algs4.cs.princeton.edu/home/) available for reference
 
@@ -336,12 +336,12 @@ There are plenty more books than listed and more courses than I'd care to link.
 ### Standard Textbooks
 
 1. **Introduction to Automata Theory, Languages, and Computation** - John E. Hopcroft and Jeffrey D. Ullman (_The Cinderella Book_) <sup id="TCBref">[[1]](#TCB)</sup>
-2. **Introduction to the Theory of Computation** - Michael Sipser <sup id="ref">[[2]](#)</sup>
+2. **Introduction to the Theory of Computation** - Michael Sipser <sup id="TOCSref">[[2]](#TOCS)</sup>
 3. **Elements of the Theory of Computation** - Harry R. Lewis & C. H. Papadimitriou
 
 ### Alternative/Supplementary
 
-1. **Introduction to Formal Language and Computation** - Peter Linz <sup id="ref">[[4]](#)</sup>
+1. **Introduction to Formal Language and Computation** - Peter Linz <sup id="ITFLACref">[[3]](#ITFLAC)</sup>
 2. **Theory of Computer Science: Automata, Language and Computation** - Mishra & Chandrasekharan
 3. **A Text Book on Automata Theory** - Nasir & Sirmani
 4. **Introduction to Languages and The Theory of Computation** - John Martin
@@ -354,47 +354,45 @@ There are plenty more books than listed and more courses than I'd care to link.
 
 ### Notes
 
-<a id="" href="#ref">^</a>1 - Used a reference textbook for many courses around the world. It closely matches what Jeff Ullman [teaches online at Lagunita](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about). (Duh)
+<a id="TCB" href="#TCBref">^</a>1 - Used a reference textbook for many courses around the world. It closely matches what Jeff Ullman [teaches online at Lagunita](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about). (Duh)
 
-<a id="" href="#ref">^</a>2 - Used as the reference for
+<a id="TOCS" href="#TOCref">^</a>2 - Used as the reference for
 
 - [CS 3102 at UoV](http://www.cs.virginia.edu/~robins/cs3102/)
 - [CS-251 at EPFL](http://theory.epfl.ch/cs251/Home.html)
 - [CS 3800 at NEU](https://course.ccs.neu.edu/cs3800f17wc/policies.html)
 - [CS39 at Dartmouth](https://www.cs.dartmouth.edu/~ac/Teach/CS39-Spring18/)
+- [AU's COMP 674](http://www.athabascau.ca/syllabi/comp/comp674.php), a graduate level course.
 
-<a id="" href="#ref">^</a>4 - Used as the reference for
+<a id="ITFLAC" href="#ITFLACref">^</a>3 - Used as the reference for
 
 - [UPenn's CSC 4170-50](https://www.seas.upenn.edu/~cit596/notes/dave/syllabus.html)
-
-<a id="" href="#ref">^</a>5 - Used as the reference for
-
-- [AU's COMP 674](http://www.athabascau.ca/syllabi/comp/comp674.php), a graduate level course.
 
 ## Operating Systems
 
 ### Standard Textbooks
 
-1. **Operating System Concepts** - J. L. Peterson and A. Silberschatz (*The Dinosaur Book*) <sup id="ref">[[1]](#)</sup>
+1. **Operating System Concepts** - J. L. Peterson and A. Silberschatz (*The Dinosaur Book*) <sup id="TDBref">[[1]](#TDB)</sup>
 2. **Modern Operating Systems** - Andrew S. Tanenbaum
-3. **Operating Systems, Internals and Design Principles** - William Stallings <sup id="ref">[[2]](#)</sup>
+3. **Operating Systems, Internals and Design Principles** - William Stallings <sup id="OSIDPref">[[2]](#OSIDP)</sup>
 
 ### Alternative/Supplementary
 
-1. **Operating Systems: Three Easy Pieces** - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (*The Black Book*/*The Asteroid Book*/*The Comet Book*) <sup id="ref">[[3]](#)</sup>
+1. **Operating Systems: Three Easy Pieces** - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (*The Black Book*/*The Asteroid Book*/*The Comet Book*) <sup id="OSTEPref">[[3]](#OSTEP)</sup>
 2. **Schaum’s Outline of Operating Systems** - Archer J. Harris
 3. **The Design of the UNIX operating system** - Maurice J. Bach
-4. **Operating Systems: Principles and Practice** - Thomas Anderson and Michael Dahlin. <sup id="ref">[[4]](#)</sup>
+4. **Operating Systems: Principles and Practice** - Thomas Anderson and Michael Dahlin. <sup id="OSPPref">[[4]](#OSPP)</sup>
 5. **Operating Systems: A Concept-Based Approach** - D. M. Dhamdhere
 6. **Operating Systems: A Modern Perspective** - Gary J. Nutt
-7. **Operating Systems In Depth: Design and Programming** - Thomas W. Doeppner <sup id="ref">[[5]](#)</sup>
-8. **Operating System Concepts Essentials** - Silberschatz, Galvin, Gagne <sup id="ref">[[6]](#)</sup>
+7. **Operating Systems In Depth: Design and Programming** - Thomas W. Doeppner <sup id="OSIDDPref">[[5]](#OSIDDP)</sup>
+8. **Operating System Concepts Essentials** - Silberschatz, Galvin, Gagne <sup id="OSCEref">[[6]](#OSCE)</sup>
 
 ### Notes
 
-For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Operating_systems) provides a list of a series of breakthroughs in Operating System Design. [A list of research papers on Udacity](https://www.udacity.com/wiki/ud156-readings) may also be useful, and are the recommended readings for [CS 6210 at GATech](https://www.omscs.gatech.edu/cs-6210-advanced-operating-systems).
+- For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Operating_systems) provides a list of a series of breakthroughs in Operating System Design.
+- [A list of research papers on Udacity](https://www.udacity.com/wiki/ud156-readings) may also be useful, and are the recommended readings for [CS 6210 at GATech](https://www.omscs.gatech.edu/cs-6210-advanced-operating-systems).
 
-<a id="" href="#ref">^</a>1 - Used as the reference for
+<a id="TDB" href="#TDBref">^</a>1 - Used as the reference for
 
 - [CS 385 at UIC](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 - [CM's 15-410](https://www.cs.cmu.edu/~410/)
@@ -402,23 +400,23 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 - [Drexel's CS 543](https://www.cs.drexel.edu/~jjohnson/2012-13/fall/cs543/) which again recommends reading **Linux Kernel Development**.
 - [CS170 at UCSB](http://www.cs.ucsb.edu/~rich/class/cs170/)
 
-<a id="" href="#ref">^</a>2 - Used as the reference for
+<a id="OSIDP" href="#OSIDPref">^</a>2 - Used as the reference for
 
 - [TOM-2.1-CS at UT](https://wwwhome.ewi.utwente.nl/~pieter/CS-OS/)
-- [CS 372 at UT Austin](http://www.cs.utexas.edu/users/witchel/372/) although certain readings are from [1] as well.
+- [CS 372 at UT Austin](http://www.cs.utexas.edu/users/witchel/372/) although certain readings are from [^](#TDB)1 as well.
 
-<a id="" href="#ref">^</a>3 - [**OSTEP**](http://pages.cs.wisc.edu/~remzi/OSTEP/) was made as a companion for a [course on Operating Systems at UWISC](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), which is freely available. The professors also recommend reading classic texts such as **Linux Kernel Development** and **The C Programming Language** (K&R). It is also used as a reference for [WPI's CS 3013](https://web.cs.wpi.edu/~cshue/cs3013/). Apart from being my personal recommendation for an introduction to Operating Systems, it is also recommended over at [Teach Yourself Computer Science](https://teachyourselfcs.com/£oeprating-systems) (_TYCS_).
+<a id="OSTEP" href="#OSTEPref">^</a>3 - [**OSTEP**](http://pages.cs.wisc.edu/~remzi/OSTEP/) was made as a companion for [CS 537 at UWISC](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), which is freely available. The professors also recommend reading classic texts such as **Linux Kernel Development** and **The C Programming Language** (K&R). It is also used as a reference for [WPI's CS 3013](https://web.cs.wpi.edu/~cshue/cs3013/). Apart from being my personal recommendation for an introduction to Operating Systems, it is also recommended over at [_TYCS_](https://teachyourselfcs.com/#operating-systems).
 
-<a id="" href="#ref">^</a>4 - Used as the reference for
+<a id="OSPP" href="#OSPPref">^</a>4 - Used as the reference for
 
 - [SU's CS140](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring18/index.php)
 - [Yale's CS422/522](http://flint.cs.yale.edu/cs422/)
 
-<a id="" href="#ref">^</a>5 - Used as the reference for
+<a id="OSIDDP" href="#OSIDDPref">^</a>5 - Used as the reference for
 
 - [CS 161 at HU](http://www.eecs.harvard.edu/~cs161/)
 
-<a id="" href="#ref">^</a>6 - Basically a cheaper version of [1] recommended as the reference textbook for [CU's COMS W4118](http://www.cs.columbia.edu/~jae/4118/).
+<a id="OSCE" href="#OSCEref">^</a>6 - Basically a cheaper version of [^](#TDB)1 recommended as the reference textbook for [CU's COMS W4118](http://www.cs.columbia.edu/~jae/4118/).
 
 ## Data Communication
 <!-- Data transmission fundamentals: historical overview; time/frequency representation of data signals; elements of a communications link; definition of key terms; factors affecting system design, Binary and multi-level signaling: information transfer rate; calculation of channel capacity; bandwidth efficiency, Baseband data transmission: the problem of inter symbol interference; achieving a Nyquist channel response; recovery of symbols from noise; bit error rate performance for baseband data systems, Bandpass digital modulation: binary modulation schemes (eg ASK, FSK, PSK); multi-level digital modulation (e.g. M-ary ASK, M-ary FSK, M-ary PSK, QAM), Coding theory and practice: source coding; channel coding; block coding; convolutional coding; combined coding and modulation, Multi-user digital modulation techniques such as frequency division multiple access (FDMA); time division multiple access (TDMA); code division multiple access (CDMA); combined multiple access systems; Error detection and correction, Digital transmission fundamental  -->
@@ -431,14 +429,14 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 
 1. **Data Communication, Computer Networks and Open Systems** - Fred Halsall
 2. **TCP/IP Protocol Suite** - B. A. Forouzan
-3. **Data and Computer Communications** - William Stallings <sup id="ref">[[1]](#)</sup>
+3. **Data and Computer Communications** - William Stallings <sup id="DCCref">[[1]](#DCC)</sup>
 4. **Communication Networks, Fundamental Concepts & Key Architecture** - Leon-Garcia and I. Widjaja
 
 ### Notes
 
 - Please help. I found nothing on the web with similar syllabus, which has been commented out. See source code.
 
-<a id="" href="#ref">^</a>1 - Used as the reference for
+<a id="DCC" href="#DCCref">^</a>1 - Used as the reference for
 
 - [CS 3413 at UTSA](http://www.cs.utsa.edu/~korkmaz/teaching/cs3413/)
 
@@ -446,9 +444,9 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 
 ### Standard Textbooks
 
-1. **The Intel Microprocessors - Architecture Programming And Interfacing** - Barry B. Brey <sup id="ref">[[1]](#)</sup>
+1. **The Intel Microprocessors - Architecture Programming And Interfacing** - Barry B. Brey <sup id="TIMref">[[1]](#TIM)</sup>
 2. **Microprocessor and Interfacing** - D. V. Hall
-3. **Microprocessor Architecture, Programming, and Applications with the 8085** - Ramesh Gaonkar <sup id="ref">[[5]](#)</sup>
+3. **Microprocessor Architecture, Programming, and Applications with the 8085** - Ramesh Gaonkar <sup id="MAPAref">[[5]](#MAPA)</sup>
 
 ### Alternative/Supplementary
 
@@ -463,11 +461,11 @@ For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/w
 
 Online courses about Microprocessors are rather difficult to come by.
 
-<a id="" href="#ref">^</a>1 - Used as the reference for
+<a id="TIM" href="#TIMref">^</a>1 - Used as the reference for
 
 - [a course at UCF](http://www.cs.ucf.edu/~ahossam/teaching/microp/)
 
-<a id="" href="#ref">^</a>5 - Used as the reference for
+<a id="MAPA" href="#MAPAref">^</a>5 - Used as the reference for
 
 - [IITK's CS43003](http://www.facweb.iitkgp.ernet.in/~apal/files/microprocessor_04.pdf) (Note: Syllabus page only)
 
@@ -475,21 +473,21 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Standard Textbooks
 
-1. **Discrete Mathematics and Its Applications** - Kenneth H. Rosen <sup id="ref">[[1]](#)</sup>
-2. **Discrete Mathematics** - Kevin Ferland <sup id="ref">[[2]](#)</sup>
-3. **Mathematics for Computer Science** - Eric Lehman, F. Thomson Leighton, and Albert R. Meyer <sup id="ref">[[3]](#)</sup>
+1. **Discrete Mathematics and Its Applications** - Kenneth H. Rosen <sup id="DMAIAref">[[1]](#DMAIA)</sup>
+2. **Discrete Mathematics** - Kevin Ferland <sup id="DMKFref">[[2]](#DMKF)</sup>
+3. **Mathematics for Computer Science** - Eric Lehman, F. Thomson Leighton, and Albert R. Meyer <sup id="MFCSref">[[3]](#MFCS)</sup>
 
 ### Alternative/Supplementary
 
-1. **Discrete and Combinatorial Mathematics: An Applied Introduction** - Ralph P. Grimaldi <sup id="ref">[[4]](#)</sup>
-2. **Discrete Mathematics for Computer Science** - Kenneth Bogart and Robert L. Drysdale <sup id="ref">[[5]](#)</sup>
-3. **Concrete Mathematics** - Ronald Graham, Donald E. Knuth and Oren Patashnik <sup id="ref">[[6]](#)</sup>
-4. **Discrete Mathematics** - Jiří Matoušek and Jaroslav Nešetřil <sup id="ref">[[7]](#)</sup>
-5. **Mathematical Structures for Computer Science** - J. L. Gersting <sup id="ref">[[8]](#)</sup>
-6. **Discrete Mathematics** - Norman L. Biggs <sup id="ref">[[9]](#)</sup>
-7. **Discrete Mathematics** - Kenneth A. Ross and Charles R. Wright <sup id="ref">[[10]](#)</sup>
-8. **Discrete Mathematics** - Seymour Lipschutz and Mar Lars Lipson <sup id="ref">[[11]](#)</sup>
-9. **Discrete Mathematics: Mathematical Reasoning and Proof with Puzzles, Patterns and Games** - Douglas E. Ensley and J. Winston Crawley <sup id="ref">[[12]](#)</sup>
+1. **Discrete and Combinatorial Mathematics: An Applied Introduction** - Ralph P. Grimaldi <sup id="DCMAAIref">[[4]](#DCMAAI)</sup>
+2. **Discrete Mathematics for Computer Science** - Kenneth Bogart and Robert L. Drysdale <sup id="DMCSBDref">[[5]](#DMCSBD)</sup>
+3. **Concrete Mathematics** - Ronald Graham, Donald E. Knuth and Oren Patashnik <sup id="CMGKPref">[[6]](#CMGKP)</sup>
+4. **Discrete Mathematics** - Jiří Matoušek and Jaroslav Nešetřil <sup id="DMMNref">[[7]](#DMMN)</sup>
+5. **Mathematical Structures for Computer Science** - J. L. Gersting <sup id="MSFCSref">[[8]](#MSFCS)</sup>
+6. **Discrete Mathematics** - Norman L. Biggs <sup id="DMNBref">[[9]](#DMNB)</sup>
+7. **Discrete Mathematics** - Kenneth A. Ross and Charles R. Wright <sup id="DMRWref">[[10]](#DMRW)</sup>
+8. **Discrete Mathematics** - Seymour Lipschutz and Mar Lars Lipson <sup id="DMLLref">[[11]](#DMLL)</sup>
+9. **Discrete Mathematics: Mathematical Reasoning and Proof with Puzzles, Patterns and Games** - Douglas E. Ensley and J. Winston Crawley <sup id="DMMRPPGref">[[12]](#DMMRPPG)</sup>
 10. **Elements of Discrete Mathematics: A Computer Oriented Approach** - C. L. Liu and D. P. Mohapatra
 11. **Discrete Mathematical Structures with Applications, to Computer Science** - J. P. Tremblay and R. Manohar
 12. **Discrete Mathematics for Computer Scientists & Mathematics** - Joe L. Mott, A. Kandel, and T. P. Baker
@@ -505,53 +503,53 @@ Online courses about Microprocessors are rather difficult to come by.
 22. **Practice Problems in Discrete Mathematics** - Bojana Obrenic
 23. **Hand Book of Discrete and Combinatorial Mathematics** - Kenneth H. Rosen and John G. Michaels
 24. **Discrete Mathematics by Example** - Andrew Simpson
-25. **Discrete mathematics with graph theory and combinatorics** - T. Veerarajan
+25. **Discrete Mathematics with Graph Theory and Combinatorics** - T. Veerarajan
 
 ### Notes
 
 - [Stanford's CS103](http://web.stanford.edu/class/cs103/) may serve as an introduction to those who are unfamiliar with the concepts.
-- Yale's CPSC 202 uses a [document of notes on Discrete Math as the primary reading](http://cs.yale.edu/homes/aspnes/classes/202/notes.pdf). Additional reading can be done from [2] or [1].
+- Yale's CPSC 202 uses a [document of notes on Discrete Math as the primary reading](http://cs.yale.edu/homes/aspnes/classes/202/notes.pdf). Additional reading can be done from [^](#DMKFref)2 or [^](#DMAIAref)1.
 - [CS20 at Harvard](https://www.seas.harvard.edu/courses/cs20/) uses [notes](https://www.seas.harvard.edu/courses/cs20/MIT6_042Notes.pdf) from [MIT's 6.042](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/).
 - Cornell also hosts a useful set of [notes on Discrete Structures](https://www.cs.cornell.edu/~rafael/discmath.pdf).
 - [UT Austin's CS 311](http://www.cs.utexas.edu/~vl/teaching/311/) appears to have their own set of lecture notes linked on the course page.
 
-<a id="" href="#ref">^</a>1 - Used as the reference for
+<a id="DMAIA" href="#DMAIAref">^</a>1 - Used as the reference for
 
 - [CS381 at ODU](http://www.cs.odu.edu/~cs381/index.html)
-- [CSE 191 at UaB](https://cse.buffalo.edu/~rapaport/191/) with [11] additionally recommended
+- [CSE 191 at UaB](https://cse.buffalo.edu/~rapaport/191/) with [^](#DMLLref)11 additionally recommended
 - [6301 at UCL](https://www.ucl.ac.uk/maths/courses/undergraduates/modules/general-ancillary/general_ancillary_syllabuses/6301) (Note: Syllabus page only)
 - [14:332:312 at Rutgers](http://eceweb1.rutgers.edu/~csi/DiscMath.html)
 - [CS 441 at PU](https://people.cs.pitt.edu/~milos/courses/cs441/)
 - [CS 70 at Berkeley](http://eecs70.org/) although notes are recommended for primary reading
-- [CS 207 at IIT Bombay](https://www.cse.iitb.ac.in/~akshayss/courses/cs207-2016.html) along with <sup id="ref">[[9]](#)</sup>
+- [CS 207 at IIT Bombay](https://www.cse.iitb.ac.in/~akshayss/courses/cs207-2016.html) along with [^](#DMNBref)9
 
-<a id="" href="#ref">^</a>3 - Used as the reference for
+<a id="MFCS" href="#MFCSref">^</a>3 - Used as the reference for
 
 - [CS2102 at UoV](https://uvacs2102.github.io/) and has generously been made [available online](https://uvacs2102.github.io/docs/mcs.pdf) under the Creative Commons License
 - [CS1010 at IITH](https://www.iith.ac.in/~aravind/cs1010.html) although it uses [slightly older notes](https://www.iith.ac.in/~aravind/Files-DM/LLM-MFCS-2012.pdf) instead with an additional guide on [**How to write Mathematics**](http://erickson.sites.truman.edu/files/2012/04/guide1.pdf) by Martin Erickson
-- [CS 30 at Dartmouth](https://www.cs.dartmouth.edu/~ac/Teach/CS30-Winter18/) with [1] recommended for additional reading
+- [CS 30 at Dartmouth](https://www.cs.dartmouth.edu/~ac/Teach/CS30-Winter18/) with [^](#DMAIAref)1 recommended for additional reading
 
-<a id="" href="#ref">^</a>4 - Used as the reference for
+<a id="DCMAAI" href="#DCMAAIref">^</a>4 - Used as the reference for
 
-- [Discrete Structures and Combinatorics at BGU](https://www.cs.bgu.ac.il/~dsc172/Main) along with some weird Israeli book? :shrug:
+- [Discrete Structures and Combinatorics at BGU](https://www.cs.bgu.ac.il/~dsc172/Main) along with some weird Israeli book?
 
-<a id="" href="#ref">^</a>5 - Used as the reference for
+<a id="DMCSBD" href="#DMCSBDref">^</a>5 - Used as the reference for
 
-- [CPS 102 at Duke](https://www2.cs.duke.edu/courses/spring09/cps102/) with [1], [6] and [7] also recommended
+- [CPS 102 at Duke](https://www2.cs.duke.edu/courses/spring09/cps102/) with [^](#DMAIAref)1, [^](#CMGKref)6 and [^](#DMMNref)7 also recommended
 
-<a id="" href="#ref">^</a>8 - Used as the reference for
+<a id="MSFCS" href="#MSFCSref">^</a>8 - Used as the reference for
 
 - [MAT 385 at NKU](http://ceadserv1.nku.edu/longa//classes/2002fall/mat385/)
 
-<a id="" href="#ref">^</a>9 - Used as the reference for
+<a id="DMNB" href="#DMNBref">^</a>9 - Used as the reference for
 
 - [Discrete Math at Cambridge](https://www.cl.cam.ac.uk/teaching/1314/DiscMath/) with additional books listed
 
-<a id="" href="#ref">^</a>10 - Used as the reference for
+<a id="DMRW" href="#DMRWref">^</a>10 - Used as the reference for
 
-- [Discrete Mathematics at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/discretemaths/) along with other recommendations like [^](#)4
+- [Discrete Mathematics at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/discretemaths/) along with other recommendations like [^](#DCMAAIref)4
 
-<a id="" href="#ref">^</a>12 - Used as the reference for
+<a id="DMMRPPG" href="#DMMRPPGref">^</a>12 - Used as the reference for
 
 - [CSCI 2824 at UoC Boulder](https://www.colorado.edu/cs/csci-2824-discrete-structures)
 
@@ -559,52 +557,52 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Standard Textbooks
 
-1. **Computer Graphics: Principles and Practice** - John F. Hughes, Andries van Dam, Morgan McGuire, David F. Sklar, James D. Foley, Steven K. Feiner, Kurt Akeley <sup id="ref">[[1]](#)</sup>
-2. **Fundamentals of Computer Graphics** - Pete Shirley and Steve Marschner with Michael Ashikhmin, Michael Gleicher, Naty Hoffman, Garrett Johnson, Tamara Munzner, Erik Reinhard, Kelvin Sung, William B. Thompson, Peter Willemsen, and Bryan Wyvill <sup id="ref">[[2]](#)</sup>
-3. **Computer Graphics, C Version** - Donald Hearn and M. Pauline Baker <sup id="ref">[[3]](#)</sup>
+1. **Computer Graphics: Principles and Practice** - John F. Hughes, Andries van Dam, Morgan McGuire, David F. Sklar, James D. Foley, Steven K. Feiner, Kurt Akeley <sup id="CGPPref">[[1]](#CGPP)</sup>
+2. **Fundamentals of Computer Graphics** - Pete Shirley and Steve Marschner with Michael Ashikhmin, Michael Gleicher, Naty Hoffman, Garrett Johnson, Tamara Munzner, Erik Reinhard, Kelvin Sung, William B. Thompson, Peter Willemsen, and Bryan Wyvill <sup id="FOCGref">[[2]](#FOCG)</sup>
+3. **Computer Graphics, C Version** - Donald Hearn and M. Pauline Baker <sup id="CGCVref">[[3]](#CGCV)</sup>
 
 ### Alternative/Supplementary
 
-1. **Computer Graphics using Open GL** - Francis S. Hill <sup id="ref">[[4]](#)</sup>
-2. **Multimedia Systems** - R. Steinmetz and K. Nahrstedt <sup id="ref">[[5]](#)</sup>
-3. **Fundamentals of Multimedia** - Ze-Nian Li and M. S. Drew <sup id="ref">[[6]](#)</sup>
-4. **Mathematical Elements for Computer Graphics** - David F. Rogers and James Alan Adams <sup id="ref">[[7]](#)</sup>
-5. **Physically Based Rendering: From Theory to Implementation** - Matt Pharr and Greg Humphreys <sup id="ref">[[8]](#)</sup>
-6. **Procedural Elements for Computer Graphics** - David Rogers <sup id="ref">[[9]](#)</sup>
-7. **Computer Graphics for Java Programmers** - L. Ammeraal and K. Zhang <sup id="ref">[[10]](#)</sup>
-8. **Computer Graphics: A Survey of Current Techniques and Applications** - John Lewell <sup id="ref">[[11]](#)</sup>
-9. **Computer Graphics: Theory Into Practice** - Jeffrey J. McConnell <sup id="ref">[[12]](#)</sup>
-10. **Computer Graphics: Techniques and Applications** - R. D. Parslow, R. W. Prowse, Richard Elliot Green <sup id=ref"">[[13]]</sup>
-11. **Computer graphics and virtual environments: from realism to real-time** - M. Slater, A. Steed, Y. Chrysantho [14]
-12. **Interactive environments with open-source software** - Wolfgang Höhl [15]
-13. **Foundations of 3D Computer Graphics** - Steven J. Gortler [16]
-14. **Interactive Computer Graphics, A Top-Down Approach with WebGL** - Edward Angel and Dave Schreiner [17]
+1. **Computer Graphics using Open GL** - Francis S. Hill
+2. **Multimedia Systems** - R. Steinmetz and K. Nahrstedt
+3. **Fundamentals of Multimedia** - Ze-Nian Li and M. S. Drew
+4. **Mathematical Elements for Computer Graphics** - David F. Rogers and James Alan Adams
+5. **Physically Based Rendering: From Theory to Implementation** - Matt Pharr and Greg Humphreys <sup id="PBRFTTIref">[[4]](#PBRFTTI)</sup>
+6. **Procedural Elements for Computer Graphics** - David Rogers
+7. **Computer Graphics for Java Programmers** - L. Ammeraal and K. Zhang
+8. **Computer Graphics: A Survey of Current Techniques and Applications** - John Lewell
+9. **Computer Graphics: Theory Into Practice** - Jeffrey J. McConnell
+10. **Computer Graphics: Techniques and Applications** - R. D. Parslow, R. W. Prowse, Richard Elliot Green
+11. **Computer Graphics and Virtual Environments: From Realism to Real-time** - M. Slater, A. Steed, Y. Chrysantho
+12. **Interactive Environments with Open-Source Software** - Wolfgang Höhl
+13. **Foundations of 3D Computer Graphics** - Steven J. Gortler <sup id="FOTDCGref">[[5]](#FOTDCG)</sup>
+14. **Interactive Computer Graphics, A Top-Down Approach with WebGL** - Edward Angel and Dave Schreiner <sup id="ICGATDAref">[[6]](#ICGATDA)</sup>
 
 ### Notes
 
-- The first two are no doubt standard textbooks in the field, but there is simply too vast an ocean of textbooks to categorise.
+- [^](#CGPPref)1 and [^](#FOCGref)2 are no doubt standard textbooks in the field, but there is simply too vast an ocean of textbooks to categorise.
+- There is a reference book for OpenGL programming one may find useful called the [_Red Book_](http://www.opengl.org/documentation/red_book/).
+- Many courses have further resources like these linked on their course or info pages.
 
-- There is a reference book for OpenGL programming one may find useful called the "[Red Book](http://www.opengl.org/documentation/red_book/)". Many courses have further resources like these linked on their course or info pages.
-
-<a id="" href="#ref">^</a>1 - Used as the reference for
+<a id="CGPP" href="#CGPPref">^</a>1 - Used as the reference for
 
 - [CSCI 1230 at Brown](https://cs.brown.edu/courses/cs123/)
-- [CS4620/CS4621 at Cornell](http://www.cs.cornell.edu/courses/cs4620/2014fa/index.shtml) along with [16]
-- [CS 6360 at IITM](http://www.cse.iitm.ac.in/~vplab/computer_graphics.html) along with [^](#)3
+- [CS4620/CS4621 at Cornell](http://www.cs.cornell.edu/courses/cs4620/2014fa/index.shtml) along with [^](#FOTDCGref)5
+- [CS 6360 at IITM](http://www.cse.iitm.ac.in/~vplab/computer_graphics.html) along with [^](#CGCVref)3
 - [Introduction to Computer Graphics at UIC](https://www.cs.uic.edu/~jbell/CourseNotes/ComputerGraphics/index.html)
 - [CS 488 at UIC](https://www.evl.uic.edu/aej/488/index.html) which seems to be an earlier version of the course above
 
-<a id="" href="#ref">^</a>2 - Used as the reference for
+<a id="FOCG" href="#FOCGref">^</a>2 - Used as the reference for
 
-- [CMU 15-462/662](http://15462.courses.cs.cmu.edu/fall2015/) along with [1] and <sup id="ref">[[8]](#)</sup>
-- [Computer Graphics at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/graphics/) with [1] and others additionally recommended
-- [CS248 at Stanford](http://graphics.stanford.edu/courses/cs248-18-spring/) with [1] also recommended
+- [CMU 15-462/662](http://15462.courses.cs.cmu.edu/fall2015/) along with [^](#CGPPref)1 and [^](#PBRFTTIref)4
+- [Computer Graphics at Oxford](https://www.cs.ox.ac.uk/teaching/courses/2017-2018/graphics/) with [^](#CGPPref)1 and others additionally recommended
+- [CS248 at Stanford](http://graphics.stanford.edu/courses/cs248-18-spring/) with [^](#CGPPref)1 also recommended
 
-<a id="" href="#ref">^</a>16 - Used as the reference for
+<a id="FOTDCG" href="#FOTDCGref">^</a>5 - Used as the reference for
 
 - [CS 175 at Harvard](https://sites.fas.harvard.edu/~lib175/) taught by Steven Gortler himself
 
-<a id="" href="#ref">^</a>17 - Used as the reference for
+<a id="ICGATDA" href="#ICGATDAref">^</a>6 - Used as the reference for
 
 - [CS 465 at Bilkent](http://www.cs.bilkent.edu.tr/~gudukbay/cs465/)
 - [EDAF80 at LTH](http://cs.lth.se/edaf80/) with [The Graphics Codex](http://graphicscodex.com/) linked for additional reading
