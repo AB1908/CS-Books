@@ -683,6 +683,7 @@ Online courses about Microprocessors are rather difficult to come by.
 14. **Compiling with continuations**- Andrew W. Appel
 15. **Building an Optimizing compiler** - Robert Morgan
 16. **Crafting a Compiler** - Charles N. Fischer, Richard Joseph LeBlanc, and Ronald Kaplan Cytron
+17. **Elements of Compiler Design** - Alexander Meduna
 
 ### Notes
 
