@@ -81,7 +81,7 @@
 
 <a id="ADSPS" href="#ADSPSref">^</a>7 - Used as a reference for
 
-- [CS 240 at BU](http://www.cs.binghamton.edu/~steflik/cs240/cs240.htm) but covers only Data Structures
+- [CS 240 at SUNY, B](http://www.cs.binghamton.edu/~steflik/cs240/cs240.htm) but covers only Data Structures
 
 ## Database Management Systems
 
@@ -127,7 +127,7 @@
 
 - [CS 23500/33550 at UoC](https://www.classes.cs.uchicago.edu/archive/2017/winter/23500-1/syllabus.html) (Note: Syllabus page only)
 - [15-445/645 at CMU](https://15445.courses.cs.cmu.edu/fall2017/)
-- [CS 348 at UoW](https://cs.uwaterloo.ca/~david/cs348/) along with [^](#DMS)1
+- [CS 348 at UoW Canada](https://cs.uwaterloo.ca/~david/cs348/) along with [^](#DMS)1
 
 <a id="TDRB" href="#TDRBref">^</a>3 - It is the recommended book on [TYCS](https://teachyourselfcs.com/#databases). Used as the reference for
 
@@ -310,7 +310,7 @@ There are plenty more books than listed and more courses than I'd care to link.
 
 - [CS 600 A at SIT](https://www.cs.stevens.edu/~swetzel/CS600/spring11/)
 - [15-451/651 at CMU](https://www.cs.cmu.edu/~15451/) which also recommends [^](#DPVref)3 but either can be used, while an [older version](http://www.cs.cmu.edu/~avrim/451f09/index.html) has it's own set of notes
-- [CS 466/666 at UoW](https://cs.uwaterloo.ca/~eblais/courses/F17/CS466/) with additional material described [here](https://cs.uwaterloo.ca/~eblais/courses/F17/CS466/outline.pdf)
+- [CS 466/666 at UoW Canada](https://cs.uwaterloo.ca/~eblais/courses/F17/CS466/) with [additional material](https://cs.uwaterloo.ca/~eblais/courses/F17/CS466/outline.pdf)
 
 <a id="KT" href="#KTref">^</a>2 - Used as the reference for
 
@@ -648,9 +648,9 @@ Online courses about Microprocessors are rather difficult to come by.
 - [COS 597D at Princeton](http://www.cs.princeton.edu/courses/archive/fall11/cos597D/) which also recommends several papers
 - [COMPSCI 650 at UMass](https://people.cs.umass.edu/~elm/Teaching/650_F14/) with [^](#ITILAref)2 recommended additionally
 - [582650 at UoH](https://www.cs.helsinki.fi/group/cosco/Teaching/Information/2014/)
-- [CO 739-2 at UoW](http://www.math.uwaterloo.ca/~anayak/Site/Information_Theory.html)
+- [CO 739-2 at UoW Canada](http://www.math.uwaterloo.ca/~anayak/Site/Information_Theory.html)
 - [EECS 428 at NWU](https://www.mccormick.northwestern.edu/eecs/courses/descriptions/428.html) (Note: Syllabus page only)
-- [ECE 563 at UoI](https://ece.illinois.edu/academics/courses/profile/ece563) (Note: Syllabus page only)
+- [ECE 563 at UIUC](https://ece.illinois.edu/academics/courses/profile/ece563) (Note: Syllabus page only)
 
 <a id="ITILA" href="#ITILAref">^</a>2 - Used as a reference for
 
@@ -712,7 +712,7 @@ Online courses about Microprocessors are rather difficult to come by.
 
 <a id="TTB" href="#TTBref">^</a>2 - The author has an [accompanying website](http://www.cs.princeton.edu/~appel/modern/) for his books (available in Java and C as well). Used as reference for
 
-- [CS421 at UoI](https://courses.engr.illinois.edu/cs421/fa2014/)
+- [CS421 at UIUC](https://courses.engr.illinois.edu/cs421/fa2014/)
 - [CS5470 at UoU](http://www.cs.utah.edu/~parker/5470_Sp18.html) but in Java (Note: Syllabus page only)
 - [15-411 at CMU](https://www.cs.cmu.edu/~fp/courses/15411-f09/index.html)
 - [CS 432F & CS 728 at IITD](http://www.cse.iitd.ernet.in/~sanjiva/compilers.html) with [^](#TCDBref)1 additionally recommended
@@ -850,18 +850,55 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Standard Textbooks
 
-1. **Distributed Computing: Principles, Algorithms, and Systems** - Ajay D. Kshemkalyani and Mukesh Singhal
-2. **Elements of Distributed Computing** - Vijay K. Garg
+1. **Distributed Computing: Principles, Algorithms, and Systems** - Ajay D. Kshemkalyani and Mukesh Singhal <sup id="DCPASref">[[5]](#DCPAS)</sup>
+2. **Elements of Distributed Computing** - Vijay K. Garg <sup id="ref">[[]](#)</sup>
 
 ### Supplementary Reading:
 
-1. **Distributed Computing: Fundamentals, Simulations, and Advanced Topics** - Hagit Attiya and Jennifer Welch
-2. **Distributed Systems: Principles and Paradigms** - Andrew S. Tanenbaum and Maarten van Steen
-2. **Distributed Algorithms** - Nancy Lynch
-4. **Distributed Systems** - Jie Wu
-6. **Distributed Systems** - Sape Mullender
-7. **Distributed Systems - Principles and Paradigms** - Andrew S Tanenbaum and Maaten Van Steen
-9. **Distributed Systems : Concepts and Design** - Tim Kindberg, George Coulouris and Jean Dollimore
+1. **Distributed Computing: Fundamentals, Simulations, and Advanced Topics** - Hagit Attiya and Jennifer Welch <sup id="DCFSATref">[[4]](#DCFSAT)</sup>
+2. **Distributed Systems: Principles and Paradigms** - Andrew S. Tanenbaum and Maarten van Steen <sup id="ref">[[]](#)</sup>
+2. **Distributed Algorithms** - Nancy Lynch <sup id="ref">[[]](#)</sup>
+4. **Distributed Systems** - Jie Wu <sup id="ref">[[]](#)</sup>
+6. **Distributed Systems** - Sape Mullender <sup id="ref">[[]](#)</sup>
+7. **Distributed Systems - Principles and Paradigms** - Andrew S. Tanenbaum and Maaten Van Steen <sup id="DSPPref">[[2]](#DSPP)</sup>
+9. **Distributed Systems : Concepts and Design** - George Coulouris, Jean Dollimore, Tim Kindberg and Gordon Blair <sup id="DSCDref">[[1]](#DSCD)</sup>
+10. **Guide to Reliable Distributed Systems: Building High-Assurance Applications and Cloud-Hosted Services** - Kenneth P. Birman <sup id="GTBRDSref">[[3]](#GTBRDS)</sup>
+
+### Notes
+
+- [TYCS](https://teachyourselfcs.com/#distributed-systems) recommends [^](#DSPP)2 for self study and also links to a [set of useful papers](http://dsrg.pdos.csail.mit.edu/papers/).
+- [CS244b at Stanford](http://www.scs.stanford.edu/17au-cs244b/) appears to have its own set of lecture notes and readings from various papers as does [CS 417 at Rutgers](https://www.cs.rutgers.edu/~pxk/417/index.html).
+- [CS 739 at UWISC](http://pages.cs.wisc.edu/~remzi/Classes/739/Fall2016/index.html) also has a list of papers linked for reading.
+- [CS 4513 at WPI](http://web.cs.wpi.edu/~cs4513/c16/) takes a hands-on approach to the class and has a variety of papers to read as part of a Graduate Level course. Similarly, [CS6963 at UoU](http://www.cs.utah.edu/~stutsman/cs6963/) is also a graduate level course.
+- [CS4790 at UMSL](http://www.umsl.edu/~siegelj/cs4790/) appears to be an interesting course focused on practical examples in C, but appears to have a different syllabus than described at my college.
+
+<a id="DSPP" href="#DSPPref">^</a>2 - Used as the reference for
+
+- [CPSC 416 at UBC](https://www.cs.ubc.ca/~bestchai/teaching/cs416_2017w2/index.html) which uses the [Go programming language](golang.org/) extensively for projects and readings
+- [CSCI 339 at WC](https://www.cs.williams.edu/~jeannie/cs339/index.html) along with [^](#DSCDref)1
+- [Distributed Systems at CU](https://www.cs.columbia.edu/~du/ds/) along with optional resources
+- [CS 455/555 at BSU](http://cs.boisestate.edu/~amit/teaching/455/cs455-555.html)
+- [COS-418 at Princeton](https://www.cs.princeton.edu/courses/archive/fall16/cos418/) with several other resources linked
+- [CMPSCI 677 at UMass](http://lass.cs.umass.edu/~shenoy/courses/677/)
+- [CAS CS451/651 at BU](http://www.cs.bu.edu/~jappavoo/jappavoo.github.com/cs451.html) but uses papers for primary readings
+- [CS4103 at St. Andrews](https://info.cs.st-andrews.ac.uk/student-handbook/modules/CS4103.html) along with [^](#DSCDref)1
+- [15-440/640 at CMU](http://www.cs.cmu.edu/~srini/15-440/) which also recommends reading through the lecture notes
+
+<a id="DSCD" href="#DSCDref">^</a>1 - The book has a [companion website](http://www.cdk5.net/wp/) as well. Used as the reference for
+
+- [CSCI-1380 at Brown](http://cs.brown.edu/courses/csci1380/s18/)
+- [CS455 at CSU](https://www.cs.colostate.edu/~cs455/) along with [^](#DSPPref)2 and a slew of other textbooks and papers listed on the syllabus page
+- [CS556 at UOC Greece](http://www.csd.uoc.gr/~hy556/) along with [^](#DSPPref)2 and a number of other books as well
+- [CS6450 at UoU](http://www.cs.utah.edu/~stutsman/cs6450/) along with [^](#DSPPref)2 and [^](#GTBRDSref)3
+- [CS 425:ECE 428 at UIUC](https://courses.engr.illinois.edu/cs425/fa2017/lectures.html) with many more useful resources linked
+
+<a id="DCFSAT" href="#DCFSATref">^</a>4 - Used as the reference for
+
+- [CS 425/525 at UoW](https://homes.cs.washington.edu/~arvind/cs425/) along with [^](#DSCDref)1
+
+<a id="DCPAS" href="#DCPASref">^</a>5 - Used as the reference for
+
+- [CS 553 at UIC](https://www.cs.uic.edu/~ajayk/c553fa18.html) along with a host of papers and other readings
 
 # References
 
@@ -1128,7 +1165,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [15-413 - Carnegie Mellon University](https://www.cs.cmu.edu/~aldrich/courses/413/)  
    [CS 501 - Cornell University](http://www.cs.cornell.edu/courses/cs501/2000FA/index.html)  
    [Introduction to Software Engineering - Pennsylvania State University](http://www.csci.psu.edu/seminars/fallnotes/SWEintro.pdf)  
-   [CS 320 - University of Massachusetts Amherst](https://people.cs.umass.edu/~brun/class/2013Spring/CS320/)  
+   [CS 320 - University of Massachusetts, Amherst](https://people.cs.umass.edu/~brun/class/2013Spring/CS320/)  
    [CS223 - University of Warwick](http://web.iitd.ac.in/~sumeet/sm.pdf)  
    [CS302 - Saylor Academy](https://learn.saylor.org/mod/page/view.php?id=686)  
    [CSE 403 - University of Washington](https://courses.cs.washington.edu/courses/cse403/)  
@@ -1196,3 +1233,4 @@ Online courses about Microprocessors are rather difficult to come by.
 
    [ACM Classic Books Series](https://dl.acm.org/classics.cfm)
    [List of Useful Tutorials](http://www.cs.williams.edu/~dbarowy/cs334s18/#tutorials)  
+   [Beej's Guides](http://beej.us/guide/)  
