@@ -850,53 +850,52 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Standard Textbooks
 
-1. **Distributed Computing: Principles, Algorithms, and Systems** - Ajay D. Kshemkalyani and Mukesh Singhal <sup id="DCPASref">[[5]](#DCPAS)</sup>
-2. **Elements of Distributed Computing** - Vijay K. Garg <sup id="ref">[[]](#)</sup>
+1. **Distributed Systems: Principles and Paradigms** - Andrew S. Tanenbaum and Maaten Van Steen <sup id="DSPPref">[[1]](#DSPP)</sup>
+2. **Distributed Systems : Concepts and Design** - George Coulouris, Jean Dollimore, Tim Kindberg and Gordon Blair <sup id="DSCDref">[[2]](#DSCD)</sup>
 
 ### Supplementary Reading:
 
-1. **Distributed Computing: Fundamentals, Simulations, and Advanced Topics** - Hagit Attiya and Jennifer Welch <sup id="DCFSATref">[[4]](#DCFSAT)</sup>
-2. **Distributed Systems: Principles and Paradigms** - Andrew S. Tanenbaum and Maarten van Steen <sup id="ref">[[]](#)</sup>
-2. **Distributed Algorithms** - Nancy Lynch <sup id="ref">[[]](#)</sup>
-4. **Distributed Systems** - Jie Wu <sup id="ref">[[]](#)</sup>
-6. **Distributed Systems** - Sape Mullender <sup id="ref">[[]](#)</sup>
-7. **Distributed Systems - Principles and Paradigms** - Andrew S. Tanenbaum and Maaten Van Steen <sup id="DSPPref">[[2]](#DSPP)</sup>
-9. **Distributed Systems : Concepts and Design** - George Coulouris, Jean Dollimore, Tim Kindberg and Gordon Blair <sup id="DSCDref">[[1]](#DSCD)</sup>
-10. **Guide to Reliable Distributed Systems: Building High-Assurance Applications and Cloud-Hosted Services** - Kenneth P. Birman <sup id="GTBRDSref">[[3]](#GTBRDS)</sup>
+1. **Distributed Computing: Fundamentals, Simulations, and Advanced Topics** - Hagit Attiya and Jennifer Welch <sup id="DCFSATref">[[3]](#DCFSAT)</sup>
+2. **Distributed Computing: Principles, Algorithms, and Systems** - Ajay D. Kshemkalyani and Mukesh Singhal <sup id="DCPASref">[[4]](#DCPAS)</sup>
+3. **Elements of Distributed Computing** - Vijay K. Garg
+4. **Distributed Algorithms** - Nancy Lynch
+5. **Distributed Systems** - Jie Wu
+6. **Distributed Systems** - Sape Mullender
+7. **Guide to Reliable Distributed Systems: Building High-Assurance Applications and Cloud-Hosted Services** - Kenneth P. Birman <sup id="GTBRDSref">[[5]](#GTBRDS)</sup>
 
 ### Notes
 
-- [TYCS](https://teachyourselfcs.com/#distributed-systems) recommends [^](#DSPP)2 for self study and also links to a [set of useful papers](http://dsrg.pdos.csail.mit.edu/papers/).
+- [TYCS](https://teachyourselfcs.com/#distributed-systems) recommends [^](#DSPPref)1 for self study and also links to a [set of useful papers](http://dsrg.pdos.csail.mit.edu/papers/).
 - [CS244b at Stanford](http://www.scs.stanford.edu/17au-cs244b/) appears to have its own set of lecture notes and readings from various papers as does [CS 417 at Rutgers](https://www.cs.rutgers.edu/~pxk/417/index.html).
 - [CS 739 at UWISC](http://pages.cs.wisc.edu/~remzi/Classes/739/Fall2016/index.html) also has a list of papers linked for reading.
 - [CS 4513 at WPI](http://web.cs.wpi.edu/~cs4513/c16/) takes a hands-on approach to the class and has a variety of papers to read as part of a Graduate Level course. Similarly, [CS6963 at UoU](http://www.cs.utah.edu/~stutsman/cs6963/) is also a graduate level course.
 - [CS4790 at UMSL](http://www.umsl.edu/~siegelj/cs4790/) appears to be an interesting course focused on practical examples in C, but appears to have a different syllabus than described at my college.
 
-<a id="DSPP" href="#DSPPref">^</a>2 - Used as the reference for
+<a id="DSPP" href="#DSPPref">^</a>1 - Used as the reference for
 
 - [CPSC 416 at UBC](https://www.cs.ubc.ca/~bestchai/teaching/cs416_2017w2/index.html) which uses the [Go programming language](golang.org/) extensively for projects and readings
-- [CSCI 339 at WC](https://www.cs.williams.edu/~jeannie/cs339/index.html) along with [^](#DSCDref)1
+- [CSCI 339 at WC](https://www.cs.williams.edu/~jeannie/cs339/index.html) along with [^](#DSCDref)2
 - [Distributed Systems at CU](https://www.cs.columbia.edu/~du/ds/) along with optional resources
 - [CS 455/555 at BSU](http://cs.boisestate.edu/~amit/teaching/455/cs455-555.html)
 - [COS-418 at Princeton](https://www.cs.princeton.edu/courses/archive/fall16/cos418/) with several other resources linked
 - [CMPSCI 677 at UMass](http://lass.cs.umass.edu/~shenoy/courses/677/)
 - [CAS CS451/651 at BU](http://www.cs.bu.edu/~jappavoo/jappavoo.github.com/cs451.html) but uses papers for primary readings
-- [CS4103 at St. Andrews](https://info.cs.st-andrews.ac.uk/student-handbook/modules/CS4103.html) along with [^](#DSCDref)1
+- [CS4103 at St. Andrews](https://info.cs.st-andrews.ac.uk/student-handbook/modules/CS4103.html) along with [^](#DSCDref)2
 - [15-440/640 at CMU](http://www.cs.cmu.edu/~srini/15-440/) which also recommends reading through the lecture notes
 
-<a id="DSCD" href="#DSCDref">^</a>1 - The book has a [companion website](http://www.cdk5.net/wp/) as well. Used as the reference for
+<a id="DSCD" href="#DSCDref">^</a>2 - The book has a [companion website](http://www.cdk5.net/wp/) as well. Used as the reference for
 
 - [CSCI-1380 at Brown](http://cs.brown.edu/courses/csci1380/s18/)
-- [CS455 at CSU](https://www.cs.colostate.edu/~cs455/) along with [^](#DSPPref)2 and a slew of other textbooks and papers listed on the syllabus page
-- [CS556 at UOC Greece](http://www.csd.uoc.gr/~hy556/) along with [^](#DSPPref)2 and a number of other books as well
-- [CS6450 at UoU](http://www.cs.utah.edu/~stutsman/cs6450/) along with [^](#DSPPref)2 and [^](#GTBRDSref)3
+- [CS455 at CSU](https://www.cs.colostate.edu/~cs455/) along with [^](#DSPPref)1 and a slew of other textbooks and papers listed on the syllabus page
+- [CS556 at UOC Greece](http://www.csd.uoc.gr/~hy556/) along with [^](#DSPPref)1 and a number of other books as well
+- [CS6450 at UoU](http://www.cs.utah.edu/~stutsman/cs6450/) along with [^](#DSPPref)1 and [^](#GTBRDSref)5
 - [CS 425:ECE 428 at UIUC](https://courses.engr.illinois.edu/cs425/fa2017/lectures.html) with many more useful resources linked
 
-<a id="DCFSAT" href="#DCFSATref">^</a>4 - Used as the reference for
+<a id="DCFSAT" href="#DCFSATref">^</a>3 - Used as the reference for
 
-- [CS 425/525 at UoW](https://homes.cs.washington.edu/~arvind/cs425/) along with [^](#DSCDref)1
+- [CS 425/525 at UoW](https://homes.cs.washington.edu/~arvind/cs425/) along with [^](#DSCDref)2
 
-<a id="DCPAS" href="#DCPASref">^</a>5 - Used as the reference for
+<a id="DCPAS" href="#DCPASref">^</a>4 - Used as the reference for
 
 - [CS 553 at UIC](https://www.cs.uic.edu/~ajayk/c553fa18.html) along with a host of papers and other readings
 
