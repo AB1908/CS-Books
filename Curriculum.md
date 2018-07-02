@@ -15,6 +15,7 @@
 - [Compiler Design](#compiler-design)
 - [Computer Networks](#computer-networks)
 - [Software Engineering](#software-engineering)
+- [Distributed Systems](#distributed-systems)
 
 ## Data Structures and Algorithms
 
