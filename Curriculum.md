@@ -857,6 +857,11 @@ Online courses about Microprocessors are rather difficult to come by.
 
 1. **Distributed Computing: Fundamentals, Simulations, and Advanced Topics** - Hagit Attiya and Jennifer Welch
 2. **Distributed Systems: Principles and Paradigms** - Andrew S. Tanenbaum and Maarten van Steen
+2. **Distributed Algorithms** - Nancy Lynch
+4. **Distributed Systems** - Jie Wu
+6. **Distributed Systems** - Sape Mullender
+7. **Distributed Systems - Principles and Paradigms** - Andrew S Tanenbaum and Maaten Van Steen
+9. **Distributed Systems : Concepts and Design** - Tim Kindberg, George Coulouris and Jean Dollimore
 
 # References
 
