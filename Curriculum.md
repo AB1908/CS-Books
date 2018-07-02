@@ -1,5 +1,7 @@
 # CS Curriculum Textbooks and References
 
+## Table of Contents
+
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Database Management Systems](#database-management-systems)
 - [Principles of Programming Languages](#principles-of-programming-languages)
@@ -16,6 +18,11 @@
 - [Computer Networks](#computer-networks)
 - [Software Engineering](#software-engineering)
 - [Distributed Systems](#distributed-systems)
+- [References](#references)
+  - [Websites](#websites)
+  - [Courses](#courses)
+  - [Resources](#resources)
+- [Miscellaneous Links](#miscellaneous-links)
 
 ## Data Structures and Algorithms
 
@@ -83,6 +90,8 @@
 
 - [CS 240 at SUNY, B](http://www.cs.binghamton.edu/~steflik/cs240/cs240.htm) but covers only Data Structures
 
+[Back to Table of Contents](#table-of-contents)
+
 ## Database Management Systems
 
 ### Standard Textbooks
@@ -140,6 +149,8 @@
 <a id="FCDS" href="#FCDSref">^</a>5 - Used as the reference for
 
 - [CS x265 at VU](https://my.vanderbilt.edu/cs265/) but strongly recommends going through **Jennifer Widom's** self paced ["**Databases Course**" on Stanford Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+
+[Back to Table of Contents](#table-of-contents)
 
 ## Principles of Programming Languages
 
@@ -223,6 +234,8 @@
 
 - [TIE-20306 at TUT](http://www.cs.tut.fi/~popl/nykyinen/index.shtml) along with a free *Finnish* textbook
 
+[Back to Table of Contents](#table-of-contents)
+
 ## Computer Organisation and Architecture
 
 ### Standard Textbooks
@@ -275,6 +288,8 @@ There are plenty more books than listed and more courses than I'd care to link.
 <a id="CAPPD" href="#CAPPDref">^</a>9 - Used as the reference for
 
 - [EE382 at Stanford](https://web.stanford.edu/class/ee382/)
+
+[Back to Table of Contents](#table-of-contents)
 
 ## Algorithm Design and Analysis
 
@@ -332,6 +347,8 @@ There are plenty more books than listed and more courses than I'd care to link.
 
 - [COS226 at Princeton](http://www.cs.princeton.edu/courses/archive/spring18/cos226/) with a [condensed version of the book](https://algs4.cs.princeton.edu/home/) available for reference
 
+[Back to Table of Contents](#table-of-contents)
+
 ## Theory of Computation
 
 ### Standard Textbooks
@@ -368,6 +385,8 @@ There are plenty more books than listed and more courses than I'd care to link.
 <a id="ITFLAC" href="#ITFLACref">^</a>3 - Used as the reference for
 
 - [UPenn's CSC 4170-50](https://www.seas.upenn.edu/~cit596/notes/dave/syllabus.html)
+
+[Back to Table of Contents](#table-of-contents)
 
 ## Operating Systems
 
@@ -419,6 +438,8 @@ There are plenty more books than listed and more courses than I'd care to link.
 
 <a id="OSCE" href="#OSCEref">^</a>6 - Basically a cheaper version of [^](#TDB)1 recommended as the reference textbook for [CU's COMS W4118](http://www.cs.columbia.edu/~jae/4118/).
 
+[Back to Table of Contents](#table-of-contents)
+
 ## Data Communication
 <!-- Data transmission fundamentals: historical overview; time/frequency representation of data signals; elements of a communications link; definition of key terms; factors affecting system design, Binary and multi-level signaling: information transfer rate; calculation of channel capacity; bandwidth efficiency, Baseband data transmission: the problem of inter symbol interference; achieving a Nyquist channel response; recovery of symbols from noise; bit error rate performance for baseband data systems, Bandpass digital modulation: binary modulation schemes (eg ASK, FSK, PSK); multi-level digital modulation (e.g. M-ary ASK, M-ary FSK, M-ary PSK, QAM), Coding theory and practice: source coding; channel coding; block coding; convolutional coding; combined coding and modulation, Multi-user digital modulation techniques such as frequency division multiple access (FDMA); time division multiple access (TDMA); code division multiple access (CDMA); combined multiple access systems; Error detection and correction, Digital transmission fundamental  -->
 ### Standard Textbooks
@@ -469,6 +490,8 @@ Online courses about Microprocessors are rather difficult to come by.
 <a id="MAPA" href="#MAPAref">^</a>5 - Used as the reference for
 
 - [IITKGP's CS43003](http://www.facweb.iitkgp.ernet.in/~apal/files/microprocessor_04.pdf) (Note: Syllabus page only)
+
+[Back to Table of Contents](#table-of-contents)
 
 ## Discrete Mathematics
 
@@ -554,6 +577,8 @@ Online courses about Microprocessors are rather difficult to come by.
 
 - [CSCI 2824 at UoC Boulder](https://www.colorado.edu/cs/csci-2824-discrete-structures)
 
+[Back to Table of Contents](#table-of-contents)
+
 ## Computer Graphics
 
 ### Standard Textbooks
@@ -610,6 +635,8 @@ Online courses about Microprocessors are rather difficult to come by.
 - [CS 537 at Drexel](https://www.cs.drexel.edu/~david/Classes/ICG/)
 - [CS 4102 at St. Andrews](https://info.cs.st-andrews.ac.uk/student-handbook/modules/CS4102.html) (only a list of textbooks)
 
+[Back to Table of Contents](#table-of-contents)
+
 ## Information Theory and Coding
 
 ### Standard Textbooks
@@ -657,6 +684,8 @@ Online courses about Microprocessors are rather difficult to come by.
 - [COMP 7404 at DU](http://web.cs.du.edu/~ramki/courses/tpcs/infoTheory/index.html)
 - [CSC 310 at UoT](https://www.cs.toronto.edu/~radford/csc310.F11/) with [^](#EAITref)3 recommended for rigorous mathematical analysis
 - [CS 616 at WU](https://www.westminster.edu/resources/dean/view_course_syllabus.cfm?id=769) (Note: Syllabus page only)
+
+[Back to Table of Contents](#table-of-contents)
 
 ## Compiler Design
 
@@ -732,6 +761,8 @@ Online courses about Microprocessors are rather difficult to come by.
 
 - [CPSC 466 at SRU](http://cs.sru.edu/~whit/handouts.466.s12.html)
 
+[Back to Table of Contents](#table-of-contents)
+
 ## Computer Networks
 
 ### Standard Textbooks
@@ -774,6 +805,8 @@ Online courses about Microprocessors are rather difficult to come by.
 <a id="DCNBF" href="#DCNBFref">^</a>5 - It is regarded as the standard textbook in the field [according to Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Networking).
 
 <a id="TCPIPI" href="#TCPIPIref">^</a>6, <a id="UNPVO" href="#UNPVOref">^</a>7 - Widely recommended in many courses listed above for additional reading, especially those at Princeton, Stanford and UWISC.
+
+[Back to Table of Contents](#table-of-contents)
 
 ## Software Engineering
 
@@ -898,6 +931,7 @@ Online courses about Microprocessors are rather difficult to come by.
 <a id="DCPAS" href="#DCPASref">^</a>4 - Used as the reference for
 
 - [CS 553 at UIC](https://www.cs.uic.edu/~ajayk/c553fa18.html) along with a host of papers and other readings
+[Back to Table of Contents](#table-of-contents)
 
 # References
 
@@ -921,12 +955,12 @@ Online courses about Microprocessors are rather difficult to come by.
    [Operating System - Further Reading](https://en.wikipedia.org/wiki/Operating_system#Futher_reading)  
    [Discrete Mathematics - Further Reading](https://en.wikipedia.org/wiki/Discrete_mathematics#Further_reading)  
    [Information Theory - References](https://en.wikipedia.org/wiki/Information_theory#References)  
-   [Compiler - References](https://en.wikipedia.org/wiki/Compiler#References)
-   [History of Compiler Construction - Wikipedia](https://en.wikipedia.org/wiki/History_of_compiler_construction)
-   [List of Compiler Books - GCC Wiki](https://gcc.gnu.org/wiki/ListOfCompilerBooks). 
-   [About compilers and interpreters - Developers Club](http://developers-club.com/posts/170735/)
-   [Compiler Recommendations - dealloc // The Belkadan Software Blog](http://belkadan.com/blog/2015/11/Recommendations/).
-   [Best books on compiler design/implementation? - Ars Technica Open Forum](https://arstechnica.com/civis/viewtopic.php?t=676560)
+   [Compiler - References](https://en.wikipedia.org/wiki/Compiler#References)  
+   [History of Compiler Construction - Wikipedia](https://en.wikipedia.org/wiki/History_of_compiler_construction)  
+   [List of Compiler Books - GCC Wiki](https://gcc.gnu.org/wiki/ListOfCompilerBooks)  
+   [About compilers and interpreters - Developers Club](http://developers-club.com/posts/170735/)  
+   [Compiler Recommendations - dealloc // The Belkadan Software Blog](http://belkadan.com/blog/2015/11/Recommendations/)  
+   [Best books on compiler design/implementation? - Ars Technica Open Forum](https://arstechnica.com/civis/viewtopic.php?t=676560)  
    [Computer Network - Further Reading](https://en.wikipedia.org/wiki/Computer_network#Further_reading)  
    [Software Engineering - Further Reading](https://en.wikipedia.org/wiki/Software_engineering#Further_reading)  
    [Distributed Computing - References](https://en.wikipedia.org/wiki/Distributed_computing#References)  
@@ -946,13 +980,13 @@ Online courses about Microprocessors are rather difficult to come by.
    [600.226 - John Hopkins University](http://www.cs.jhu.edu/~hager/Teaching/cs226/)  
    [CS 315 - University of Texas at Austin](http://www.cs.utexas.edu/users/novak/cs315.html)  
    [CS 206 - Bryn Mawr College](https://cs.brynmawr.edu/cs206/)  
-   [CS 213(M) - Indian Institute of Technology, Bombay](https://www.cse.iitb.ac.in/~ranade/cs213/) taken by **Abhiram Ranade**  
+   [CS 213(M) - Indian Institute of Technology, Bombay](https://www.cse.iitb.ac.in/~ranade/cs213/) (taken by **Abhiram Ranade**)  
    [CS 240 - Binghamton University](http://www.cs.binghamton.edu/~steflik/cs240/cs240.htm)  
    [CS 598 JGE - University of Illinois](http://jeffe.cs.illinois.edu/teaching/datastructures/) appears to be a graduate level course and hence has not been linked in the original section  
 
 - Database Management Systems
 
-   [Databases - Stanford Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) taken by **Jennifer Widom**  
+   [Databases - Stanford Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) (taken by **Jennifer Widom**)  
    [CS 186 - University of California, Berkeley](http://www.cs186berkeley.net/home)  
    [CS 4320/4321 - Cornell University](http://www.cs.cornell.edu/courses/cs4320/2008fa/)  
    [COMS 4111 - Columbia University](http://www.cs.columbia.edu/~coms4111/ewu.html)  
@@ -1019,15 +1053,15 @@ Online courses about Microprocessors are rather difficult to come by.
    [CPSC500 - University of British Columbia](http://www.cs.ubc.ca/~condon/cpsc500/)  
    [CS 7200 - Wright State University](http://cecs.wright.edu/~tkprasad/courses/cs7200/cs7200.html)  
    [CS 161 - Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)  
-   [CS 7820 - Cornell University](http://www.cs.cornell.edu/courses/cs6820/2009fa/) taken by **Jon Kleinberg**  
+   [CS 7820 - Cornell University](http://www.cs.cornell.edu/courses/cs6820/2009fa/) (taken by **Jon Kleinberg**)  
    [CS 157 - Brown University](https://cs.brown.edu/courses/cs157/)  
-   [CSE 373 - State University of New York](http://www3.cs.stonybrook.edu/~skiena/373/) taken by **Steven Skiena**  
+   [CSE 373 - State University of New York](http://www3.cs.stonybrook.edu/~skiena/373/) (taken by **Steven Skiena**)  
    [COS226 - Princeton University](http://www.cs.princeton.edu/courses/archive/spring18/cos226/)  
    [Algorithms Part I](https://www.coursera.org/teach/algorithms-part1) and [Part II](https://www.coursera.org/teach/algorithms-part2) taught by **Sedgewick** and **Wayne** on Coursera  
 
 - Theory of Computation
 
-   [Automata Theory - Stanford Lagunita](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about) (taken by **Jefferey D. Ullman** himself)  
+   [Automata Theory - Stanford Lagunita](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about) (taken by **Jefferey D. Ullman**)  
    [CSC 4170-50 - University of Pennsylvania](https://www.seas.upenn.edu/~cit596/notes/dave/syllabus.html)  
    [CS3102 - University of Virginia](http://www.cs.virginia.edu/~robins/cs3102/)  
    [CS-251 - École Polytechnique Fédérale de Lausanne EPFL](http://theory.epfl.ch/cs251/Home.html)  
@@ -1128,8 +1162,8 @@ Online courses about Microprocessors are rather difficult to come by.
    [ECS 142 - University of California, Davis](http://web.cs.ucdavis.edu/~pandey/Teaching/ECS142/ecs142_spring2011.html)  
    [CPSC 605-600 - Parasol Lab, Texas A&M University](https://parasol.tamu.edu/~rwerger/Courses/605/)  
    [CS 5461 - University of Minnesota Duluth](https://www.d.umn.edu/~rmaclin/cs5641/index.html)  
-   [Compiler Design - National Chiao Tung University](https://people.cs.nctu.edu.tw/~ypyou/courses/Compiler-grad-s18/)  
-   [COP5621 - FSU](https://www.cs.fsu.edu/~engelen/courses/COP5621/)  
+   [Compiler Design - National Chiao Tung University](https://people.cs.nctu.edu.tw/~ypyou/courses/Compiler-grad-s18/)   
+   [COP5621 - Florida State University](https://www.cs.fsu.edu/~engelen/courses/COP5621/)  
    [CS 2210 - University of Pittsburgh](https://people.cs.pitt.edu/~wahn/teaching/cs2210/)  
    [CS 3300 - Indian Institute of Technology, Madras](http://www.cse.iitm.ac.in/~krishna/cs3300/)  
    [CS335 - Indian Institute of Technology, Kanpur](https://www.cse.iitk.ac.in/users/karkare/cs335/)  
@@ -1222,12 +1256,12 @@ Online courses about Microprocessors are rather difficult to come by.
    [Algorithms, Etc. by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)  
    [Algorithm Notes for CS 466 at Waterloo](https://cs.uwaterloo.ca/~eblais/courses/F17/CS466/outline.pdf)  
    [**Algorithms**](https://algs4.cs.princeton.edu/home/) by Robert Sedgewick and Kevin Wayne (condensed version for reference)  
-   [CS Readings](http://www.cs.virginia.edu/~robins/CS_readings.html)
+   [CS Readings](http://www.cs.virginia.edu/~robins/CS_readings.html)  
    [Xv6, a simple Unix-like teaching operating system - PDOS-MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)  
    [**Operating Systems: Three Easy Pieces**](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
    [Advanced Operating Systems Readings](https://www.udacity.com/wiki/ud156-readings)  
    [Microprocessors and their Architecture](https://www.byclb.com/TR/Tutorials/microprocessors/ch2_1.htm)  
-   [Links to Intel documentation](https://software.intel.com/en-us/forums/intel-isa-extensions/topic/285900)
+   [Links to Intel documentation](https://software.intel.com/en-us/forums/intel-isa-extensions/topic/285900)  
    [Microprocessor Design - Wikibooks](https://en.wikibooks.org/wiki/Microprocessor_Design)  
    [Discrete Mathematics - Wikibooks](https://en.wikibooks.org/wiki/Discrete_Mathematics)  
    [**Mathematics for Computer Science**](https://uvacs2102.github.io/docs/mcs.pdf) by Eric Lehman, F. Thomson Leighton, and Albert R. Meyer  
@@ -1236,22 +1270,22 @@ Online courses about Microprocessors are rather difficult to come by.
    [A Course on Discrete Mathematics - Yale University](http://cs.yale.edu/homes/aspnes/classes/202/notes.pdf)  
    [Mathematics for Computer Science (2012)](https://www.iith.ac.in/~aravind/Files-DM/LLM-MFCS-2012.pdf)  
    [**How to Write Mathematics**](http://erickson.sites.truman.edu/files/2012/04/guide1.pdf) by Martin Erickson  
-   [Red Book](http://www.opengl.org/documentation/red_book/)
+   [Red Book](http://www.opengl.org/documentation/red_book/)  
    [The Graphics Codex - Web Edition](http://graphicscodex.com/)  
    [**Information Theory, Inference, and Learning Algorithms**](http://www.inference.org.uk/mackay/itila/book.html) by David J. C. Mackay  
    [2011 Workshop on Complexity Information Theory in Theoretical Computer Science and Discrete Mathematics](http://sites.math.rutgers.edu/~saks/IT/)  
-   [A Mathematical Theory of Communication - Claude Shannon (1948)](math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)  
+   [**A Mathematical Theory of Communication**](math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) by Claude Shannon (1948)  
    [Awesome Compilers - GitHub](https://github.com/aalhour/awesome-compilers)  
    [Compiler Resources - @berkerpeksag on GitHub](https://github.com/berkerpeksag/notes/tree/master/learning/compilers)  
-   [Compiler Design in C](https://holub.com/compiler/) by Allen I. Holub  
-   [Compiler Construction](www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) by Niklaus Wirth  
-   [Compiler Design: Theory, Tools, and Examples](http://elvis.rowan.edu/~bergmann/books/cd/c_cpp/Text/C_CppEd.pdf) by Seth Bergmann  
-   [Understanding and Writing Compilers](http://www.eis.mdx.ac.uk/staffpages/r_bornat/books/compiling.pdf) by Richard Bornat  
-   [Supplementary Material for Modern Compiler Implementation ](http://www.cs.princeton.edu/~appel/modern/) by Andrew W. Appel  
+   [**Compiler Design in C**](https://holub.com/compiler/) by Allen I. Holub  
+   [**Compiler Construction**](www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) by Niklaus Wirth  
+   [**Compiler Design: Theory, Tools, and Examples**](http://elvis.rowan.edu/~bergmann/books/cd/c_cpp/Text/C_CppEd.pdf) by Seth Bergmann  
+   [**Understanding and Writing Compilers**](http://www.eis.mdx.ac.uk/staffpages/r_bornat/books/compiling.pdf) by Richard Bornat  
+   [Supplementary Material for **Modern Compiler Implementation**](http://www.cs.princeton.edu/~appel/modern/) by Andrew W. Appel  
    [Compilers - Rip Lang](https://www.rip-lang.org/links/#compilers)  
    [Javascript Compiler References - Mozilla Wiki](https://wiki.mozilla.org/JavaScript:Compiler_References)  
-   [Introduction to Software Engineering - Wikibooks](https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering)  
-   [Software Engineering book by Ivan Marsic](http://www.ece.rutgers.edu/~marsic/books/SE/book-SE_marsic.pdf)  
+   [**Introduction to Software Engineering** - Wikibooks](https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering)  
+   [**Software Engineering** ](http://www.ece.rutgers.edu/~marsic/books/SE/book-SE_marsic.pdf) by Ivan Marsic  
    [Supplementary Material for **Object-Oriented Software Engineering**](http://www.site.uottawa.ca/school/research/lloseng/) by Lethbridge and Laganière  
    [Software Engineering Notes from CS 440 at UIC](https://www.cs.uic.edu/~jbell/CourseNotes/OO_SoftwareEngineering/)  
    [Papers - Distributed Systems Reading Group](http://dsrg.pdos.csail.mit.edu/papers/)
