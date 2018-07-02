@@ -846,6 +846,18 @@ Online courses about Microprocessors are rather difficult to come by.
 
 - [CSE2102 at UConn](http://www.engr.uconn.edu/~steve/Cse2102/cse2102.html)
 
+## Distributed Systems
+
+### Standard Textbooks
+
+1. **Distributed Computing: Principles, Algorithms, and Systems** - Ajay D. Kshemkalyani and Mukesh Singhal
+2. **Elements of Distributed Computing** - Vijay K. Garg
+
+### Supplementary Reading:
+
+1. **Distributed Computing: Fundamentals, Simulations, and Advanced Topics** - Hagit Attiya and Jennifer Welch
+2. **Distributed Systems: Principles and Paradigms** - Andrew S. Tanenbaum and Maarten van Steen
+
 # References
 
 ## Websites
