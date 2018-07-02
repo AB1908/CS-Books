@@ -1294,6 +1294,6 @@ Online courses about Microprocessors are rather difficult to come by.
 
 # Miscellaneous links
 
-   [ACM Classic Books Series](https://dl.acm.org/classics.cfm)
+   [ACM Classic Books Series](https://dl.acm.org/classics.cfm)  
    [List of Useful Tutorials](http://www.cs.williams.edu/~dbarowy/cs334s18/#tutorials)  
    [Beej's Guides](http://beej.us/guide/)  
