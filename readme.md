@@ -20,3 +20,4 @@ Being an avid book reader, I have found it absurdly difficult to find a comprehe
 - [Compiler Design](Curriculum.md/#compiler-design)
 - [Computer Networks](Curriculum.md/#computer-networks)
 - [Software Engineering](Curriculum.md/#software-engineering)
+- [Distributed Systems](Curriculum.md/#distributed-systems)
