@@ -928,6 +928,8 @@ Online courses about Microprocessors are rather difficult to come by.
    [Compiler Recommendations - dealloc // The Belkadan Software Blog](http://belkadan.com/blog/2015/11/Recommendations/).
    [Best books on compiler design/implementation? - Ars Technica Open Forum](https://arstechnica.com/civis/viewtopic.php?t=676560)
    [Computer Network - Further Reading](https://en.wikipedia.org/wiki/Computer_network#Further_reading)  
+   [Software Engineering - Further Reading](https://en.wikipedia.org/wiki/Software_engineering#Further_reading)  
+   [Distributed Computing - References](https://en.wikipedia.org/wiki/Distributed_computing#References)  
    [Best Reference Books - San Foundry](https://www.sanfoundry.com/best-reference-books-computer-science-engineering/)  
 
 ## Courses
@@ -1126,7 +1128,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [ECS 142 - University of California, Davis](http://web.cs.ucdavis.edu/~pandey/Teaching/ECS142/ecs142_spring2011.html)  
    [CPSC 605-600 - Parasol Lab, Texas A&M University](https://parasol.tamu.edu/~rwerger/Courses/605/)  
    [CS 5461 - University of Minnesota Duluth](https://www.d.umn.edu/~rmaclin/cs5641/index.html)  
-   [Compiler Design - National Chiao Tung University](https://people.cs.nctu.edu.tw/~ypyou/courses/Compiler-grad-s18/)   
+   [Compiler Design - National Chiao Tung University](https://people.cs.nctu.edu.tw/~ypyou/courses/Compiler-grad-s18/)  
    [COP5621 - FSU](https://www.cs.fsu.edu/~engelen/courses/COP5621/)  
    [CS 2210 - University of Pittsburgh](https://people.cs.pitt.edu/~wahn/teaching/cs2210/)  
    [CS 3300 - Indian Institute of Technology, Madras](http://www.cse.iitm.ac.in/~krishna/cs3300/)  
@@ -1172,6 +1174,31 @@ Online courses about Microprocessors are rather difficult to come by.
    [CSE870 - Michigan State University](http://www.cse.msu.edu/~cse870/index.php)  
    [Foundations of Software Engineering - Ben-Gurion University of the Negev](https://www.cs.bgu.ac.il/~fsen141/Main)  
    [CSE2102 - University of Connecticut](http://www.engr.uconn.edu/~steve/Cse2102/cse2102.html)  
+
+- Distributed Systems
+
+   [CS244b - Stanford University](http://www.scs.stanford.edu/17au-cs244b/)  
+   [CS 417 - Rutgers University](https://www.cs.rutgers.edu/~pxk/417/index.html)  
+   [CS 739 - University of Wisconsin-Madison](http://pages.cs.wisc.edu/~remzi/Classes/739/Fall2016/index.html)  
+   [CS 4513 - Worchester Polytechnic Institute](http://web.cs.wpi.edu/~cs4513/c16/)  
+   [CS6963 - University of Utah](http://www.cs.utah.edu/~stutsman/cs6963/)  
+   [CS4790 - University of Saint Mary of the Lake](http://www.umsl.edu/~siegelj/cs4790/)  
+   [CPSC 416 - University of British Columbia](https://www.cs.ubc.ca/~bestchai/teaching/cs416_2017w2/index.html)  
+   [CSCI 339 - Williams College](https://www.cs.williams.edu/~jeannie/cs339/index.html)  
+   [Distributed Systems - Columbia University](https://www.cs.columbia.edu/~du/ds/)  
+   [CS 455/555 - Boise State University](http://cs.boisestate.edu/~amit/teaching/455/cs455-555.html)  
+   [COS-418 - Princeton University](https://www.cs.princeton.edu/courses/archive/fall16/cos418/)  
+   [CMPSCI 677 - University of Massachussets, Amhersts](http://lass.cs.umass.edu/~shenoy/courses/677/)  
+   [CAS CS451/651 - Boston University](http://www.cs.bu.edu/~jappavoo/jappavoo.github.com/cs451.html)  
+   [CS4103 - University of St. Andrews](https://info.cs.st-andrews.ac.uk/student-handbook/modules/CS4103.html)  
+   [15-440/640 - Carnegie Mellon University](http://www.cs.cmu.edu/~srini/15-440/)  
+   [CSCI-1380 - Brown University](http://cs.brown.edu/courses/csci1380/s18/)  
+   [CS455 - Colorado State University](https://www.cs.colostate.edu/~cs455/)  
+   [CS556 - University of Crete, Greece](http://www.csd.uoc.gr/~hy556/)  
+   [CS6450 - University of Utah](http://www.cs.utah.edu/~stutsman/cs6450/)  
+   [CS 425:ECE 428 - University of Illinois, Urbana–Champaign](https://courses.engr.illinois.edu/cs425/fa2017/lectures.html)  
+   [CS 425/525 - University of Washington](https://homes.cs.washington.edu/~arvind/cs425/)  
+   [CS 553 - University of Illinois, Chicago](https://www.cs.uic.edu/~ajayk/c553fa18.html)  
 
 ## Resources
 
@@ -1227,6 +1254,9 @@ Online courses about Microprocessors are rather difficult to come by.
    [Software Engineering book by Ivan Marsic](http://www.ece.rutgers.edu/~marsic/books/SE/book-SE_marsic.pdf)  
    [Supplementary Material for **Object-Oriented Software Engineering**](http://www.site.uottawa.ca/school/research/lloseng/) by Lethbridge and Laganière  
    [Software Engineering Notes from CS 440 at UIC](https://www.cs.uic.edu/~jbell/CourseNotes/OO_SoftwareEngineering/)  
+   [Papers - Distributed Systems Reading Group](http://dsrg.pdos.csail.mit.edu/papers/)
+   [Compansion website for **Distributed Systems: Concepts and Design**](http://www.cdk5.net/wp/) by George Coulouris, Jean Dollimore, Tim Kindberg and Gordon Blair  
+   [Go programming language](golang.org/)  
 
 # Miscellaneous links
 
