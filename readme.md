@@ -8,7 +8,7 @@ This repository was created to maintain a comprehensive list of textbooks and us
 
 Being an avid book reader, I have found it absurdly difficult to find a comprehensive list of textbooks to use for reference and/or self learning. I have, therefore, set out to create and share it for all who wish to find the same. I have also linked courses that I could find across the web so that one may find a relevant guide to the particular topic. All linked course pages often have one or more additional references should the reader wish to explore the topic in greater depth. This list is by no means comprehensive, though it is an eventual target. There are also video lectures of many of courses which are better located at [cs-video-courses](https://github.com/Developer-Y/cs-video-courses).
 
-## Table of Contents
+## [Table of Contents](Curriculum.md/#table-of-contents)
 
 - [Data Structures and Algorithms](Curriculum.md/#data-structures-and-algorithms)
 - [Database Management Systems](Curriculum.md/#database-management-systems)
