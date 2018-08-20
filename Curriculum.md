@@ -395,51 +395,68 @@
 ### Standard Textbooks
 
 1. **Operating System Concepts** - J. L. Peterson and A. Silberschatz (*The Dinosaur Book*) <sup id="TOSDBref">[[1]](#TOSDB)</sup>
-2. **Modern Operating Systems** - Andrew S. Tanenbaum
-3. **Operating Systems, Internals and Design Principles** - William Stallings <sup id="OSIDPref">[[2]](#OSIDP)</sup>
+2. **Modern Operating Systems** - Andrew S. Tanenbaum <sup id="MOSref">[[2]](#MOS)</sup>
+3. **Operating Systems, Internals and Design Principles** - William Stallings <sup id="OSIDPref">[[3]](#OSIDP)</sup>
 
 ### Alternative/Supplementary
 
-1. **Operating Systems: Three Easy Pieces** - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (*The Black Book*/*The Asteroid Book*/*The Comet Book*) <sup id="OSTEPref">[[3]](#OSTEP)</sup>
+1. **Operating Systems: Three Easy Pieces** - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (*The Black Book*/*The Asteroid Book*/*The Comet Book*) <sup id="OSTEPref">[[4]](#OSTEP)</sup>
 2. **Schaum’s Outline of Operating Systems** - Archer J. Harris
 3. **The Design of the UNIX operating system** - Maurice J. Bach
-4. **Operating Systems: Principles and Practice** - Thomas Anderson and Michael Dahlin. <sup id="OSPPref">[[4]](#OSPP)</sup>
+4. **Operating Systems: Principles and Practice** - Thomas Anderson and Michael Dahlin. <sup id="OSPPref">[[5]](#OSPP)</sup>
 5. **Operating Systems: A Concept-Based Approach** - D. M. Dhamdhere
 6. **Operating Systems: A Modern Perspective** - Gary J. Nutt
-7. **Operating Systems In Depth: Design and Programming** - Thomas W. Doeppner <sup id="OSIDDPref">[[5]](#OSIDDP)</sup>
-8. **Operating System Concepts Essentials** - Silberschatz, Galvin, Gagne <sup id="OSCEref">[[6]](#OSCE)</sup>
+7. **Operating Systems In Depth: Design and Programming** - Thomas W. Doeppner <sup id="OSIDDPref">[[6]](#OSIDDP)</sup>
+8. **Operating System Concepts Essentials** - Silberschatz, Galvin, Gagne <sup id="OSCEref">[[7]](#OSCE)</sup>
+9. **Linux Kernel Development** - Robert Love <sup id="LKDref">[[8]](#LKD)</sup>
 
 ### Notes
 
 - For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Operating_systems) provides a list of a series of breakthroughs in Operating System Design.
 - [TYCS](https://teachyourselfcs.com/#operating-systems) recommends [^](#OSTEPref)OSTEP for self study rather than the theory heavy [^](TOSDBref)Dinosaur Book or similar texts.
 - [A list of research papers on Udacity](https://www.udacity.com/wiki/ud156-readings) may also be useful, and are the recommended readings for [CS 6210 at GATech](https://www.omscs.gatech.edu/cs-6210-advanced-operating-systems).
+- [COSC4321.03, COSC5421.03 at UW](https://cs.uwaterloo.ca/~brecht/courses/4321/) appears to be an interesting course on Operating Systems but does not use any of the listed books for reference. It also does not appear to be a theory focused typical Operating Systems class.
+- Purdue also appears to have a course designed around its [Xinu Operating System](https://xinu.cs.purdue.edu/).
 
 <a id="TOSDB" href="#TOSDBref">^</a>1 - Used as the reference for
 
 - [CS 385 at UIC](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 - [CM's 15-410](https://www.cs.cmu.edu/~410/)
-- [CS 347 at IITB](https://www.cse.iitb.ac.in/~mythili/teaching/cs347_autumn2016/index.html) where reading through MIT's [xv6 Operating System](https://pdos.csail.mit.edu/6.828/2012/xv6.html) is mandatory.
-- [Drexel's CS 543](https://www.cs.drexel.edu/~jjohnson/2012-13/fall/cs543/) which again recommends reading **Linux Kernel Development**.
+- [CS 347 at IITB](https://www.cse.iitb.ac.in/~mythili/teaching/cs347_autumn2016/index.html) where reading through MIT's [xv6 Operating System](https://pdos.csail.mit.edu/6.828/2012/xv6.html) is mandatory
+- [Drexel's CS 543](https://www.cs.drexel.edu/~jjohnson/2012-13/fall/cs543/) which recommends reading [^](#LKDref)8 additionally
 - [CS170 at UCSB](http://www.cs.ucsb.edu/~rich/class/cs170/)
+- [EDAF35 at LTH](http://cs.lth.se/edaf35/?L=0)
+- [CS 446/646 at UNR](https://www.cse.unr.edu/~mgunes/cs446/)
 
-<a id="OSIDP" href="#OSIDPref">^</a>2 - Used as the reference for
+<a id="MOS" href="#MOSref">^</a>2 - Used as the reference for
+
+- [CS 372 at UT Austin](http://www.cs.utexas.edu/users/witchel/372/) although certain readings are also from [^](#TOSDBref)1
+- [INF3151 at UO](https://www.uio.no/studier/emner/matnat/ifi/INF3151/) which is in Norwegian
+
+<a id="OSIDP" href="#OSIDPref">^</a>3 - Used as the reference for
 
 - [TOM-2.1-CS at UT](https://wwwhome.ewi.utwente.nl/~pieter/CS-OS/)
-- [CS 372 at UT Austin](http://www.cs.utexas.edu/users/witchel/372/) although certain readings are from [^](#TDB)1 as well.
 
-<a id="OSTEP" href="#OSTEPref">^</a>3 - [**OSTEP**](http://pages.cs.wisc.edu/~remzi/OSTEP/) was made as a companion for [CS 537 at UWISC](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), which is freely available. The professors also recommend reading classic texts such as **Linux Kernel Development** and **The C Programming Language** (K&R). It is also used as a reference for [WPI's CS 3013](https://web.cs.wpi.edu/~cshue/cs3013/).
+<a id="OSTEP" href="#OSTEPref">^</a>4 - [**OSTEP**](http://pages.cs.wisc.edu/~remzi/OSTEP/) was made as a companion for [CS 537 at UWISC](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), which is freely available. The professors also recommend reading classic texts such as [^](#LKDref)8 and **The C Programming Language** (K&R). Used as a reference for
 
-<a id="OSPP" href="#OSPPref">^</a>4 - Used as the reference for
+- [WPI's CS 3013](https://web.cs.wpi.edu/~cshue/cs3013/)
+- [CS 350 at UW](https://www.student.cs.uwaterloo.ca/~cs350/W18/reading.html)
+- [CS 318/418/618 at JHU](https://cs.jhu.edu/~huang/cs318/fall17/index.html)
+
+<a id="OSPP" href="#OSPPref">^</a>5 - Used as the reference for
 
 - [SU's CS140](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring18/index.php)
 - [Yale's CS422/522](http://flint.cs.yale.edu/cs422/)
 
-<a id="OSIDDP" href="#OSIDDPref">^</a>5 - Used as the reference for
+<a id="OSIDDP" href="#OSIDDPref">^</a>6 - Used as the reference for
 
 - [CS 161 at HU](http://www.eecs.harvard.edu/~cs161/)
 
-<a id="OSCE" href="#OSCEref">^</a>6 - Basically a cheaper version of [^](#TDB)1 recommended as the reference textbook for [CU's COMS W4118](http://www.cs.columbia.edu/~jae/4118/).
+<a id="OSCE" href="#OSCEref">^</a>7 - Basically a cheaper version of [^](#TOSDBref)1 recommended as the reference textbook for [CU's COMS W4118](http://www.cs.columbia.edu/~jae/4118/).
+
+<a id="LKD" href="#LKDref">^</a>8
+
+- [CS 6560 at CSU EB](https://www.cs.rutgers.edu/course/operating-systems-design)
 
 [↑ Back to Table of Contents](#table-of-contents)
 
@@ -1006,7 +1023,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [CS662 - University of Virginia](http://www.cs.virginia.edu/~son/cs662.s06/)  
    [ECS 165A - University of California, Davis](http://web.cs.ucdavis.edu/~green/courses/ecs165a-w11/)  
    [CS145 - Stanford University](http://web.stanford.edu/class/cs145/)  
-   [CS x265 - Vanderbilt University](https://my.vanderbilt.edu/cs265/)   
+   [CS x265 - Vanderbilt University](https://my.vanderbilt.edu/cs265/)  
    [CS 23500/33550 - University of Chicago](https://www.classes.cs.uchicago.edu/archive/2017/winter/23500-1/syllabus.html) (Note: Syllabus page only)  
    [15-445/645 - Carnegie Mellon University](https://15445.courses.cs.cmu.edu/fall2017/)  
    [CS 348 - University of Waterloo](https://cs.uwaterloo.ca/~david/cs348/)  
@@ -1080,18 +1097,24 @@ Online courses about Microprocessors are rather difficult to come by.
 - Operating Systems
 
    [CS 6210 - Georgia Tech](https://www.omscs.gatech.edu/cs-6210-advanced-operating-systems)  
+   [COSC4321.03, COSC5421.03 - University of Waterloo](https://cs.uwaterloo.ca/~brecht/courses/4321/)  
+   [CS 318/418/618 - John Hopkins University](https://cs.jhu.edu/~huang/cs318/fall17/index.html)  
    [CS 385 - University of Illinois, Chicago](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)  
    [CS 347 - Indian Institute of Technology, Bombay](https://www.cse.iitb.ac.in/~mythili/teaching/cs347_autumn2016/index.html)  
    [CS 543 - Drexel University](https://www.cs.drexel.edu/~jjohnson/2012-13/fall/cs543/)  
    [CS170 - University of California, Santa Barbara](http://www.cs.ucsb.edu/~rich/class/cs170/)  
+   [EDAF35 - Lund University](http://cs.lth.se/edaf35/?L=0)  
+   [CS 446/646 - University of Nevada, Reno](https://www.cse.unr.edu/~mgunes/cs446/)  
    [TOM-2.1-CS - University of Twente](https://wwwhome.ewi.utwente.nl/~pieter/CS-OS/)  
    [CS 372 - University of Texas at Austin](http://www.cs.utexas.edu/users/witchel/372/)  
-   [CS-537 - University of Wisconsin-Madison](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)  
+   [INF3151 - University of Oslo](https://www.uio.no/studier/emner/matnat/ifi/INF3151/) which is in Norwegian  
    [CS3013 - Worchester Polytechnic Institute](https://web.cs.wpi.edu/~cshue/cs3013/)  
+   [CS-537 - University of Wisconsin-Madison](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)  
    [CS140 - Stanford University](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring18/index.php)  
    [CS422/522 - Yale University](http://flint.cs.yale.edu/cs422/)  
    [CS 140 - Harvard University](http://www.eecs.harvard.edu/~cs161/)  
    [COMS W4118 - Columbia University](http://www.cs.columbia.edu/~jae/4118/)  
+   [CS 6560 - California State University, East Bay](https://www.cs.rutgers.edu/course/operating-systems-design)  
 
 - Data Communications
 
@@ -1170,7 +1193,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [ECS 142 - University of California, Davis](http://web.cs.ucdavis.edu/~pandey/Teaching/ECS142/ecs142_spring2011.html)  
    [CPSC 605-600 - Parasol Lab, Texas A&M University](https://parasol.tamu.edu/~rwerger/Courses/605/)  
    [CS 5461 - University of Minnesota Duluth](https://www.d.umn.edu/~rmaclin/cs5641/index.html)  
-   [Compiler Design - National Chiao Tung University](https://people.cs.nctu.edu.tw/~ypyou/courses/Compiler-grad-s18/)   
+   [Compiler Design - National Chiao Tung University](https://people.cs.nctu.edu.tw/~ypyou/courses/Compiler-grad-s18/)  
    [COP5621 - Florida State University](https://www.cs.fsu.edu/~engelen/courses/COP5621/)  
    [CS 2210 - University of Pittsburgh](https://people.cs.pitt.edu/~wahn/teaching/cs2210/)  
    [CS 3300 - Indian Institute of Technology, Madras](http://www.cse.iitm.ac.in/~krishna/cs3300/)  
@@ -1268,7 +1291,8 @@ Online courses about Microprocessors are rather difficult to come by.
    [**Algorithms**](https://algs4.cs.princeton.edu/home/) by Robert Sedgewick and Kevin Wayne (condensed version for reference)  
    [CS Readings](http://www.cs.virginia.edu/~robins/CS_readings.html)  
    [Xv6, a simple Unix-like teaching operating system - PDOS-MIT](https://pdos.csail.mit.edu/6.828/2012/xv6.html)  
-   [**Operating Systems: Three Easy Pieces**](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
+   [Xinu Operating System](https://xinu.cs.purdue.edu/)  
+   [**Operating Systems: Three Easy Pieces**](http://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau  
    [Advanced Operating Systems Readings](https://www.udacity.com/wiki/ud156-readings)  
    [Microprocessors and their Architecture](https://www.byclb.com/TR/Tutorials/microprocessors/ch2_1.htm)  
    [Links to Intel documentation](https://software.intel.com/en-us/forums/intel-isa-extensions/topic/285900)  
