@@ -412,14 +412,20 @@
 
 ### Notes
 
+- Many of the courses linked have projects to be completed as a part of the course. They serve as valuable hands-on experience for the reader.
 - For a more historical approach, [this Wikipedia page](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Operating_systems) provides a list of a series of breakthroughs in Operating System Design.
 - [TYCS](https://teachyourselfcs.com/#operating-systems) recommends [^](#OSTEPref)OSTEP for self study rather than the theory heavy [^](TOSDBref)Dinosaur Book or similar texts.
 - [A list of research papers on Udacity](https://www.udacity.com/wiki/ud156-readings) may also be useful, and are the recommended readings for [CS 6210 at GATech](https://www.omscs.gatech.edu/cs-6210-advanced-operating-systems).
-- [COSC4321.03, COSC5421.03 at UW](https://cs.uwaterloo.ca/~brecht/courses/4321/) appears to be an interesting course on Operating Systems but does not use any of the listed books for reference. It also does not appear to be a theory focused typical Operating Systems class.
+- [COSC4321.03, COSC5421.03 at UW](https://cs.uwaterloo.ca/~brecht/courses/4321/) appears to be an interesting course on Operating Systems but does not use any of the listed books for reference. It also does not appear to be a typical theory focused Operating Systems class.
 - Purdue also appears to have a course designed around its [Xinu Operating System](https://xinu.cs.purdue.edu/).
+- CS537 from UWISC listed in [^](#OSTEPref)4 has an [older version](http://pages.cs.wisc.edu/~solomon/cs537.html) which primarily uses Java. It also has a useful list of projects.
 
 <a id="TOSDB" href="#TOSDBref">^</a>1 - Used as the reference for
 
+- [CSE506 at SUNY, SB](https://compas.cs.stonybrook.edu/courses/cse506-f13/)
+- [CMPSC473 at UPenn](http://www.cse.psu.edu/~trj1/cse473-s09/)
+- [COP4610/CGS 5765 at FSU](http://www.cs.fsu.edu/~awang/courses/cop4610_f2015/)
+- [CSS 430 at UWB](http://courses.washington.edu/css430/) which primarily uses Java
 - [CS 385 at UIC](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 - [CM's 15-410](https://www.cs.cmu.edu/~410/)
 - [CS 347 at IITB](https://www.cse.iitb.ac.in/~mythili/teaching/cs347_autumn2016/index.html) where reading through MIT's [xv6 Operating System](https://pdos.csail.mit.edu/6.828/2012/xv6.html) is mandatory
@@ -435,7 +441,7 @@
 
 <a id="OSIDP" href="#OSIDPref">^</a>3 - Used as the reference for
 
-- [TOM-2.1-CS at UT](https://wwwhome.ewi.utwente.nl/~pieter/CS-OS/)
+- [TOM-2.1-CS at UT](https://wwwhome.ewi.utwente.nl/~pieter/CS-OS/) which also has video lectures
 
 <a id="OSTEP" href="#OSTEPref">^</a>4 - [**OSTEP**](http://pages.cs.wisc.edu/~remzi/OSTEP/) was made as a companion for [CS 537 at UWISC](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/), which is freely available. The professors also recommend reading classic texts such as [^](#LKDref)8 and **The C Programming Language** (K&R). Used as a reference for
 
@@ -446,6 +452,7 @@
 <a id="OSPP" href="#OSPPref">^</a>5 - Used as the reference for
 
 - [SU's CS140](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring18/index.php)
+- [CS 162 at Berkeley](https://cs162.eecs.berkeley.edu/)
 - [Yale's CS422/522](http://flint.cs.yale.edu/cs422/)
 
 <a id="OSIDDP" href="#OSIDDPref">^</a>6 - Used as the reference for
@@ -454,7 +461,7 @@
 
 <a id="OSCE" href="#OSCEref">^</a>7 - Basically a cheaper version of [^](#TOSDBref)1 recommended as the reference textbook for [CU's COMS W4118](http://www.cs.columbia.edu/~jae/4118/).
 
-<a id="LKD" href="#LKDref">^</a>8
+<a id="LKD" href="#LKDref">^</a>8 - Used as the reference for
 
 - [CS 6560 at CSU EB](https://www.cs.rutgers.edu/course/operating-systems-design)
 
@@ -803,7 +810,7 @@ Online courses about Microprocessors are rather difficult to come by.
 
 ### Notes
 
-- [TYCS](https://teachyourselfcs.com/#networking) recommends [^](CNATDAref) for self study and also links to freely available online exercises/tutorials.
+- [TYCS](https://teachyourselfcs.com/#networking) recommends [^](#CNATDAref)1 for self study and also links to freely available online exercises/tutorials.
 - [GATech's CS 6250](https://www.omscs.gatech.edu/cs-6250-computer-networks) has a list of useful papers [on Udacity](https://www.udacity.com/wiki/ud819/resources). There are also many more amazing resources on the web.
 
 <a id="CNATDA" href="#CNATDAref">^</a>1 - Used as the reference for
@@ -1099,6 +1106,11 @@ Online courses about Microprocessors are rather difficult to come by.
    [CS 6210 - Georgia Tech](https://www.omscs.gatech.edu/cs-6210-advanced-operating-systems)  
    [COSC4321.03, COSC5421.03 - University of Waterloo](https://cs.uwaterloo.ca/~brecht/courses/4321/)  
    [CS 318/418/618 - John Hopkins University](https://cs.jhu.edu/~huang/cs318/fall17/index.html)  
+   [CSE506 - State University of New York, Stony Brook](https://compas.cs.stonybrook.edu/courses/cse506-f13/)  
+   [CMPSC473 - University of Pennsylvania](http://www.cse.psu.edu/~trj1/cse473-s09/)  
+   [COP4610/CGS 5765 - Florida State University](http://www.cs.fsu.edu/~awang/courses/cop4610_f2015/)  
+   [CSS 430 - University of Washington, Bothell](http://courses.washington.edu/css430/)  
+   [CS 537 - University of Wisconsin-Madison](http://pages.cs.wisc.edu/~solomon/cs537.html) (older version)  
    [CS 385 - University of Illinois, Chicago](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)  
    [CS 347 - Indian Institute of Technology, Bombay](https://www.cse.iitb.ac.in/~mythili/teaching/cs347_autumn2016/index.html)  
    [CS 543 - Drexel University](https://www.cs.drexel.edu/~jjohnson/2012-13/fall/cs543/)  
@@ -1111,6 +1123,7 @@ Online courses about Microprocessors are rather difficult to come by.
    [CS3013 - Worchester Polytechnic Institute](https://web.cs.wpi.edu/~cshue/cs3013/)  
    [CS-537 - University of Wisconsin-Madison](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)  
    [CS140 - Stanford University](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring18/index.php)  
+   [CS 162 - Berkeley](https://cs162.eecs.berkeley.edu/)  
    [CS422/522 - Yale University](http://flint.cs.yale.edu/cs422/)  
    [CS 140 - Harvard University](http://www.eecs.harvard.edu/~cs161/)  
    [COMS W4118 - Columbia University](http://www.cs.columbia.edu/~jae/4118/)  
